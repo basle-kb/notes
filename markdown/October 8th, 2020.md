@@ -1,0 +1,3 @@
+- {{[[TODO]]}} pay chase credit card
+- {{[[TODO]]}} write Rhodes Reference
+- [ACTS Board Meeting] -- [[October 8th, 2020]]

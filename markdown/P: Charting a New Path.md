@@ -1,0 +1,3 @@
+- cf. [Disruptive Transformation - A Way To Change Higher Education](https://www.forbes.com/sites/barbarakurshan/2020/07/29/disruptive-transformation-a-way-to-change-higher-education/#216783de3a4d) #newpath
+- 
+- 

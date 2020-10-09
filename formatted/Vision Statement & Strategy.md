@@ -1,0 +1,78 @@
+## Current Efforts and Expressing a Compelling & Faithful Vision
+    ### Imaginative Challenge:
+        Imagine if 30,000 TWU alumni had been formed by the very best of a TWU education -- how would the world be different? what impact would TWU have upon the world?
+    ### Problem -- the Job to be Done
+        for students: 
+            know:
+                1. who they are
+                2. what they believe
+                3. what to do in the world
+        for Christ:
+            
+        for the world: 
+        
+### Current Work on TWU Vision Statements
+    [Draft of TWU Vision Statements](<Draft of TWU Vision Statements.md>)
+        ^^Every graduate is equipped to work and live for the good of the world and the glory of God.^^
+        Question: would you affirm that this is a true statement about TWU at the moment?
+        
+        
+--------------------------------------
+Sample Vision Statements
+    Wheaton College
+        ## Our Mission
+        Wheaton College serves Jesus Christ and advances His Kingdom through excellence in liberal arts and graduate programs that educate the whole person to build the church and benefit society worldwide.
+        ## Our Motto
+        This mission expresses our commitment to do all things - "For Christ and His Kingdom."
+    Pepperdine
+        Pepperdine University will be a preeminent, global, [Christian university](https://www.pepperdine.edu/spiritual-life/christian-university/), known for the integration of faith and learning, whose graduates lead purposeful lives as servant-minded leaders throughout the world.
+    Baylor University
+        The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community.
+    Calvin University
+        By 2030, Calvin will become a Christian liberal arts university with an expanded global influence. We envision Calvin University as a trusted partner for learning across religious and cultural differences and throughout the academy, the church, and the world. Calvin University will be animated by a Reformed Christian faith that seeks understanding and promotes the welfare of the city and the healing of the world. We welcome all who are compelled by God’s work of renewal to join us in the formative pursuits of lifelong learning, teaching, scholarship, worship, and service.
+    Pepperdine University
+        Pepperdine University will be a preeminent, global, [Christian university](https://www.pepperdine.edu/spiritual-life/christian-university/), known for the integration of faith and learning, whose graduates lead purposeful lives as servant-minded leaders throughout the world.
+    Biola University
+        The vision of Biola University is to be identified among the world’s foremost Christ-centered universities — a community abiding in truth, abounding with grace and compelled by Christ’s love to be a relevant and redemptive voice in a changing world.
+    Redeemer University
+        To be internationally engaged as an excellent liberal arts and sciences university that is unabashedly Christ-centred and prepares students to reflect a distinctive worldview in any vocation and place they are called.
+    George Fox University
+        Key to their contemporary marketing strategy is the theme: "be known"
+            Our Promise
+                At George Fox, each student will [Be Known](https://www.georgefox.edu/be-known/index.html) – personally, academically and spiritually.
+            Core Themes
+                George Fox University’s mission can be expressed in four essential elements, or core themes:
+                    [Excellence in liberal arts foundation](https://www.georgefox.edu/about/mission_vision_values/core-themes.html[core-theme-1](<core-theme-1.md>))
+                    [Excellence in professional preparation](https://www.georgefox.edu/about/mission_vision_values/core-themes.html[core-theme-2](<core-theme-2.md>))
+                    [Christ-centered community](https://www.georgefox.edu/about/mission_vision_values/core-themes.html[core-theme-3](<core-theme-3.md>))
+                    [Local and global engagement](https://www.georgefox.edu/about/mission_vision_values/core-themes.html[core-theme-4](<core-theme-4.md>))
+    NorthPark University
+        Building on our core institutional identity—Christian, city-centered, intercultural—our vision is to create a university of uncommon character and enduring excellence, where faith, learning, and service meet.
+    Agnes Scott College
+        ## Values
+        ### A Commitment to Women
+        To a holistic approach to education for women, acknowledging the primacy of intellectual development, with integrating opportunities for physical, social, cultural and spiritual development.
+        To perspectives within the liberal arts tradition that are particularly significant for women.
+        ### A Commitment to Teaching and Learning
+            To academic excellence, rigor and creativity that engender the joy of learning.
+            To personal interaction between students and faculty with an emphasis on independent study and mentoring.
+            To the utilization of wide-ranging pedagogical techniques and technologies.
+            To an emphasis on collaborative learning
+        ### A Commitment to the Liberal Arts
+            To the experience of a broad range of liberal studies disciplines, including the humanities, fine arts, natural and social sciences with significant depth in a disciplinary or interdisciplinary major.
+            To the liberal arts as the indispensable foundation for professional life.
+        ### A Commitment to an Appreciation of Diverse Cultures
+            To curricula reflecting a wide range of original sources and scholarly critiques.
+            To a student body and a faculty who bring to Agnes Scott the diverse perspectives of their circumstances, cultures and backgrounds.
+            To respectful engagement with divergent ideas, philosophies and perspectives from all members of the college community.
+            To applied learning opportunities in local and international communities.
+        ### A Commitment to a Community that Values Justice, Courage and Integrity
+            To encourage the development of a spiritual commitment and a set of values that can serve as sources of vitality, meaning and guidance in the lives of students.
+            To support the development of leadership skills and community service experiences needed to become effective contributors to one's family, profession and to society and world citizenship.
+        __Endorsed by the faculty, April 1995; affirmed by the Board of Trustees, August 2002__
+        [](https://www.agnesscott.edu/about/mission-values.html#)
+
+# Backlinks
+## [September 8th, 2020](<September 8th, 2020.md>)
+- Discussion of [Vision Statement & Strategy](<Vision Statement & Strategy.md>)
+

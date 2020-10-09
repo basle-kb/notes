@@ -1,0 +1,6 @@
+- {[x] }} send Orientation video scripts to ELT
+- {[x] }} write to Mike asking for the cost of program analysis
+- {[x] }} write and memorize vision statement
+- [ ] Trinity Fellows Introduction
+- [ ] write to Jeff Greenman.
+- 

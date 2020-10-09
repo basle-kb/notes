@@ -1,0 +1,44 @@
+- 9-11am ELT Meeting
+    - 
+- 
+- 11am-12 Meeting with Jocelyn Li
+- 12-12:30 -- Lunch
+- 12:30-1: [Convocation Ceremony](<Convocation Ceremony.md>) Discussion with [James Tweedy](<James Tweedy.md>)
+- 
+    - Faculty
+    - Staff
+    - BOG
+    - Students
+    - Parents and Family
+    - Alumni
+        - 1. Fresh
+        - 2. f-15
+        - 3 15+
+    - Donors (3 meetings)
+        - MGO
+        - PGO
+    - Deans
+    - ULC
+    - Key Church Leaders
+- 
+- 1-2pm [Christian Wood](<Christian Wood.md>)
+    - Mike - Program Priotization
+        - q. problem with "workload points"
+        - [Development ](<Development .md>)
+            - review: https://admin-twu.slack.com/files/U010VKB3FAL/F018FN2P02K/development_sprint_1.docx
+                - Goal 3 - we have lots of numbers for which we don't have sufficient plans
+            - requests -- for [Christian Wood](<Christian Wood.md>) without taking the time to think through things before they contact him, and then insist that they need to meet:
+                - how much of this is a culture of entitlement and laziness?
+                - 
+            - Vacation - 
+- 2-3 [Innovation and Program Development](<Innovation and Program Development.md>) - with [Bob Wood](<Bob Wood.md>)
+    - {[x] }} finish [Trinity Fellows](<Trinity Fellows.md>) welcome letter
+    - 
+- 4-5pm [Innovation and Program Development](<Innovation and Program Development.md>) - with [Phil Laird](<Phil Laird.md>)
+- 
+- [ ] Finish MIndmaps of ELT re-org and send to Fred
+    - [ ] consult with Aklilu re: Leighton's schedule for budget and confirm schedule in email to Leighton.
+        - 
+- [ ] Write Essay prompts for all future ELT members 
+- [ ] Send to ELT the following todo items that we agreed upon:
+    - 

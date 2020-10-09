@@ -1,0 +1,48 @@
+- Communications Task Force Meeting: 
+    - Date: Monday, August 17, 2020
+    - Time: 01:00, PM 
+    - In attendance: James Tweedy (Chair), Becca Gust (co-ordinator), Winnie Lui (PR), Brian Kerr (Enrolment, OPCD), Mark Husbands
+- I. International Students
+    - Challenges crossing the borders?
+    - Currently in quarantine
+    - We have set up a 24hour attending International Student number - to provide counsel if anyone is facing a challenging time at the border. 
+    - "Enrolment Confirmation Letter"
+- II. Need to review [Sonya Grypma](<Sonya Grypma.md>)'s public facing [TWU COVID-19 (Public Facing document) Plan](<TWU COVID-19 (Public Facing document) Plan.md>).
+- III. [COVID-19 -- Health and Safety](<COVID-19 -- Health and Safety.md>)
+    - five current elements of communications:
+        - several reports (added Friday)
+        - expectations for Resident Students
+        - expectations for campus visitors
+        - health and safety week?
+- IV. Enrolment
+    - payments are running a fair bit behind last year (about 28%)
+        - trad UG, 2 to 5 %behind
+        - UG Global, 10-15% behind
+        - Graduate 10-15% above range
+    - admissions counsellors have not signaled any significant melt from course registration
+    - meeting on [August 20th, 2020](<August 20th, 2020.md>) will give the most up-to-date forecast. 
+    - Needs: 
+        - room for typical late push between now and drop/add -- current focus of admissions teams
+        - Pardot campaigns still reaching out to re-enrolees. 
+        - UG digital campaigns are life as of last Thursday.
+- V. Task Forces
+    - current status?
+        - a number of task forces have completed their work:
+    - on Friday, 4 out of 12 have reported. 
+- VI. Executive Summary of Recommendations to the Board
+- VII. Community Day - Talk
+    - What to share about the progress that we have made this summer
+- VIII. [TWU Access Launch](<TWU Access Launch.md>)
+- VIII. Scenario Planning 4 Response to COVID-19 Outbreak
+- 
+- NOTES:
+    - still planning mission, vision script for video
+    - Cultural Intelligence
+    - [ ] [August 18th, 2020](<August 18th, 2020.md>) write a statement for Winnie on "cultural intelligence"
+    - [ ] [Community Day Talk: August 24 ](<Community Day Talk: August 24 .md>)
+    - 
+
+# Backlinks
+## [August 17th, 2020](<August 17th, 2020.md>)
+- [Comms Team Meetings](<Comms Team Meetings.md>)
+

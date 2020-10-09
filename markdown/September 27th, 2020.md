@@ -1,0 +1,9 @@
+- {{[[TODO]]}}  review Phil Laird's Material
+- {{[[TODO]]}} 1.      Jordan Koslowsky – Rhodes Scholar endorsement
+    - I sent you the letter Bob Kuhn wrote, you were going to add an addendum.
+- {{[[DONE]]}} 2.      Save the Date Review (email from Meghan on 9/24/2020 12:34 pm)
+- {{[[DONE]]}} 3.      150 word message to students congratulating them on graduating needed Congratulation message needed – by first thing Monday – Sep 28 – this will be printed on a postcard sized paper that will be sent in the boxes of graduation items
+    - a bright, safe, and secure future. 
+    - as graduates of a global Christian university, you 
+- {{[[TODO]]}} 4.      For Pcard receipts, I need sign in information and password for SLACK, KINDLE, NY TIMES.
+- {{[[TODO]]}} review 5.      Also, on your AMAZON account, it seems you are being charged double for your Prime account – yearly membership and monthly (8.95 charge). Do you have another email or account that is associated with Amazon that might explain the 8.95 charges?

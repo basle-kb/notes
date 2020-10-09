@@ -1,0 +1,12 @@
+- Author:: [[davidsonccc.edu]]
+- Full Title:: Messages to Graduates - Davidson County Community College
+- Category:: #articles
+- URL:: https://www.davidsonccc.edu/virtual-commencement/messages-to-graduates/
+- ### Highlights first synced by #[[Congratulations Graduates - Short Message (150 words)]] [[September 27th, 2020]]
+    - **Congratulations, graduates! Forever people will recognize the Class of 2020 as a special group of students who faced a great challenge. May these unique circumstances give you resilience and inspire you to make the world a better place when you go back into it **
+    - In the fullness of time this will be one of your life defining moments, but for now it really stinks! How you respond shows the content of your character, so be strong and respond with love and compassion. Looking forward to great things from the DCCC Class of 2020!!! 
+    - Congratulations on your well-deserved success! Your commencement ceremony may not look the way you envisioned, but you should be proud of all your accomplishments. Best wishes on all your future endeavors. 
+    - Class of 2020, you have made it through a very challenging time. The future may have additional mountains to climb; but as you complete your success story, remember you have a family here at DCCC that is cheering for you every step of the way. 
+    - Resilience will be one of your defining features as the graduating class of 2020. Go out there and create the world of your dreams. Congratulations! 
+    - Congratulations Class of 2020 – DCCC is so proud of you and your accomplishments! I wish you the best as you start this new journey in your life especially during these times of uncertainty. Keep pushing on and achieving your dreams. 
+    - Class of 2020, you have my heart and my prayers. I know that many of you have successfully navigated challenging situations in the past, and while this one is certainly both historic and unique, I am confident that each of you will not only persevere, but learn from this experience. Keep fighting, stay hopeful and—most importantly—wash your hands. 

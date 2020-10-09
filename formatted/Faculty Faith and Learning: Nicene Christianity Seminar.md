@@ -1,0 +1,61 @@
+- Meet Professor Han-luen Kantzer Komline!
+- Originally from New Jersey, she attended Wheaton College for undergrad, then got her M.Div from Princeton Theological Seminary. Completed a Ph.D at Notre Dame, during which time she spent a year carrying out research in Heidelberg, Germany.
+- She and her husband are church historians, and they spent their first year of marriage teaching Enlish as a second language in China.
+- 
+- Professor Kantzer Komline's favorite theologian is Augustine, but John Calvin is a close second.
+- 
+- She is Her first book project, __Augustine on the Will: A Theological Account__, was published by  Oxford University Press. Her current project__ __is on novelty in early Christian theology.
+- Welcome, Professor Kantzer Komline!
+- 
+- **Nicene Christianity**
+    - Arian Controversy and Nicaea
+        - 4th century ("last century of Homer and the first Christian century")
+            - last century of antiquity, and the dramatic change for Christianity
+        - started in northern Africa - Alexandria
+            - Northern Africa is a cradle of Christianity
+                - a dispute broke out between a young charismatic priest, and his bishop Alexander
+                - Alexendar opposed this because it compromised Christian worship
+                    - i.e., you don't worship that which is not God
+                    - and Christ then, does not save you. 
+                    - Only God can do this. 
+                    - Alexander asserted the Son and the FAther are co-eternal, and co-relative (you can't understand the Father apart from the identity of the Son)
+                - Arius:
+                    - concerned about preserving Monotheism
+                        - if we don't give priority to the Father, we will end up with polytheism
+                        - believed it was unworthy of God to take on human flesh. 
+            - for all who are accustomed to the Christian faith - the incarnation seems inevitable. 
+                - For Arius, it is insulting to say that God has a body. 
+                    - Arius believed the Father had priority. 
+            - Arius was condemned by a small, local group of bishops and Arius left for Palestine -- he kept writing to advocate for his views from Palestine. Alexander, for his part, also did the same thing. 
+            - Soon the controversy took over the whole empire
+            - At the same time, Constantine had unified his entire empire (by 324) and in order to maintain the unity of the empire:
+                - he first attempted to write a letter - saying that this debate is "truly insignificant" - Arius and Alexander both disagreed with Constantine. 
+                - Constantine then called a council.
+                    - and he also didn't care about the outcome theologically, he was looking for a political resolution.
+            - How are the Father and the Son related?
+                - They came to affirm a Greek term: "homoousios"
+                    - asserting that Jesus is God
+                        - about 300 (250-300 bishops and lower-ranking clergy)
+                            - a number of these bishops had been victims of persecution (and had faced physical violence in giving up their bodies for true Christian belief)
+                            - affirmation: Jesus is not like God, he is full-strength divinity (not a watered down version)
+                        - "only-begotten of this Father" (not God's son in the way that we become children of God)
+                        - "very God of very God" (not just a subordinate god, but truly God in the same way that God the Father is truly God)
+                        - "of being of one substance" (a more pointed affirmation -- and one that Arius would not accept: used to isolate the key point of disagreement)
+                        - "came down from heaven" (eternal)
+                        - 
+                - Why affirm Christ's divinity?
+                    - Reason 1: Worship
+                        - Pliny's letter to Trajan of 113: hymns "to Christ as God"
+                        - bishops as "army of martyrs" - Theodoret; 5th century
+                            - how much did these bishops give up for the sake of worshipping Jesus Christ as God
+                    - Reason 2: Scripture
+                        - Arius was also a person of good intentions -- and tried to argue his position from scripture. 
+                        - HIs opponents consistently showed that Arius kept singling out one strand but ignored all other passages.
+                        - cf. Alexander's letter to Alexander no. 4
+
+                    - Reason 3: Athanasius
+                        - On the incarnation of the World 2.7 NPNF
+                            - "What -- ... For He alone, being Word of the Father and above all, was in consequence both able to recreate all, and worthy to suffer on behalf of all and to be an ambassador for all with the Father"
+                        - on worship: Lex orandi, Lex credendi
+                    - Case Study:
+                        - 

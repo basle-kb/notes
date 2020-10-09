@@ -1,0 +1,104 @@
+- Discussion of [[Vision Statement & Strategy]]
+    - self-interest of the audience
+        - Q. What will they learn or take with them when they want to explain what Trinity is
+        - Q. If I was a parent or donor:
+            - everybody can engage in this -- how is this vision also a guide to your action
+        - Does this statement help you on your walk with /. discipleship with Jesus
+    - "hope, healing, renewal" - inclusive
+    - 1. does it resonate with you. 
+    - 2. Christian witness and beyond
+        - **"Fully and Faithfully present" :** **Concept for Conversations**
+            - "Face the the World"
+            - Intro
+            - Body
+            - Statements / Prep
+            - Assets
+            - Mechanism for Engagement
+        - **""Fully and Faithfully Present: A Call to Conversation"**
+            - or
+        - **"Faithful Presence: A Call to Conversation"**
+- Trinity Fellows Program
+    - 3-4 minute introduction 
+        - born in cardiff
+        - emigrated to Canada at least 7 years old 
+        - son of an mechanical design engineer
+        - came to faith as a child - around 6
+        - loved sports (hockey, and soccer)
+        - loved music
+        - Music Major in University, then religious studies, 
+        - Became a theologian
+        - Married to Becky, with three adult children: Olivia, Elliott, Ethan
+- 
+    - I owe a great debt to three professors of theology: 
+- 
+- Chanhee
+- Sarah
+- Naomi
+- 
+    - ### Discussion 1: Hope and Expectations
+        - 
+- 
+- **Discussion 1: Hopes and Expectations**
+- Take a few minutes to write down your answers to these three questions:
+    - A. What are you most looking forward to in this fellowship?
+        - s. Mentorship
+            - Johanna W - super honest, and humble
+            - n. R.D. 2nd year. vision and purpose
+            - c. looking forward are to a mentor for the first time
+        - n. mentorship: 
+            - excited to see what leadership looks like. 
+        - c. how do things work 
+            - how can I contribute. 
+    - 
+- B. What are you most nervous about in regarding the fellowship?
+    - 
+- C. How do you want to grow as a result of these 8 months together?
+    - c. leadership is a foreign idea to me: I want to find a way to move past: “I’m not ready yet” 
+    - s. ability to trust myself more. capabilities, more clarity on the future.
+    - n. more direction, strengths, and weaknesses, leadership classes
+- 
+- D. What do you hope to learn as a Trinity Fellow?
+    - the way the organization works: non-profit, profit,
+        - organizational structure / operations
+        - where the money come from and where do you spend it. 
+    - how are decisions made
+        - I want to know where the issue started. 
+- Review and Discussion of "Expectations" document
+- 
+- 
+- 
+- **Meet & Greet, Break**
+- **Discussion 2: Vision & Calling **
+- "Six Essentials of the Vision and Calling Program"
+- Established in 2006 with a three-fold purpose:
+- 1. To provide a transforming experience for young adults;
+- 2. To increase the pool of talented emerging leaders entering the workforce;
+- 3. To educate and empower a commitment to the development of young leaders on the part of Christian organizations.
+- __The program is designed to benefit young adults while also adding short- and long-term value to participating organizations.__
+- A Key Essential: Experienced Leaders Mentoring the Next Generation of Leaders
+- https://vimeo.com/226461883
+- Q. What did you notice in the video that you have questions about?
+- Q. What seemed most valuable about the organization and quality of internships depicted in the video?
+- Q. What did you see that you hope will be part of your internship?
+- **Discussion 3: Leadership**
+- "I think it would be hard to come up with an issue that is of greater significance to the whole world actually than the issue of Leadership. The Christian leaders that demonstrate wisdom are the ones I want to hold up as exemplars. **Leadership is about Character in Action** (skills, abilities, talents, those things come in time)" -- Mark Labberton, President, __Fuller Theological Seminary__.
+- Q. What do you think about this statement?
+- Q. In what way(s) did your time at TWU help you to develop your character?
+- Q. Where are areas of leadership that you can identify you need or want to grow in?
+- Q. What questions about leadership do you have for Trinity Fellows Mentors?
+- **Discussion 4: Key Details -- Your Next Step(s)**
+- I. Housekeeping Details
+- 1. Slack
+- 2. Regular Meeting Schedule
+- group Trinity Fellows meetings
+- 1:1 Trinity Fellow and Mentor meetings
+- 3. ELT retreat -- lunch and an experiential learning activity
+- 4. Additional details items from Ann
+- **Conclusion**
+- A. Who and what is TWU?
+- Q. What questions might you have about the culture, identity, mission, vision of TWU?
+- B. What are you taking away from your first day?
+- 
+- {{[[TODO]]}} send Naomi the vision document
+- 
+- 

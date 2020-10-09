@@ -1,0 +1,4 @@
+- {{{[[DONE]]}}}} call Ann
+- {{{[[DONE]]}}}} send Bob copy of the Prioritization Mandate
+- Meeting with Jackie re: Budget
+    - 

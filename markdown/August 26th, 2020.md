@@ -1,0 +1,68 @@
+- {{[[TODO]]}} 8:00am Write [[TWU Spartan Foundation Report/Update: Dr. Mark Husbands (TWU President): September 2, 2020]]
+- {{{[[DONE]]}}}} 10am [[meeting]] with [[Ann Coats]]
+    - Current state of Imac for Office
+    - Student LIfe commissioning service -- speak for 15 minutes and speak to the annual theme, and affirm the value of student leadership. 
+    - {{[[TODO]]}} schedule a time to record it. 
+    - Question: am I participating in the commissioning part?
+    - {{[[TODO]]}} video recording of TWUSA tour and student life - talk with Danny (affirming incoming students, bring encouragement, recommendation to engage in community) Friday. 
+    - {{[[TODO]]}} review scripts
+    - [[Convocation Ceremony]] Discussion
+        - {{[[TODO]]}} review materials from [[Ann Coats]] and [[James Ellis]] for Convocation Ceremony -- we need to have a meeting with [[James Tweedy]]
+        - 
+        - 
+    - {{[[TODO]]}} give Ann, information on the two books for new faculty - devotionals. 
+    - {{[[TODO]]}} need to work on logistics and structure of Vision -- Statement
+    - {{{[[DONE]]}}}} Write Trinity Fellows welcome Letter [[Trinity Fellows]] correspondence tonight:
+        - express expectations on September 8. 
+    - Murdoch Meetings September 11
+- {{[[TODO]]}} 11am [[meeting]] with [[Carson Pue]]
+- {{[[TODO]]}} 12:30pm Ground-breaking - [[Fosmark]]
+- {{[[TODO]]}} 1:15 [[meeting]] with [[Fred Fleming]] and [[Ann Coats]]
+    - ELT participation
+        - Value with the Board interacting with ELT members
+            - an expense and good use of their time. 
+            - is it valuable to have them there. 
+                - 1. space
+                - 2. participation
+        - statement: mission, adherence, statement 
+- {{[[TODO]]}} Trinity Fellows Welcome Letter
+- 
+- {{[[TODO]]}} [[Write]] Kauffeldt's Card
+    - One inspiring example of the moral courage we've seen in our alumni community during this time comes from Trinity Western double alumna, Dr. Bev Kauffeldt (’93, ’03). When thousands of Canadians were scrambling to return home last week, Dr. Kauffeldt bravely left Canada for Cremona, Italy, where **[she is providing leadership and medical care in a 68-bed field hospital south of Milan](https://calgaryherald.com/opinion/corbella-canadians-helping-in-the-centre-of-italys-covid-19-storm/?utm_source=ALUMNI+MASTER+LIST&utm_campaign=b64d2497db-EMAIL_Chapter_MN_Launch_2016_11_23_COPY_01&utm_medium=email&utm_term=0_2d8fe90460-b64d2497db-&mc_cid=b64d2497db&mc_eid=[UNIQID]).**
+    - This is no easy thing. As you know, COVID-19 has become a global pandemic threatening lives and economies throughout the world. It is our prayer that God will protect, strengthen, and guide medical workers, like Dr. Kauffeldt, who are providing vital and life-saving care.
+    - Note for Kauffeldt's
+    - Thank you for your great idea about contacting Samaritans Purse. I was able
+    - to get some suggested sizes for Kendell and Bev and I received an updated
+    - address for them that we didn't have in the TWU system.
+    -  The TWU jackets
+    - are ready to send to them as soon as your note (or letter) is ready.
+    - FYI - Historical information – The Kauffeldt’s
+    - ·
+    - They received the Calvin & Muriel Hanson Raw Edge of Faith Alumni
+    - Distinction Award in
+    - 2015 for their work in the Ebola Crisis
+    - ·
+    - They work for Samaritan’s Purse – she most recently in Italy working in
+    - the COVID crisis.
+    - Bev
+    - ·
+    - Did her undergrad here and the MAL Program
+    - ·
+    - Played on the Women’s Basketball team for 4 years
+    - ·
+    - Played on the Women’s Hockey team for 1 year
+    - ·
+    - Worked in Admissions before 1997 (not sure how long)
+    - Kendell
+    - ·
+    - Is also an alum
+    - ·
+    - Played on the Men’s Basketball team for 4 years
+    - ·
+    - Was head coach of Women’s Basketball in 1992 (not sure how long)
+- 
+- 
+- priotitization.
+- brand, mission, vision
+    - fully integrated.
+- reinvent itself

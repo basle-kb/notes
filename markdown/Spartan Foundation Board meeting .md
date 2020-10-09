@@ -1,0 +1,19 @@
+- [[September 2nd, 2020]]
+    - 
+- [[Speaking ]]at this event
+    - share about this past year, from your perspective along with an informal Q&A
+    - [Foundation Board Agenda](https://www.dropbox.com/s/itiq6qelkg5ivlf/Agenda%20SF%20BOD%20Meeting%20%231%20Year%2012%20-%20Sept.%202%2C%202020.doc?dl=0)
+- {{{[[DONE]]}}}} Write Report for Spartan Foundation Board
+    - {{{[[DONE]]}}}} submit report by ?
+    - Address:
+        - [[TWU Spartan Foundation Report/Update: Dr. Mark Husbands (TWU President): September 2, 2020]]
+            - Financial update
+            - COVID-19 issues and plan for Fall 2020
+            - Staff / Faculty update
+            - Fall enrolment update and numbers
+            - Dorm update for the fall
+            - School of Business building update?
+            - TWU Fundraising update
+            - Praise Items? Life changing stories?
+            - Exciting things going on at TWU….
+            - Other?

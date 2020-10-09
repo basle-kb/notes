@@ -1,0 +1,20 @@
+- Write [[Rhodes Scholar Letter of Reference]]
+- Ann
+    - {{[[TODO]]}} Rhodes
+    - {{[[TODO]]}} Fall Graduation filming
+    - {{[[TODO]]}} Tuesday filming for Vision
+    - {{[[TODO]]}} Meeting Faculty of Color
+    - {{[[TODO]]}} Phil Laird
+    - {{[[TODO]]}} Margaret's letter - voluntary contribution
+    - {{[[TODO]]}} CHEK meeting, board meeting
+    - {{[[TODO]]}} Development items to finish
+- [[First Destination Survey -- Meeting]]
+- [[1:1 Meeting - Christian Wood]]
+- Police
+    - note to ELT
+    - notice to Jack
+    - to rest of staff: you can indicate that the gentleman has passed, but the message does not change:
+        - it is under investigation by IHIt and the University should not comment on any of this beyond what we have already noted. 
+    - message: no safety concerns at this time...
+        - keep communication outward rather limited. 
+    - 

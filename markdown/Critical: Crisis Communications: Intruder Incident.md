@@ -1,0 +1,12 @@
+- Key Steps:
+    - Thursday morning:
+        - Legal Counsel
+        - PR Firm - Crisis Communications
+            - Who greets them:
+                - {{[[TODO]]}} close the gate
+                - {{[[TODO]]}} Emily/Kim - notify PR Contact
+            - it was an unfortunate incident, the u. is fully co-operating with the rcmp,  and we have no further comment at this time.
+            - until the official investigation is complete
+            -  
+            - Sample Statement: "This was an unfortunate incident. The University is fully cooperating with the RCMP. There is an active investigation underway and we have no further comment at this time."
+            - 

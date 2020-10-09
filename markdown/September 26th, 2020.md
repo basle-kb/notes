@@ -1,0 +1,48 @@
+- {{[[DONE]]}} Project Brief Sent to Comms Team [[TWU Gathering: Gratitude & Celebration]]
+    - Include: 
+        - **Introduction by the President**
+            - Possible excerpt from larger piece currently being written by Winnie documenting the remarkable season of "team of team collaboration" and impact upon TWU as a "Learning Community" and embodiment of 1 Cor:12:14-20.
+        - **Time and Place**: 
+            - Week of October 5-9
+            - Place: Public Gathering space (cf. "**Health and Safety Guidelines**")
+        - **Purpose:** Gather to celebrate, pray, and express gratitude for God's provision (glorify God and build morale)
+        - **Details to be included:**
+            - Brief note from Brian: Enrolment Statistics
+            - Brief note from Aklilu: Finance Update - Enrolment and CEWS impact on budget
+            - **Health and Safety Guidelines**
+                - If area managers/ deans arrange celebrations with the following parameters, there is no need for additional approval through the TWU Public Health Team: **O:6:3:2**
+                - **O**utside**:** max **6** people per group**:** max **3** groups: max **2** hours
+                    - 1. Outside
+                        - Book a space on-campus through Patti White in Student Life, OR
+                        - Find a public outdoor park/location (please check local municipality guidelines about gathering in parks to ensure requirements are met)
+                    - 2. 6 people per small group, up to 3 groups at one location for a total of 18
+                        - If Faculties/departments want to host something for > 18, please submit a TWU Event Risk Assessment form to [returntocampus@twu.ca](mailto:returntocampus@twu.ca) for review by Oct.1
+                    - 3. Time limit: 2 hours
+                    - 4. Bring your own chairs, masks and personal hand sanitizer
+                    - 5. Food:
+                        - Bring your own, OR
+                        - Provide pre-packaged food or drinks (e.g. canned/bottled beverages, individually wrapped cookies, small bags of trail mix or chips)
+                        - Self-serve style: laid out on a table or surface
+                        - Must have hand sanitizer present for use before going through the station
+                        - Must ensure physical distancing in food line up
+                            - Area Manager/Dean must keep contact list of all who attendance, in case contact tracing is necessary
+                    - 6. Please adhere to  [General Expectations](https://mytwu.sharepoint.com/:w:/r/sites/COVID-19/_layouts/15/Doc.aspx?sourcedoc=%7B28AF978C-DD94-4E6B-BF81-A707190502F6%7D&file=TWU%20Return%20to%20Campus%20General%20Expectations.Fall%20Update.docx&action=default&mobileredirect=true)
+                    - 7. Any questions, please contact the TWU Public Health Team at [returntocampus@twu.ca](mailto:returntocampus@twu.ca)
+            - S**uggestions for Scripture and Prayer**
+                - (options -- invite Rev. Ellis to write and submit these for inclusion)
+        - Comms Strategy: 
+    - 
+- {{[[TODO]]}}  find Drafts and contact Scott and Adrienne Tigler's new U.S. student 
+    - {{[[TODO]]}} send note to new U.S. student
+    - 
+- {{[[TODO]]}} ask @Ann to schedule future meeting re: ^^Decision^^: Aklilu -- with Phil and Brian: after the budget process is complete, we ought to engage in a "moving to a new normal" assessment to anticipate costs, capacity, for meeting new demand.
+- {{[[DONE]]}} ask Ann to schedule someone for Devotions - upcoming ELT meeting
+- {{[[DONE]]}} ask Aklilu re:  ^^Decision^^: Aklilu and Mark: bring closure to the four constituent groups that were engaged 
+    -  
+- {{[[TODO]]}}  review Phil Laird's Material
+- {{[[TODO]]}} 1.      Jordan Koslowsky – Rhodes Scholar endorsement
+    - I sent you the letter Bob Kuhn wrote, you were going to add an addendum.
+- {{[[DONE]]}} 2.      Save the Date Review (email from Meghan on 9/24/2020 12:34 pm)
+- {{[[TODO]]}} 3.      150 word message to students congratulating them on graduating needed Congratulation message needed – by first thing Monday – Sep 28 – this will be printed on a postcard sized paper that will be sent in the boxes of graduation items
+- {{[[TODO]]}} 4.      For Pcard receipts, I need sign in information and password for SLACK, KINDLE, NY TIMES.
+- {{[[TODO]]}} review 5.      Also, on your AMAZON account, it seems you are being charged double for your Prime account – yearly membership and monthly (8.95 charge). Do you have another email or account that is associated with Amazon that might explain the 8.95 charges?

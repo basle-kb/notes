@@ -1,0 +1,1 @@
+- O Eternal God, bless all schools, colleges and universities, especially Trinity Western University, that they may be lively centers for sound learning, new discovery and the pursuit of wisdom; grant that those who teach and those who learn may find you to be the source of all truth. (Anglican Collect — __Book of Common Prayer__)

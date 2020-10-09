@@ -1,0 +1,4 @@
+- COVID-19 Checkin
+    - {{{[[DONE]]}}}} https://bc.thrive.health/
+    - {{{[[DONE]]}}}} [log use of campus space](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/Requests/TicketRequests/NewForm?ID=1667BlHMHXs_)
+- -----------------

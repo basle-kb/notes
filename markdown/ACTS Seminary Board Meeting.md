@@ -1,0 +1,27 @@
+- [[October 8th, 2020]]
+    - 8:30am - 2:30pm
+- AGENDA
+    - **1.     ****Beginnings**
+    - **2. Minutes**
+    - **3. Recommendatiozxxz2>?<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<?<<<<<<<<<<<<<<<<<<<<<<<<<<<ns** 
+    - ^^TWU Report^^
+        - Amidst an unprecedented season of challenge, I am profoundly moved by the tireless effort, dedication, and teamwork on display among TWU staff and faculty. Everyone at TWU has played an important role in preparing the University to welcome a significant cohort of students this fall and it is my privilege to share with you the final enrolment numbers for Fall 2020—a testament to God’s faithfulness to our University and community.
+        - In May 2020, with less than 120 days to achieve our aim, and using a team-of-teams concept, TWU launched twelve cross-functional, COVID-19 task force groups with gifted leaders from across campus. These task force groups joined efforts to pursue a single objective: to prepare the University to educate a significant cohort of students this fall and spring by expanding our face-to-face campus learning experience with an innovative, multi-access delivery model—so that all students can enjoy the riches of a Trinity Western University experience.
+        - Essential components to success were the commitment and resilience of the student body, the dedication and adaptability of staff and faculty, and the ongoing support, prayers and encouragement of our donors, alumni and friends of TWU.”
+        - We all recognize that the strong Fall enrolment results are the product of a major concerted effort across all areas of campus.
+        - **This spring, we re-invented our modes and methods of delivery for courses, student life and student services**, and initiated significant strategic and operational changes within the University in a very short time period.
+        - During the past half-year, we have seen a number of significant advances in Trinity Western’s innovation, including: the [TWU Live](https://twu.us4.list-manage.com/track/click?u=fb3b49b48f2565494ac1ffb8d&id=7777d9da76&e=a87c730b47) event series, welcoming prospective students on a virtual journey to TWU; the [Journey Forward Grant](https://twu.us4.list-manage.com/track/click?u=fb3b49b48f2565494ac1ffb8d&id=ac81961fb5&e=a87c730b47), providing special COVID-19 financial aid to students; and the new [TWU Access](https://twu.us4.list-manage.com/track/click?u=fb3b49b48f2565494ac1ffb8d&id=33ecd63470&e=a87c730b47) student experience.  None of these developments could have happened without the dedication and teamwork among TWU staff, faculty, generous donors and the supporting community.
+        - **While enrolment results are encouraging, we have experienced the effects of the global pandemic in other areas. ** With on-campus residences reduced to 50% capacity due to COVID-19 restrictions, ancillary services for the University have seen a significant drop in revenue of about 13 million from our pre-covid 2020-2021 budget. 
+        - A number of our faithful donors have felt the profound effects of the global pandemic—both personally and in their businesses. Even in this setting, donors continue to invest and give generously so that we can continue to serve Christ and seek to advance the work of the kingdom through the vital mission of our University
+        - Having taken vital measures for cost containtment, and with a significant reiumbursement from the federal government with CEWS, we have since developed a new 2020-2021 budget that projects a positive cash flow of $670,000 
+        - **Trinity Western University has just received the highest enrolment in its 58-year history.**
+        - Within traditional four-year undergraduate programs, enrolment increased 1.1%. Within non-traditional or flexible undergraduate programs—including certificates and degree completion programs—enrolment increased 6%. Among graduate programs, enrolment grew 35%. The overall headcount among all of our programs grew from 4,476 to 4,774, representing a robust 6.7% growth overall.
+        - Richmond have had a strong Fall start at TWU Richmond, with our student leaders working hard to launch 18 student club events in the first 3 weeks, seeing 150+ participants. I’m especially thrilled that we now have our first official/organic student-led “Christian Club” - this is an answered prayer. There are good things happening and we are excited to impact Richmond students with His love this semester.
+        - Every one of you has made a sacrifice to see the mission of TWU carry on, and I wish to personally thank you for your continued dedication and faithful service, as together, we look forward to sharing the wonderful news of God’s ongoing faithfulness and blessing upon Trinity Western as a global Christian University.
+        - Let us pray that the Lord would continue to grant us wisdom for the season that lies ahead.
+        - Grace and Peace,
+        -  
+    - [[ACTS Seminaries — Questions]]
+        - What is the financial model between ACTS World Campus and ACTS
+            - does NB seminary make an undue revenue from this.  
+            - 

@@ -1,0 +1,2 @@
+- write [[Trinity Western Seminary -- Welcome Address]]
+- 

@@ -1,0 +1,18 @@
+- Books
+    - Author:
+    - Reading Status:
+    - Recommended by:
+    - Tags: #Books
+- Articles
+    - Author:
+    - Source:
+    - Recommended by:
+    - Tags: #Articles
+- Projects:
+    - Due Date:
+    - Status:
+    - Related Goals:
+    - Success Criteria:
+    - Tags: #Projects
+- 
+

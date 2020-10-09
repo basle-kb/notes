@@ -1,0 +1,52 @@
+- ## Job Posting
+    - On LinkedIn: https://www.linkedin.com/jobs/view/2163743118/
+- ### Current list of Candidates (14)
+    - Sarah Nelems: https://www.linkedin.com/in/sarahnelems/
+    - Joseph Vogel
+    - John Volponi
+    - Olufemi Bamidele
+    - Rob Dickson: https://www.linkedin.com/in/rob-dickson-a914a748/
+    - Mark Miles: https://www.linkedin.com/in/mcmiles/
+    - Bradly Bartsch: https://www.linkedin.com/in/bradley-bartsch-b0947915/
+    - Jacob Shwartz
+    - Reh Nazerali
+    - Evan Slade
+    - Alain Joyal
+    - Andrew Chan: https://www.linkedin.com/in/andrewchan1/
+    - Kara Grist
+    - --------------------------------------------------
+- ## Possible Follow-up with these Candidates:
+    - [ ] Ray Marshall  followup with Paul for political reasons
+    - Sarah Nelems [September 27th, 2020](<September 27th, 2020.md>)
+        - [LInkedIn profile](https://www.linkedin.com/in/sarahnelems/)
+        - [Application Materials](https://www.dropbox.com/sh/xmzu9qgd7k47je3/AABvkxcJAyBgio_grCvNUTW4a?dl=0)
+    - Rob Dickson [September 24th, 2020](<September 24th, 2020.md>)
+        - [LInkedin profile](https://www.linkedin.com/in/rob-dickson-a914a748/)
+        - [Application Materials](https://www.dropbox.com/sh/mdutrvoib3arobf/AAB4d8_-IhjF6WfCmoPbUVkpa?dl=0)
+    - Mark Miles [September 22nd, 2020](<September 22nd, 2020.md>)
+        - [LInkedIn profile](https://www.linkedin.com/in/mcmiles/)
+        - [Application Materials](https://www.dropbox.com/sh/lf27bgp5sxkp5da/AAD_VqQ3XEpbdZPn13-uklbta?dl=0)
+    -  Bradley Bartsch [September 22nd, 2020](<September 22nd, 2020.md>)
+        - [LinkedIn Profile](https://www.linkedin.com/in/bradley-bartsch-b0947915/)
+        - [Application Materials](https://www.dropbox.com/sh/hdb3uy9otgx0oqe/AACEhuBk-AuilVAWHF-MD1doa?dl=0)
+    - Andrew Chan [September 17th, 2020](<September 17th, 2020.md>)
+        - [LinkedIn Profile](https://www.linkedin.com/in/andrewchan1/)
+        - [Application Materials](https://www.dropbox.com/sh/cwz2ufupl0xuyju/AADh2Xh8_smaj849V0A1zmkLa?dl=0)
+- -------------------------------------------------------
+- Margaret contacts the candidate pool
+    - indiates they will be sent a link for a video interview - asyc
+    - they log ino and submit their interview
+        - we follow up with an expression of thanks and indicate i
+    - Q. who do we want to serve on the review "panel"?
+- 
+- Will not be considering:
+    - Joseph Vogel
+    - John Volponi
+    - Olufemi Bamidele
+    - Jacob Shwartz
+    - Reh Nazerali
+    - Evan Slade
+    - Ray Marshall
+    - Alain Joyal
+    - Kara Grist
+- 

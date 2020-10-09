@@ -1,0 +1,16 @@
+- [Zettelkasten](<Zettelkasten.md>)
+- [Heilmeier Catechism](<Heilmeier Catechism.md>)
+- [Ness Labs](<Ness Labs.md>)
+- 
+- __If you’re using the Chrome extension and want to make it even more useful, go to the shortcuts page in your settings, and type either Shift+CMD+R or Shift+CTRL+R under the +Roam extension. Now you can highlight text, type the keyboard shortcut, and the pre-formatted snippet will pop up.__ — via [+Roam, a bookmarklet for Roam Research - Ness Labs](https://nesslabs.com/roam-research-bookmarklet) [+Roam](<+Roam.md>)
+- 
+- 
+- __Okay, so what is Roam and how does it work? At the heart of Roam you have the concept of the graph, which will be familiar to everyone who knows what mind mapping is. Mind mapping is basically as visual way to make sense of the world. It’s a visual diagram that helps you connect information around a central concept. Starting from the centre, you use branches to connect new concepts together. Mind mapping has been linked to better memory and recall, better creativity, and better connections between concepts.__ — via [How to use Roam Research: a tool for metacognition - Ness Labs](https://nesslabs.com/roam-research)
+- 
+- throughout
+- 
+- #[Quick Capture](<Quick Capture.md>)
+    - {[x] }} test shortcut for quick capture
+- #[Quick Capture](<Quick Capture.md>)
+    - write thank you note to Kevin Harwood
+    - write thank you cards to keufeldts

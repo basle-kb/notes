@@ -1,0 +1,70 @@
+- Opening
+    - Welcome
+        - 16 sessions are being held with a variety of constituent groups:
+            - Board
+            - Staff
+            - Faculty
+            - TWU Students
+            - TWU Graduate Students
+            - TWU Richmond Students
+            - Church & Parachurch Organizations
+            - ULC
+            - Dean’s Council
+            - Donors
+            - Alumni
+            - Parents & Family
+    - zoom tip: 
+        - speaker view
+        - We would love for you to introduce yourself:
+name, program, and an interesting fact about yourself.
+    - Introduction:
+        - Before I begin, I would love for you to stop, just for a moment, and ask yourself: “what am I hoping to get out of this conversation?"
+        - Lets begin...
+- 
+- Outline:
+    - Introducing: A job to be done theory
+    - I. If there is no map, how do you find your way
+    - II. How do you design a well-lived, joyful, and faithful life?
+    - III. Vision
+- 
+- Conversation
+    - Introducing: A job to be done theory
+        - Competing Against Luck
+            - Key insight: "Customers (or in our case, **students**) don’t buy products and services — **they hire them **to do a job in their lives that resolves their struggles for progress."
+                - an Example: from Theodore Levitt — Harvard Business School Professor of Marketing:
+                    - ”People don’t go to a hardware store to buy a quarter-inch drill. What they want to buy is a quarter-inch hole in the wall."
+        - Faith for Exiles - Barna
+            - What if one of the key struggles for progress that students need help with is the issue of faith - of intellectual and spiritual formation?
+    - I. If there is no map, how do you find your way
+        - Discuss: Christian Smith Quote
+            - ^^Prompt: what does this passage tell us about the struggle that many students are facing?^^
+            - ^^Prompt: what role should Trinity Play in helping students to navigate life well?^^
+    - II. How do you design a well-lived, joyful, and faithful life?
+        - Quote from Burnett and Evans
+            - Key: living coherently requires an awareness of three things and an ability to see how they are related at any given point in your journey.
+        - Three things
+            - 1. Who are you?
+            - 2. What do you believe?
+            - 3. What do you want to do? 
+            - It is about wayfinding — without a map, you need to be able to navigate well — landmarks could help — points of reference to help you stay on track
+                - Where will students find a place that **supports** them in **discovering** answers to these questions?
+                - Where will students develop the basic **intellectual tools** and basic **personal, spiritual**, and **career formation** needed to navigate life well?
+        - Mary Oliver — “Tell me, what is it you plan to do with your one wild and precious life?
+            - Discuss: 
+                - ^^How excited would you be if TWU devoted resources and staff to helping students reflect upon, plan for, and engage in an iterative process of personal growth, development, reflection, and learning?^^
+                - ^^Do you believe that we should do this?^^
+    - III. Vision
+        - Defining Terms
+            - Nike
+            - Biola
+            - Gordon
+            - Other Vision Statements
+            - TWU MIssion and (vision)
+            - ^^Prompt: what are your reflections on these draft vision statements"
+                - “As a global Christian University, we equip/inspire students to … “
+                    - be fully and faithfully present in the world as agents of hope, healing and renewal.
+                    - bring the promise of hope, healing and renewal to every person in the world.
+                    - let their light shine before others, do good work, and glorify God.
+                    - think truthfully, act justly, and live faithfully for the good of the world and the glory of God.
+    - Concluding Question: ^^What are you taking away from this conversation?^^
+    - Invitation to receive more comments via email.

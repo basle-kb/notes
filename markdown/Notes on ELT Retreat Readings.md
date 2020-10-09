@@ -1,0 +1,160 @@
+- Here is the list of topics with accompanying readings and "assignments to facilitate the discussion"
+- ^^TOPIC, Readings, and Facilitator^^
+    - 1. In order to prepare to introduce this reading, ask yourself the following question (before you start the reading): what did you think this topic/article was going to be about?
+    - 2. After completing the reading, and as you prepare to introduce it, ask yourself “how has my mind changed as a result of today’s reading(s)?
+    - 3. Identify what, in your opinion, is the most important passage from the assigned reading and be prepared to explain why this is the case.
+    - 4. What two questions about this topic do you hope that we answer today – i.e., what are the most important questions left for you that you hope to better understand at the conclusion of our time together?
+    - 5. How might this topic and reading enable ELT and TWU to make significant progress this year. In a season of disruption, we have the opportunity and need to reimagine all that we are doing to determine how best to (1) determine the "job that needs to be done" among our existing and prospective students; (2) realign key facets of what we have been doing to more successfully deliver a compelling value proposition. 
+    - 
+    - ### Enrolment Challenges at Evangelical Institutions
+        - ["Hundreds of Positions Eliminated at Evangelical Colleges and Universities"](https://www.dropbox.com/s/in09fwimgyvxe0g/Hundreds%20of%20Positions%20Eliminated%20at%20Evangelical%20Colleges%20and%20Universities.pdf?dl=0) — Mark Husbands
+            - 1. I thought that this piece would offer specific reasons for general enrolment challenges (tied to both COVID-19 and immanent national declines in US enrolment following 2025)
+            - 2. We have been preparing for significant enrolment challenges for a decade in the U.S. -- changes seem to be now underway and COVID-19 has either accelerated or highlighted structural flaws (i.e., the challenge of being enrolment driven without the protection of a sufficient endowment to protect against an economic downturn).
+            - 3. Here is my sense of the most important passage(s):
+                - A key observation by Shirley Hoogstra, the President of CCCU:
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FXjvj5T1yCH.png?alt=media&token=278101cb-5177-4e2c-a053-63300ce7cbea)
+            - 4. What two questions about this topic do you hope that we answer today:
+                - ^^Q.1. Is TWU, as a whole, fully alert to how vulnerable we are, or is the majority in denial/ignorance?^^
+                    - cf. Scott Galloway's somewhat problematic, but prescient article: "[**This Chart Predicts Which Colleges Will Survive the Coronavirus**](https://marker.medium.com/this-chart-predicts-which-colleges-will-survive-the-coronavirus-8aa3a4f4c9e6):
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FhM4UE7bFlZ.png?alt=media&token=fd4d3b6c-93aa-442c-b465-16d01bceefe3)
+ – i.e., what are the most important questions left for you that you hope to better understand at the conclusion of our time together?
+                    - ^^Q2. How might we build an awareness of our vulnerability without creating undue fear or uncertainty?^^
+            - 5. How might this topic and reading enable ELT and TWU to make significant progress this year? 
+                - **Q. What steps do you think that we -- as Administrators -- will need to do in order to be "extraordinarily strategic" (even while this is "still no guarantee of survival")?**
+            - 
+        - 
+    - ### The Changing Face of Work
+        - ["The Future of Work: Part One -- The changing workplace and the dual threats of automation and a gig economy"](https://www.dropbox.com/s/hott7ruxsm3g4uw/future-of-work-part-1.pdf?dl=0) — Aklilu Mulat
+            - ** Comments on Reading **
+                - (p. 3)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FQKl8C6ZT51.png?alt=media&token=e4022726-b909-47fd-be8d-83070374cc41)
+            - Q. Do we highlight specific ways in which a TWU education (at any level) helps students to develop these key skills?
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FJcn9hdlynZ.png?alt=media&token=220df88c-dc6e-4389-bd46-bb3aa193b752)
+            - Again, do we help prospective and existing students realize how crucial and useful are the following skills:
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FRTGeBQWaDf.png?alt=media&token=34b9eb4d-6db4-45aa-a9a7-9e1792dea31c)
+            - Q. How helpful and persuasive do you think it would be to foster an institution-wide commitment to developing "T-shaped students"? Ought this to be a TWU distinctive?
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FXIzUyEFifs.png?alt=media&token=cf2f7ec9-7ff9-4214-b1d2-1720cba66fd8)
+                    - Here are three key mindsets that are worth developing: 
+note: "belonging" is a mindset that cultivates students who seek out opportunities to participate in communities with different backgrounds. 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FUZNj6w4OmF.png?alt=media&token=ab023b04-79e3-4863-804f-ce881db05baf)
+        - [Washington Post Opinion Piece by Jeffrey J. Selingo, June 1, 2016 ["The myth of the well-rounded student? It’s better to be ‘T-shaped’."](https://www.dropbox.com/s/wewot5uukp3riyo/Opinion%20%7C%20The%20myth%20of%20the%20well-rounded%20student%3F%20It%E2%80%99s%20better%20to%20be%20%E2%80%98T-shaped%E2%80%99..pdf?dl=0) — Richard Taylor
+            - ** Comments on Reading **
+                - Although it is important to develop "T-shaped students" -- it is not entirely clear how to do so (p. 3):
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2F9EZmS9tF8C.png?alt=media&token=ab2cbddd-9c62-4a41-9b29-e4f7b483af9b)
+                - ^^N.B. It is crucial to help students build a compass rather than construct a map^^.
+                - - how and what can we do to add vocation/calling to the T-shaped person
+                    - - what does career development look for the 600 IDC students
+identity formation in terms of social structures is very important
+                        - so, don't just focus on personal identity formation as an individual internal project
+                            - where students work, what church communities, etc., they join have an immense impact upon their formation identity. 
+                            - do we put much effort into figuring out pathways for our students
+        - [“The Future of Work: Part Two — How higher education can better meet the demands of the 21st century workforce”](https://www.dropbox.com/s/u2aso8ize3eb9av/future-of-work-part-2.pdf?dl=0) — Phil Laird
+            - ** Comments on Reading **
+                - Q. What if this is no longer true?
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FZ0_n80Q0rl.png?alt=media&token=86ab5f79-3809-4964-853f-ac13a7d99ce4)
+                - Q. Will we be able to demonstrate sufficient discipline to make sure that we do not simply two program development to immediate market demands?
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FXEw4ptFyzW.png?alt=media&token=48fe549b-3c6e-443e-89a5-72b16f7d3dd4)
+            - Q. What will it take to ensure that our degree programs focus on developing cognitive skills?
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FavDLidt_t2.png?alt=media&token=da4f4c80-0a14-40a7-b448-eb2af5c977d1)
+            - Q. What will be required of us to become a truly agile, adaptive, imaginative University?
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FIG4JjzVJ5_.png?alt=media&token=ed538293-ac34-47d1-9d94-1777e8d080f7)
+                    - 1. Restructure the largely single-pathway to College
+                    - 2. Transform General Education at the beginning of College
+                    - 3. Restructure Majors
+                    - 4. Require Co-op experience
+                    - 5. Integrate on campus activities into the undergraduate curriculum
+                - ^^Q. What will we need to do to become more agile in launching and developing new degrees in order to keep up with the changing marketplace?:^^
+                    - Individual courses that are stackable and moveable into different and complementary degrees
+                    - Interchangeable - flexible - accessible
+                    - q. what is an academic credit -- what are we seeking to accomplish
+                    - Quest model with degrees that matter
+                    - ^^A. Focus on the Job to Be Done^^
+                - ^^Q. Would it be wise to seek would it take guarantee a job
+        - ["The Future of Work: Part Three — The colleges and universities already filling the needs of the next economy."](https://www.dropbox.com/s/eom74bccowf3a2i/future-of-work-part-3.pdf?dl=0) — Brian Kerr
+            - ** Comments on Reading **
+                - Fascinating - how graduates viewed their alma mater based on their experience with Career Services
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FU92V0wjSdz.png?alt=media&token=dc9a8457-6e8a-4c5c-99ba-22cb5a2a2509)
+                    - The importance of cross-disciplinary Degrees: cf. Emory
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2Fy9a8c4h7sp.png?alt=media&token=dad8bb95-3290-465a-9ae3-a56cc0d7a3a8)
+
+        - [Jeffrey J. Selingo, July 28, 2019, "MBA enrollment is down again. What’s the future of the degree?"](https://www.dropbox.com/s/egfilflwiqdctj8/MBA%20enrollment%20is%20down%20again.%20What%E2%80%99s%20the%20future%20of%20the%20degree%3F.pdf?dl=0) — Sonya Grypma
+            - ** Comments on Reading **
+                - It is fascinating that Wake Forest's school of business (UG) is highly ranked and in demand, but their MBA program(s) were untenable:
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FtnCMXe_UM1.png?alt=media&token=1d3932bb-a9b6-4aaf-bfb9-88fbbf85e611)
+                - What might this mean for MBA demand in Canada? and how will we come to understand the trends?
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2F8R0YkrkW-P.png?alt=media&token=d277b080-bdf7-4717-915b-5a1c023fb207)
+                - ^^Are we in agreement upon the ROI for students who take our MBA?^^
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FztU6glxYCo.png?alt=media&token=70c822fe-b781-4c0f-85bf-034bbbd1e788)
+            - 
+    - ### Educating for Life: Focus on Calling
+        - ["Author of new book on 'purposeful graduates' says colleges must talk to students about making meaningful lives"](https://www.dropbox.com/s/wt1ad4ldmei5ifa/Author%20of%20new%20book%20on%20%27purposeful%20graduates%27%20says%20colleges%20must%20talk%20to%20students%20about%20making%20meaningful%20lives.pdf?dl=0) — Richard Taylor
+            - ** Comments on Reading **
+                - on Vocation:
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FxyhvLZttfV.png?alt=media&token=6281b3ae-b0f6-4a7a-b8ed-007f75358220)
+            - Key observation: we ought not simply to focus on jobs, or on helping students to become good citizens, instead, we should ask questions about calling:
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FCgC3Gr11fm.png?alt=media&token=a22812e2-ac61-4c65-8552-5f97765c9663)
+            - ^^"What the national conversation about the value of college is mission is the very purpose of college itself...It requires engaging students in a wide and thoughtful conversation about what matters to them and why, helping them explore these things __during__ their college years, and mentoring them as they translate these deep values and interests into a purposeful life trajectory. We could have purposeful graduates streaming out of our campuses, but won't if we continue the status quo."^^
+            - 
+Questions: "who am I?" and "who do I want to become?" lie beneath the surface."
+            - - space to think through and possibly reconsider their high expectations
+            - 
+["A Roadmap for Transforming the College-To-Career Experience"](https://www.dropbox.com/s/pcz0izqc6yscohk/A-Roadmap-for-Transforming-The-College-to-Career-Experience.pdf?dl=0) — Brian Kerr
+                - ** Comments on Reading **
+                    - The world of work has changed, but how Universities treat career services generally has not: 
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FbYjcB1ocGX.png?alt=media&token=93795c25-938e-4dab-ba70-9ceaaf7abd9b)
+                    - Institutional Leadership and Support is key:
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FTdAAq3QlzD.png?alt=media&token=65e33b0d-d785-4e2e-b0cd-b9b9a2cdc33d)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FpnobSYwgpI.png?alt=media&token=e00bcdb8-8fd5-4518-bfd3-e09ea4ca28cb)
+                    - Are we honest about the degree to which what we say happens -- i.e., raising up godly Christian leaders -- is actually happening?
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FXwb_eh7iLI.png?alt=media&token=376b6906-96c9-4d2f-9309-5efa068e70ed)
+                        - "Innovation always originates from one place: vision." 
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2Fa8z-j-DWSN.png?alt=media&token=9d7f1585-1ae1-49c9-b357-98b4207a9562)
+                        - Q. What does the following tell us about the importance of expressing a compelling vision and ensuring that new innovative goals align with the university's goals and values: 
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FSbMSpszEZy.png?alt=media&token=dd3ebd16-6698-4c21-bbf0-e61c57085f68)
+                            - What did Wake Forest do?
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2F9x2JV1zG4n.png?alt=media&token=649fb63b-799b-46e0-8e52-494a29a93913)
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2Fnvrcp_VHHs.png?alt=media&token=ba2866d7-5276-47f6-8244-a7966a62e462)
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2F-mpfw8MWnt.png?alt=media&token=6f9540c3-aaff-4ef1-9867-8a3af32974a8)
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2Fth62ChAeP6.png?alt=media&token=4d6c2106-5ffb-41ef-b53a-31e18179d0f5)
+    - ### Program Prioritization
+        - ["Colleges Need to Rethink Their Market — and Maybe Their Mission: Too many institutions are stuck in the last decade"](https://www.dropbox.com/s/q5dh610mj0lpcrs/Colleges%20Need%20to%20Rethink%20Their%20Market%20%E2%80%94%20and%20Maybe%20Their%20Mission.pdf?dl=0) — Sonya Grypma
+            - ** Comments on Reading **
+                - 
+        - TWU [[Institutional Program Prioritization]]
+            - 
+            - Presentation by [[Bob Wood]]
+                - 
+        - [Dickeson, "Selecting Appropriate Criteria — Chapter 5"](https://www.dropbox.com/s/ki3twa2rl0yvso9/Dickeson%20-%20Prioritizing%20Academic%20Programs%20-%20Chapter%205.pdf?dl=0) — Aklilu Mulat
+            - ** Comments on Reading **
+                - Under the treatment of Quality of Program Inputs and Processes Dickeson raises a fascinating observation (criteria) related to adapting to utilizing technology(77):
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FxhRAytucox.png?alt=media&token=686af9a4-2491-46b9-b898-2529a0145fcd)
+                - on the question of efficiencies (83):
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FRUx1WBcKo4.png?alt=media&token=9b602057-dabe-482c-8d02-41ed0482f23f)
+        - [Dickeson, "Anticipating Process Issues — Chapter 7"](https://www.dropbox.com/s/sj5nfdo3k4bi8u2/Prioritization%20-%20Dickeson%20-%20Chapter%207.pdf?dl=0) — Bob Wood
+            - ** Comments on Reading **
+                - 
+    - ### Educating for Faith Formation
+        - [Hunter — To Change the World — "Difference and Dissolution"](https://www.dropbox.com/s/7dbe3bq0tciqfie/Hunter%20-%20To%20Change%20the%20World%20-%20Difference%20and%20Dissolution.pdf?dl=0) — Mark Husbands
+            - 1. In order to prepare to introduce this reading, ask yourself the following question (before you start the reading): what did you think this topic/article was going to be about?
+                - Is Hunter seeking to provide Christians with effective strategies to change the world?
+            - 2. After completing the reading, and as you prepare to introduce it, ask yourself “how has my mind changed as a result of today’s reading(s)?
+                - Addressing the challenges of Difference and Dissolution is not peripheral to the effective witness of the Church -- it requires a sophisticated commitment to developing "thoroughly Christian minds" -- when the __Scandal of the Evangelical Mind__ still remains. 
+            - 3. Identify what, in your opinion, is the most important passage from the assigned reading and be prepared to explain why this is the case.
+                - (p. 202 - bottom of page)![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FWPfOWdLnsk.png?alt=media&token=47683059-faf5-40eb-bcf8-5f18fe7392a0)
+            - 4. What two questions about this topic do you hope that we answer today – i.e., what are the most important questions left for you that you hope to better understand at the conclusion of our time together?
+                - ^^Q1. Is it not the case that the "price of admission" for calling yourself a Christian **Global** University is that you are willing to equip students to successfully and faithfully navigate a pluralistic world (i.e., difference)?^^
+                - ^^Q2. Are we sufficiently invested in the task of "enveloping" (i.e., educating and supporting) students who come to TWU with the aspiration to believe (and develop strong and coherent beliefs)? Are we committed to excellence in the development / formation of "thoroughly Christian minds"? If not, why not, and what would it take to get there?^^
+                - 
+            - 5. How might this topic and reading enable ELT and TWU to make significant progress this year. 
+                - ^^Do we have the leadership and financial resources to truly prepare students to thrive in a world of difference and dissolution?^^
+            - ** Comments on Reading **
+        - 
+        - ["Baylor -- Unambiguously Christian Educational Environment"](https://www.baylor.edu/illuminate/index.php?id=951740) -- Sonya Grypma
+            - ** Comments on Reading **
+                - 
+        - ["Wheaton - Christ at the Core"](https://www.wheaton.edu/academics/the-liberal-arts-at-wheaton-college/christ-at-the-core-liberal-arts-at-wheaton/) — Phil Laird
+            - ** Comments on Reading **
+                - 
+- 
+- 
+- 

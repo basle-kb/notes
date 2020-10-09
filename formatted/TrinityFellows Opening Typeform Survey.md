@@ -1,0 +1,34 @@
+- Keywords: #[Trinity Fellows](<Trinity Fellows.md>)
+Date: [September 8, 2020](<September 8, 2020.md>)
+Topic: Opening Survey
+Goals: To create a "baseline" of knowledge re: Calling & Identity as Trinity Fellows
+- ----------------------
+- 
+- **Key Questions: **
+- ****
+- ****
+- **Did the Emmaus Scholars Program help you in the following areas: **
+- ****
+- ****
+- ****
+- 1. Help you to figure out what questions about life, faith and work were worth asking?
+- 2. Help you to capture a new and bigger vision of salvation?
+- 3. Give to see how your gifts, skills, passions, interests, can and should be aligned with the work of the Kingdom?
+- 4. Did the Emmaus Scholars Program encourage you to think about how God could be calling you to ministry within the Church?
+- 5. How did the Emmaus Scholars Program give you a good sense of the cultural mandate - to care for the well being of the city?
+- 6. How did the Emmaus Scholars Program help you to have an accurate picture / understanding of humanity?
+- 7. How did the spiritual formation components of the program help you to gain a clearer sense of who you are in relation to others, the Church, the world ?
+- 8. How did the Emmaus Scholars Program give you a sense of how and why to care for others?
+- 9. How did the focus on Justice and care for the widow, orphan, alien, and widow shape your sense of identity and calling?
+- 10. How did the Emmaus Scholars Program broaden your understanding of the One Church - that we are the body of Christ regardless of what denomination we came from?
+- 11. What were two or three of the most crucial elements of the program that helped you to better understand God’s calling upon your life?
+- 12. What could the program do to improve its effectiveness in helping future Emmaus Scholars to gain an even better understanding of vocation? Both church related callings and callings to work in the world in the for profit, non profit and NGO settings?
+- Would you have wanted a better or deeper understanding of:
+- Calling?
+- Image of God? / Human Identity
+- Idolatry
+- Community
+- Scripture
+- The Biblical Drama (creation, fall, redemption, restoration)
+- How to be a faithful presence in the world?
+- ****

@@ -1,0 +1,40 @@
+- [Development Officer | CharityVillage](https://charityvillage.com/jobs/development-officer-in-edmonton-alberta-ca/) #v.p.development
+- 
+- OPENING PARAGAPHS
+- Canadian Blood Services (“CBS”) is seeking a Director, Donor Relations and Collections - ONN (the “Director”) to provide leadership for regional Donor Relations and Collections planning, operations, performance and donor experience delivery for CBS’s largest and most complex region, Ontario. The Director will contribute to CBS’s strategy to become a best-in-class manufacturer of biological products. Strongly aligned to CBS’s Mission, Vision and Values, the Director will work to ensure Canadian Blood Services remains the trusted provider of high-quality blood and blood services for all Canadians.
+- This is an outstanding opportunity for an authentic, credible and collaborative leader with 10+ years of progressive management leadership in retail, franchising, sales, customer service and/or supply chain and a passion for making a difference in Canadian health care. Business-focused with a talent for delivering exceptional experiences and superior performance management, the incoming Director brings expertise in high growth regional, multi-outlet operations in retail, health and wellness, hospitality and/or life sciences, ideally within a regulated environment or sector. Service and process oriented, they are a senior executive with a proven ability to balance community engagements, brand reinforcement and compassionate team leadership with data analytics, KPIs and rigorous processes to consistently deliver on Donor Relations and Collections targets and contribute to a culture of continuous improvement.
+- ///
+- Do you want to join an organization you can believe in and inspire joyful giving; where you can use your knowledge and passion to create a transformational impact in health care?
+- We are looking for a unique individual to fill the role of Manager, Community Giving. The ideal candidate will be an experienced fundraiser with the ability to develop strong relationships with a variety of donors. A self-starter, the incumbent brings a successful track record in achieving fundraising goals and providing high-level donor stewardship..
+- Position Summary
+- Reporting to the Director, Philanthropy, the Manager, Community Giving will be responsible for supporting the success and growth of the Foundation’s Community Giving programs. This includes maintaining and enhancing existing programs as well as developing, implementing, executing and analyzing the results of new initiatives. As all fundraising activities take place in a highly collaborative environment with the areas of Marketing & Engagement, Donor Relations, Events and Operations, the Manager, Community Giving will require well developed interpersonal skills and good judgement to work effectively across all cross-functional teams.
+- Expanding the community giving program, building trusting relationships with prospects/donors, developing appropriate donor strategies and plans in conjunction with management/peers, soliciting donations, and stewarding these donors are all important elements of this position.
+- Who we are
+- 
+ Pomerleau is recognized as one of Canada’s leaders in the construction industry, in the institutional, commercial, industrial and civil engineering sectors. Clients benefit from our expertise as general contractor, construction manager, project manager and design-builder.
+ 
+ Pomerleau believes in delivering excellence. Every Pomerleau employee upholds this value, leading to the achievement of superior results in every sector where we do business. Pomerleau: proud individuals who share a vision and are passionate about what they do.
+- WHAT YOU WILL DO
+- WHAT YOU WILL BRING
+- The ideal candidate will have:
+    - University degree and/or professional certification
+    - 5+ years’ experience in an annual/community giving role
+    - Demonstrated understanding of organizational strategic focus with a track record of translating this into fundraising results
+    - Proven experience in cultivating, soliciting and stewarding donors
+    - Has an established reputation as a thoughtful leader that builds deep and lasting relationships with donors, volunteers, and stakeholders
+    - Experience with a comprehensive direct mail program preferred
+    - Experience with digital fundraising programs and systems
+- Skills and Abilities
+    - Proven ability to perform as a seasoned fundraising professional
+    - Exceptional relationship building and interpersonal skills
+    - Demonstrated leadership success working in cross-functional teams and has successfully managed a fundraising team
+    - Ability to initiate, analyze, monitor, evaluate and alter strategic advancement plans
+    - Critical thinker who can act quickly and adapt to changing demands and competing priorities
+    - Strong knowledge of current trends in fundraising, with a commitment to continuous learning
+    - Responsible and tactful handling of confidential information
+    - High moral values, integrity and professional standards
+    - Excellent oral and written communication skills essential with exceptional listening skills and effective presentation skills
+    - Efficiently organize and multi-task in a deadline driven environment, with great attention to detail and the ability to work well under pressure with minimal supervision
+    - Competent intermediate user of office technology and information systems (including Word, Excel, Outlook, Access, PowerPoint) and donor databases, preferably Raiser’s Edge
+    - Must have a driver’s license
+- WHY CHOOSE TWU

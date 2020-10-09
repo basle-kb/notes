@@ -1,0 +1,69 @@
+- Keywords: #ELT-Meetings
+Date: [[September 30th, 2020]]
+Week: 39
+- 
+- 9:00-10:45 am
+- **Agenda**
+    - Devotions @Aklilu (next week Bob)
+    - **1. COVID-19 Update**
+        - current communications re: expectations and penalties? @Sonya
+            - 1. **Quarantine:**  Total enrolled since August: 137 (On campus, n=79; Off campus, n=53; location TBD n= 5).
+                - Discharged : 120.  Currently in quarantine n=4).
+                - Yet to arrive/ planning in process (until Dec 31) n=14
+            - 2. **COVID-19 cases: **# tested by Wellness Centre n=25. Results all negative.
+                - One positive case via BC Public Health: no contacts or exposures at TWU
+            - 3. **2 PHN Hires**: (a team of 7 for the price of 2) 
+                - 1 FT since June.  2nd FTE=6 others part-time & casual: providing clinical support (testing), isolation monitoring, quarantine discharge review, case management with physicians, assessment and educational support (2 at Richmond); on-call to support surge capacity and flu vaccine campaign; remote support from FHA, VCH COVID team members for ongoing program support, event review, resource development
+    - **2. Brief Discussion (“Start Stopping Faster”)**
+        - [https://www.dropbox.com/s/ov3w2mum5odyne1/Start%20Stopping%20Faster.pdf?dl=0]
+            - i.e., sunsetting of Bellingham
+                - Debra Hanenburg - find meaningful employment elsewhere
+            - You need to give people opportunities to overcome their fear
+            - Innovation is a "rule-breaking process" 
+                - fear can be an institutional culture issue
+            - Need to have innovative things in the work
+            - Establish a University-wide expectation on being an innovative culture and institution of innovation
+    - **3. IPPTF - Update**: Bob & Aklilu
+        - met as a whole last week
+        - today the academic part will be meeting, operations met last week
+        - Presentation to the staff forum, and academic business meeting
+            - On the operational side
+                - look at the functions of the programs embedded within a department
+                    - curricular
+                    - co-curricular
+                    - non-curricular
+                - efficiency and effectiveness are important (on both ends we know that it won't work: careful balances will need to be struck)
+            - Discussion of Chapter 7 of Dickeson
+                - [Dickeson, "Anticipating Process Issues — Chapter 7"](https://www.dropbox.com/s/sj5nfdo3k4bi8u2/Prioritization%20-%20Dickeson%20-%20Chapter%207.pdf?dl=0) — Bob Wood
+            - what were the "significant outcomes" of the 2008,2009 programs
+                - over a two-year period over 50 employees left, we reduced expenditures by 2 million
+                - call for good communication
+            - where will saved resources go?
+            - At the end of the day, it is a question of stewardship.
+                - We need to make this an issue of sustainability
+    - **4. Update on communications: Thanksgiving / Gratitude - public gatherings:** @Mark 
+    - **5. Salesforce Connected Campus exploration** — @Brian
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2Fq2eRLdLARY.png?alt=media&token=ffae4225-faa3-4c50-81a3-b76baa465aeb)
+    - 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FMM3eq8bmei.png?alt=media&token=e9885808-e175-4269-a1a6-03b3a752217c)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FQLofQRzUbn.png?alt=media&token=4f00f7c3-44f3-4b08-8400-4fe64bd0e016)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FgNEZI298E0.png?alt=media&token=0d3cc56b-a590-41cb-ae0e-8ade7acd8e90)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FTBM2g6Wocv.png?alt=media&token=35b430b8-3065-4b5c-b319-13bda61b6835)
+    - PROJECT:
+        - Where will this project fit within the order of key initiatives
+        - 
+    - **6. Review and approve TWU Policy Development Process** - @Sonya
+        - [Policy Development and Approval Flow Chart](https://admin-twu.slack.com/files/UL6FFNRC4/F01BUAN3UJ0/policy_development_and_approval_flow_chart_-_rev._re_ops_policies_2020-09-29.pdf)
+        - [Guidelines for TWU Policy Development](https://admin-twu.slack.com/files/UL6FFNRC4/F01BN50ETKL/guide_twu_policy_development_-_approved_by_senate_2020-03-03sg_sept_26_bw_sept_28_jb_sept_29.docx)
+
+        - 
+    - 
+- 
+- ## -----
+- **Decisions**
+    - {{[[TODO]]}} ^^Decision^^:  Bob will review Policy Document to identify language that will discriminate policies that ought to be considered by Senate for "decisions" and what ought to be considered as a policy for "recommendation" to the Provost.
+    - {{[[TODO]]}} ^^Decision^^:  Brian and Aklilu will meet to discuss the viability, cost (financial and political) and projected outcomes of a "Connected Campus Launch Project" and whether or not the title, rather, should be: "Investigating a Connected Campus: Innovation, Promise, and Culture"
+    - 
+    - {{[[TODO]]}} ^^Decision^^:  
+    - {{[[TODO]]}} ^^Decision^^:  
+    - 

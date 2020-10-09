@@ -1,0 +1,16 @@
+- Ask [[Christian Wood]] for Board Report Material 
+    - Coggle: https://coggle.it/diagram/X1ewdE37tEgrh2U-/t/office-of-ir-a-fall-2020
+    - Critical: Why on earth would we not mandate faculty entering grades in Moodle
+        - We currently do not have accurate information on who is the professor of record?
+    - SETL 
+        - is now in place with the process
+            - note from Laurie - departmental assistants to review data
+    - MA Lead Analysis
+        - working with Sonya - and a pivot table in Excel
+    - Job Description
+        - current need: two student workers for current help
+        - future need: [[Position to be added to Budget]]
+    - [[Jonathan Fehr]]
+        - Data - Alumni Company
+    - [[Institutional Program Prioritization]]
+        - 

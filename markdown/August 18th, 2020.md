@@ -1,0 +1,29 @@
+- 
+- [[Morning Questions]]
+    - {{[[slider]]}} How many hours of sleep did I get?
+    - What's one thing top of mind today?
+        - community day talk
+    - What's the one thing I need to get done today to make progress?
+        - draft and begin writing community day talk
+- Agenda
+    - {{{[[DONE]]}}}} Morning walk #goal-health #habit
+    - {{{[[DONE]]}}}} Check calendar for scheduled events
+    -  9 am to 4pm: **Faculty Retreat**
+    - 
+- **Things I need to Accomplish Today:**
+    - {{[[TODO]]}} prepare for: job descriptions and strategies to hire a number of positions (particularly in light of Paul’s latest email), and the need to get [[Development ]]sorted.Would you look into when you, Margaret, and I can meet to work through this so that Margaret can get drafting positions.
+    - {{[[TODO]]}} Format an email about the Journey Forward Grant with an expression of Thanks to Marcus and his wife: [TWU Journey Forward Grant](https://vimeo.com/447260669)
+    - 
+- 
+- {{{[[DONE]]}}}} Evening focus hour
+- {{[[TODO]]}} read for pleasure, watch something, go for a walk
+- [[Evening Questions]]
+    - List three things I'm grateful for #habit #gratitude
+    - What made me happy today?
+    - What made me sad?
+    - Where there any signs of my day going to shit that I could recognize?
+    - What prevented me from reaching my goals today?
+    - What am I looking forward to?
+- 
+- {{[[TODO]]}} prepare for: job descriptions and strategies to hire a number of positions (particularly in light of Paul’s latest email), and the need to get [[Development ]]sorted.Would you look into when you, Margaret, and I can meet to work through this so that Margaret can get drafting positions.
+- 

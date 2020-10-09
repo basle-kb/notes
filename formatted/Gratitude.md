@@ -1,0 +1,18 @@
+- Article
+    - Author: Ligoneer Ministries
+Source: https://www.ligonier.org/learn/devotionals/providence-and-gratitude/
+Recommended by:
+Tags: [Articles](<Articles.md>)
+    - ___________________________
+    - # Providence and Gratitude
+        - “Give thanks in all circumstances; for this is the will of God in Christ Jesus for you.”
+        - - [1 Thessalonians 5:18](http://biblia.com/bible/esv/1%20Thessalonians%205.18)
+            - Dr. R.C. Sproul has often said that every Christian is a theologian because every Christian has some view of God’s attributes, work, will, and so on. These ideas may be held consciously as the result of years of diligent study, or they may be just a vague collection of thoughts. Nevertheless, every believer has a theology. Since every Christian is a theologian, the important issue is the content of one’s theology and whether it provides a solid foundation for obedience.
+            - In today’s passage, the Apostle Paul commands us to “give thanks in all circumstances” ([1 Thess. 5:18](http://biblia.com/bible/esv/1%20Thess.%205.18)). What understanding of God is consistent with this command? Is it the view that says the Lord merely reacts to His creation? Or does the view of God’s sovereignty in Reformed confessions such as the Heidelberg Catechism provide the confidence and trust we need to thank our Creator in all things?
+            - The answer should be obvious. A God who has not ordained evil cannot actually be thanked and praised for bringing good out of evil. Sure, many Christians deny that the Lord ordains the tragedies in their lives and yet thank Him for working all things for their good. These believers often say that God can make the promise of [Romans 8:28](http://biblia.com/bible/esv/Romans%208.28) because He sees the future and knows how people will respond to His work for good in the midst of evil. Yet, given these false assumptions, the Lord is not actually guaranteeing any good. Things would result in our good and His glory on account of creaturely responses to His initiative, not because of the Lord’s sovereign action. If God did not sovereignly ordain evil and the creaturely responses to His work that lead to good, why should He get all the glory and praise? Surely, this glory and praise should be shared with the creatures whose decisions led to the good for which the Lord was searching. This turns the biblical view upside down and must be rejected.
+            - Paul tells us to give thanks in all circumstances, and we have a basis for thanking God in all things only if He has ordained all things. If the events and creaturely decisions that result in our good occur because God ordained they would occur, we can give Him all the praise and glory. Since the Lord’s sovereign decree is the foundation for everything that ever happens, we can be confident of God’s good purposes as He works all things according to His will ([Eph. 1:11](http://biblia.com/bible/esv/Eph.%201.11)).
+            - ## Coram Deo
+            - The Heidelberg Catechism says that knowledge of God’s sovereign providence enables us to be thankful when things go well for us (Q&A 28). That is certainly true. However, we can also be thankful when things go ill, not because of the pain in and of itself, but because we know the Lord is working in it for His glory and our good. Let us cultivate a grateful attitude toward God, informed by the knowledge that everything is truly in His hand.
+            - ## Passages for Further Study
+            - [Psalm 55:22](http://biblia.com/bible/esv/Psalm%2055.22)
+            - [Philippians 4:4–7](http://biblia.com/bible/esv/Philippians%204.4%E2%80%937)

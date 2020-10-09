@@ -1,0 +1,45 @@
+- ### Article: put title here
+    - **Topic:**
+    - **Tags: **
+    - **URL**:
+    - **Quotes / Summary:**
+    - **Comments / Questions:**
+- ### Book: title here
+    - **Quotes / Summary:**
+    - **Comments / Questions:**
+    - **Topic**:
+    - **Tags**:
+    - **URL**:
+- Podcast
+    - Show:
+    - Speaker(s):
+    - Topic:
+    - Tags:
+    - URL:
+    - Summary:
+- Videos
+    - Speaker:
+    - Tags:
+    - Summary:
+    - Link or Embed:
+- Projects
+    - Due Date:
+    - Completed Date:
+    - Status:
+    - Related Goals:
+    - Success Criteria:
+    - Tags:
+- [Week template](<Week template.md>)
+- Quarterly Preview
+    - Review [Yearly Planning](<Yearly Planning.md>)
+    - My biggest wins
+    - Process on annual goals for this quarter (% successful)
+    - Overall, what worked and what didn’t?
+    - What will you keep doing?
+    - What will you start doing?
+    - What will you improve?
+    - What will you stop doing?
+- [tools](<tools.md>)
+    - [Find and replace](<Find and replace.md>)
+    - 
+    - [tables](<tables.md>)

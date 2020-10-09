@@ -1,0 +1,13 @@
+- **First recommendation:**
+    - The university actively pursue the potential for leveraging additional revenue through offering additional non-credit workshops, short-term courses, or seminars to the general public. 
+        - A percentage of the collected fees could be offered as an incentive to those offering to lead these workshops, with the university benefitting from the rest of the course fees.
+        - Development of these course offerings would need to be fast-tracked and should be sourced from as many different Schools/Faculties as possible. 
+        - The Innovation Task Force can assist with development and promotion ideas, and community members who have experience with innovative course development, such as Phil Laird, could mentor the development process.
+- **Second recommendation:**
+    -  That reductions in faculty and staff salaries be avoided if at all possible. 
+        - Should cost cuts become necessary, we recommend that all possible cuts to operations be considered before faculty or staff salary cuts. 
+        - In the event that salary cuts do become a necessary consideration, our recommendation is that Bob Wood survey faculty regarding possible voluntary concessions. 
+            - The survey might ask about voluntary measures such as early retirement, unpaid leaves, or across-the-board salary cuts that apply equitably to staff, faculty, and administration. Bob has established a relationship with faculty; that relationship would help to set a more comfortable tone to the requests outlined in the survey. 
+            - In preparing the survey, it would also be a good idea to consult some community members and campus leaders who are social scientists and frequently prepare surveys. Todd Martin’s name comes to mind, but there may be others as well.
+- **Third Recommendation:**
+    - Should an assessment of cost efficiencies be performed, it should not focus on a single area, but rather extend across the entire university – including physical infrastructure, student services, academics, and administration. The budgets of some sectors of the University are inflated, whereas others are extremely lean. This factor should be taken into account when applying cuts.

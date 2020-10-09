@@ -1,0 +1,16 @@
+- [[October 9th, 2020]]
+- First Destination Survey Report goes out: six months after graduation (October)
+    - What are the Questions?
+    - What are the Conclusions that we want to be making?
+- Model our Questions on the Wheaton Document, and the Future of Work  article.
+    - Here is a link to Wheaton’s Center and a link to their report.
+        - https://www.wheaton.edu/life-at-wheaton/cvc/
+        - https://www.wheaton.edu/media/center-for-vocation-and-career/19-20_CVC-Annual-Report.pdf
+    - Link to the Future of Work Piece:
+        - [Future of Work - Parth Three](https://www.dropbox.com/s/eom74bccowf3a2i/future-of-work-part-3.pdf?dl=0)
+        - Survey results Career Center
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FTKekctv3hY.png?alt=media&token=1048a844-b28d-49dd-9662-bdba1a5abaef)
+    - Mark
+- -------
+- {{[[TODO]]}} Action Item: We don't have an [[Institutional Research Analysis Team]] 
+- 

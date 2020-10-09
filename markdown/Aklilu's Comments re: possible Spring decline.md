@@ -1,0 +1,11 @@
+- Dear Mark,You had asked that I give thought to what we may do in case of a level of cash flow shortfall that might be experienced if spring enrollment does not materialize as planned.  Here are some my thoughts.**Some thoughts about spring enrollment losses:**
+    - It appears that we will experience a better-than-originally-anticipated fall from the points of view of tuition revenues and CEWS subsidy.
+    - We have put in place certain measures such as hiring freeze and Operating Capital Expenditure suspension.
+    - We are uncertain about enrollment levels in January 2021. The risk of significant loss of revenue is very real as international students are currently unsure about whether or not they will be allowed to come to TWU.
+- **For this reason:**
+    - We need to preserve any temporary surplus we might experience in the summer and fall semesters as contingency funds to address possible cash shortfall in spring.
+    - We need to keep our institutional foot on the brakes of spending for the remainder of the calendar year – Operating Capital & Hiring, in particular.
+    - In mid-January, we will have to make a decision which involves one or more of the following measures:
+- a.      To restore some of the suspended expenditures if actual enrollment numbers are as targeted in the plan
+- b.      To allocate to the cash flow shortfall some or all of the surplus accumulated in the fiscal year to that date
+- c.      To identify areas of cost reduction

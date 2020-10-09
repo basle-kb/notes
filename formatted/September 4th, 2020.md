@@ -1,0 +1,10 @@
+- [ ] Write to Ann Snyder
+- [Meeting](<Meeting.md>) with [Christian Wood](<Christian Wood.md>)
+    - discussion of vacation time. 
+    - Fundraising alternatives under consideration: Christmas in the City alternatives
+    - Christmas Card alternative
+    - COVID-19 alert app
+        - 
+- #[Quick Capture](<Quick Capture.md>)
+    - [ ] write script ACTS SEMINARY greetings 
+    - [ ] write Richmond greeting

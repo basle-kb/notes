@@ -1,0 +1,24 @@
+- [[Vision and Calling - Murdoch]]
+    - meeting online - with John Franklin (host for meeting)
+        - {{{[[TODO]]}}}} look up the request for a one-minute video for the retreat
+    - Purpose of vision and call program
+        - 1. help organizations build an internship organzation to develop a future pipeline for talent
+        - 2. Using mentors to create a larger pool of leaders who know and are eager to follow Christ in their professional lives.
+    - Focus of the Retreat
+        - to build relationships with the Fellows
+        - to expose fellows to this notion of a vocational calling:
+            - 1. who am I?
+            - 2. what am I to do?
+        - What does it mean to be a Christ-centered person in the non-profit or profit world?
+        - What do expect on the retreat?
+            - 
+- [[Zoom instructions for vision call]]
+    - kindly mute your audio
+    - Kindly use the "Raise hand feature" --- and give instructions. 
+- [[Universities Canada]]
+    - Zoom Meeting - International Students
+        - while the government turned down MLB and approved NHL opening, there are clearly challenges in ensuring a safe-arrival for students while enhancing our reputation for being able to manage the influx of new students. 
+        - Progress:
+            - enabling students to begin study online. 
+        - If we have evidence of students being denied access, we ought to send information about this to Universities Canada as advocates for us -- they are building a file of data to help advocacy: contact: CMyintyre at Universities Canada -- Cindy
+        - 

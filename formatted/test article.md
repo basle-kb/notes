@@ -1,0 +1,7 @@
+- Metadata:
+    - Author: Sample Author
+    - Tags: Books//Articles
+    - Type: [Article](<Article.md>)
+    - Status: [TakingNotes](<TakingNotes.md>)
+    - Source: Web
+- 

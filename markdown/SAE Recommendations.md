@@ -1,0 +1,11 @@
+- ## SAE Recommendations for COVID related cost savings
+- **1.     ****Initiate a Departmental strategic approach, with reductions of hours, and/or temporary and permanent eliminations to certain positions**
+- a.     Department leaders work with CFO and HR to strategize the best way forward in their area. (ie. find ways to save 10%)
+- **2.     ****Exercise EI compensations / job share program if more than 15% cut required**
+- a.     Highly supportive of applying for any assistance from the government (where applicable) to reduce impact to staff
+- **3.     ****Give staff the option to pause RRSP contributions to reduce the amount of their pay cut**
+- **4.     ****Avoid across-the-board compensation cuts**
+- a.     While it’s a simpler approach, it’s not equitable. A 10% reduction for a staff member making 16.50/hr ($34k/yr) could mean not paying rent or hydro. A 10% reduction for a staff member making $100K/year means not going on vacation.  If the hourly wage is reduced without a decrease in expected hours, someone making $16.50 would then be making $14.85/hour which is below minimum wage or what we pay student workers
+- b.     The impact of lower enrolment and/or fewer students physically on campus is not the same in every area. The impact to workloads will be different in each department – some will increase, some will decrease. Ie. Heavier work-loads in areas to increase online learning, decreased work-loads in areas that focus on students physically on campus
+- c.      The pre-covid world will likely not be the same as the post-covid world. TWU will not be the same in 2021 as it was in 2019 – an across the board approach assumes that we will get back to “normal” after a certain period of time. We don’t know what the new “normal” will be. Why should we assume the same staffing levels in the same areas will be what’s needed in a post-covid world?
+- d.     It is a morale and employee retention issue

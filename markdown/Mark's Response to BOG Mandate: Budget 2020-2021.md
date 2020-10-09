@@ -1,0 +1,167 @@
+- **Introduction**
+- The COVID-19 global pandemic has forced almost every higher-ed institution to address projected shortfalls due to travel restrictions, border closings, and the perceived lack of quality in the delivery of education online. Each of these issues will impact Trinity Western University's fall and spring enrolment and place significant stress upon our annual budget and cash flow. 
+- 
+- **I. Setting the Stage: [[A Board of Governor's Mandate]]**
+- At its June 18, 2020 Board of Governors' Meeting, the TWU Board approved four motions from the Finance Committee: 
+- 
+    - **Finance Committee: Motion 1**
+        - Propose that the Board
+            - approve setting aside the original 2020/21 budget ( approved in February 2020)
+    - **Finance Committee: Motion 2**
+        - Propose that the Board:
+            - - approve the Finance Committee to work with management:
+                - in developing a working budget subsequent to August 15th, but prior to August 31st, to be used to determine and put into effect cost-control measures necessary to ensure the university does not experience a negative net operating cash flow for the 2020/21 fiscal year
+                - in updating the budget in late September once we have passed the add/drop date of September 15th.
+    - **Finance Committee: Motion 3**
+        - Propose that the Board:
+            - - authorize the Finance Committee to approve a final budget by the end of September that will result in a non-negative net operating cash flow for fiscal 2020/21.
+    - **Finance Committee: Motion 4**
+        - Propose that the Board approve the following principle:
+            - • __IF__ measures taken to prevent the University from experiencing a negative net operating cash flow for the current fiscal year include temporary reductions in compensation over the period September 1, 2020-April 30, 2021, __AND__
+            - • __IF__ the University generates a positive net operating cash flow for the period September 1 - December 31, 2020, the positive net operating cash flow for this period will be returned pro-rata to those employees who experienced a temporary reduction in compensation up to a maximum of such reduction, __AND__
+            - • __IF__ the University generates a positive net operating cash flow for the period September 1, 2020 - April 30, 2021, the positive net operating cash flow for this period (after accounting for any repayment of compensation arising out of the previous point) will be returned pro-rata to those employees who experienced a temporary reduction in compensation up to a maximum of such reduction.
+        - 
+- **II. Building Awareness of the Financial Implications of a Drop in Enrolment: Engaging Scenario Planning**
+- As President, I responded to the Board of Governor's motions in the following manner:
+    - Anticipating the formal approval of these decisions, Aklilu Mulat (Senior Vice President, Business Administration & Chief Financial Officer), on May 5, 2020, Aklilu and I met approximately 40 key University leaders to introduce the work we and the Finance Committee had done to assess the projected financial outcomes of two different scenarios. 
+        - A. We met with the following representative bodies of University Leadership on at least two occassions:
+            - 1. The Staff Advisory Committee Executive (SAE)
+            - 2. The Faculty Advisory Committee Executive (FAX)
+            - 3. Deans Council
+            - 4. University Leadership Council
+        - The goal of meeting with these representative leaders was to demonstrate a level of transparency, to help key University leaders better understand the financial implications of a shortfall in enrolment, and to invite them to enter into the challenges that lie ahead by (a) considering the financial impact of a drop in enrolment; and (b) becoming more aware of the variables that we can work with short of taking on bank debt. 
+    - I sought to clearly indicate that going into debt to cover a COVID-19 related deficit was a non-starter: 
+        - > The Board of Governors has given me a mandate to arrive at a non-negative cash flow position at the end of our fiscal year, and I must do so in order for the University to avoid having to draw from an existing line of credit with HSBC. 
+- Aklilu Mulat and I met with key University leaders to help them (a) understand two different Scenarios; and (b) to recognize that in the interest of transparency, I was committed to receiving their input and recommendations on how the University ought to respond to a financial downturn in the likely event of drop in enrolment. 
+    - I communicated to them the fact that the burden of offering the Board of Governors a formal recommendation on how the University ought to respond was mine, and that rather than making this decision "over their heads" I was interested in receiving their best thinking. 
+- 
+- **III. Presentation of Two Scenarios of Financial Impact of COVID-19**
+- At the meeting with over 40 key University leaders, Aklilu and I presented **Two Scenarios**:
+    - **Scenario 1**: our Best Cast Scenario
+        - This is a situation where UG enrolment is -14%, UG-Global is 0% and SGS is +10% of budget.
+            - This scenario incorporated several custom adjustments based on inputs by deans and other department heads were also incorporated.
+                - For instance, Nursing graduate school was at -10% instead of +10%.  Also, MBA in the scenario is -40% for the online version.
+    - ^^Scenario 1 would result in a negative cash flow (-$10.1 million).^^
+    - Once we apply the **Phase I measures** in effect for fall and Spring of $5.6 mil, we estimated a cash shortfall of $4.5 mil.
+        - We illustrated what cost-control measures could look like:
+            - i.e., a 10% cut in Compensation and 10% cut in Operating costs for the fall and spring semesters will to yield a positive cash flow of $900K.
+        - We also indicated that CEWS will change this picture:
+            - For instance, 2 months of CEWS will bring the free cash flow to zero.
+-  “COVID-19” bursary at $1,000 per UG student for the fall based on FTE (eligible students have to have 12+ credit hours) and needs-based (by application) bursary of up to $1,000 per FTE with the same credit hour criteria.
+- The table below shows the outcome of Scenario 1 without any compensation or operating cost measures.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2F7nqSjjgrs8.png?alt=media&token=ab16de34-4d01-4d58-b49c-1a36effe51d0)
+- 
+- **Scenario 2**: our Realistic Projection
+    - This is a situation where overall enrolment would be -30%. 
+    - ^^Scenario 2 would result in a negative cash flow (-$13.7 million).^^
+- Once we apply the **Phase I measures** in effect for fall and Spring of $5.6 mil, we estimated a cash shortfall of $8 mil.
+    - Without CEWS, this could require, for example, a Compensation reduction of 16% and a 10% reduction of Operating Costs.  With CEWS of $4 mil (2 months), these will be 9% and 5%, respectively.
+- The table below shows the outcome of Scenario 2 without any compensation or operating cost measures.
+- 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FJt-MGBykkl.png?alt=media&token=bf714346-4f8d-46b7-8f51-fadda1ec3ca0)
+- 
+- 
+- **IV. The President's Recommendation of Cost-Saving Measures in the Event of a Drop in Enrolment due to COVID-19.** 
+- 
+- **A. Key Qualifications**
+    - The following recommendations are being offered to the Finance Committee of the Board of Governors with the following qualifications in hand: 
+        - A. We will not know the net effect of COVID-19 on our fall enrolment until after September 15. The September 15 date is the second of four payments for fall tuition/room and board. The official "drop/add date" is in fact **September 22**. 
+        - B. The following recommendations are being submitted __in advance of actual knowledge__ of the final enrolment numbers for the fall. 
+        - C. We recognize that any funds received through the Canada Emergency Wage Subsidy (CEWS) is contingent upon a number of factors, not least of which is a successful application. Although we have been working with the most well-placed and informed accounting firm, KPMG, the July 17 announcement of changes to how the government would allow calculations of losses due to COVID-19 has slowed our application. We expect to eventually receive a CEWS payment in the estimated range of $5 to $6.5 million. 
+        - D. Phase 1 Measures have yielded concrete financial benefits. When combined with generosity from our donors (in case, resulting in a gift of $1.5 million -- with $1 million being added to our endowment for scholarships, and $500,000 being given to COVID-19 bursaries), we have been able to generate a cash flow position that is is approximately $5.2 million higher than budgeted for Q1 (May - July 2020). 
+        - E. As we look to the fall, current estimates based on existing deposits, extensive one-on-one personal contact with 2,881 of our current students, and credit-hour bookings, we are anticipating revenues from tuition to be roughly what we had predicted in our original budget. Note, there will still be a budget shortfall in overall revenue tied to, for instance, the reduction of dorm occupancy by 50%.  
+        - F. As we look to the spring, we faced greater uncertainty. In all likelihood, COVID-19 will continue to generate considerable social, economic, and political uncertainty well in to 2021. This will likely mean that various travel restrictions will remain with the consequence of corresponding decline in enrolment at Trinity Western University, particularly among international students. Accordingly, we are predicting an overall decline in spring enrolment of 10%.
+
+The following calculations represent our current projection for reductions in overall revenue from the 2020-2021 budget:
+- 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2F5Ch8Wo6kae.png?alt=media&token=fa2b1dfb-e0b9-4cdf-a0e8-c38fa71909e3)
+- **B. Cost-Control Recommendations due to COVID-19**
+- 
+- [[Recommendation I: Compensation.]]
+    - **Demonstrate ongoing financial discipline in cost-containment related to compensation**. __Phase I measures__ generated a net savings of $1.337 mil in compensation costs. By extending ongoing austerity measures, we will be able to generate savings to help offset our expected decline in enrolment for the Spring semester.
+    - **Recommendation**: we exercise financial discipline related to compensation in the following manner:
+        - (a) extend the suspension of staff market adjustment salary increases -- maintain current staff salaries at the 2019-2020 levels;
+        - (b) extend the suspension of faculty salary increases -- maintain current faculty salaries at the 2019-2020 levels;
+        - (c) implement a hiring "chill" (if not "freeze") of all faculty hiring: all faculty hiring that can be deferred ought to be. A recommendation to hire a faculty member will be jointly considered by the President, CFO, and Provost only under very specific considerations: 
+            - (i) when it can be clearly demonstrated that hiring a new faculty member is necessary in order to capture new and meaningful revenue that would otherwise be lost; or 
+            - (ii) when it can be clearly demonstrated that failing to hire a given faculty member will result in meaningful financial losses; or
+            - (iii) hiring a TA or part-time faculty member could be considered when doing so will enable the University to generate revenue (see Recommendation I.c.i above) with greater efficiency than would be the case if we were to employ full time faculty to do the work (i.e., compensating faculty for overloads).
+        - **Note**: this has the potential of saving approximately $3.5 mil for the period August 2020-2021, and constitutes a significant part of the $5.792 mil represented in "Summary of Projected Revenue from 20/21 Budget" (see above).
+- [[Recommendation II: Operating Costs Control]]
+    - **Demonstrate ongoing financial discipline in cost-containment related to operating costs**. __Phase I measures__ were projected to generate a net savings of $1.1 mil for the fiscal year. However, operating cost-containment measures generated a savings of $2.8 mil between May 1 and July 31, 2020 (Q1). 
+        - This occurred through the suspension of all travel, cancellation of conferences and professional development, suspension of purchase of supplies, and freezing of a large number of p-cards.  
+        - By suspending travel (with possible rare exceptions), and stringent control of professional development, purchase of supplies, and limited use of p-cards, we will seek to generate additional operational efficiencies and realize modest savings in the area of operating costs.
+    - **Recommendation**: Apply significant operating expense control measures in the areas of travel, professional development, hiring of consultants and contractors, and purchase of supplies and services: 
+        - Require that every expense item in excess of $1,000.00 budgeted in these areas in the new proposed budget to be submitted to the Board in October 2020 be approved by the CFO & the President prior to submission to the Finance Committee.
+        - **Note:** This has the potential of saving approximately $4 mil for the period of August 2020-April 2021.
+- [[Recommendation III: Operating Capital Expenditure Control ]]
+    - **Demonstrate ongoing financial discipline in cost-containment related to operating capital expenditure control**. __Phase I measures__ were projected to generate a net savings of $2.802 mil for the the fiscal year with the anticipated result of reducing operation capital expenditures by $4,118 mil (a number approved at the February 2020 Board of Governors Meeting). Notwithstanding the fact that projected operating capital expenditure control measures were aggressive, we have already realized a savings of $1,426 mil in this area. We have done so by deferring a number of projects that may need to be reconsidered later in the year. 
+    - **Recommedation:** Suspend all operating capital expenditures and require all exceptions in excess of $1,000.00 to bear approval by the CFO and the President for the periods of
+August 2020 to April 2021. The development of the resubmitted budget must conform to this recommendation.  
+        - **Note**: this has the potential of a realization of approximately $1 mil for the period of August 2020-April 2021. Total savings in operating capital expenditures would only be $2.426 mil rather than the anticipated reduction of $4,118 mil (falling short of this goal by $1,692 mil).
+- [[Recommendation IV: Debt Servicing Consolidation]]
+    - **Demonstrate ongoing financial discipline in cost-containment related to debt servicing consolidation**. The original budget for debt servicing was $2.8 mil. As a Phase I adjustment we projected debt servicing costs of $1.6 mil for the the fiscal year. In Q1 debt servicing cost have only been $235,000 (rather than $400,000). This is due, in part, to scheduling adjustments with the construction of the Robert G. Kuhn building, and additional measures taken related to reducing interest costs for friendly debt (by reducing the volume and interest rate offered by TWU).  
+    - **Recommendation:** Continue to monitor interest rates offered by TWU on friendly debt, make appropriate market adjustments, and control volume of friendly debt through attrition without damaging our cash position. 
+        - **Note**:  we anticipate being able to keep debt servicing costs to $1.2 for the August 2020-2021 period, with the a net overall savings of $1.365 mil for the period of August 2020-2021, and $1.6mil for the 2020-2021 fiscal year.
+- [[Recommendation V: Budget Resubmission]]
+    - The realization of savings that should occur as a result of the implementation of Recommendations 1-4 is contingent upon the development, submission, and approval of a budget that controls for the approval of all new requests (additions to prior year budget and actuals), and one that conforms to the stipulated requirements of the preceding four recommendations. The CFO and President will provide all budget managers with stated benchmarks governing the assessment of expenditure requests. 
+    - **Recommendation:** Submit a newly revised budget to the Finance Committee for consideration at the end of September, 2020 that demonstrates a rigorous examination of expenditures with significant reductions based upon: 
+        - (a) an examination of all increases to expenditures over the lower of prior year's actual and prior year's approved expenses denying line-item increases of $1,000 or more which amount to at least a 2.5% increase. 
+        - (b) approval from the CFO and President for all requests to increase a given line-item from the prior year by $1,000 and 2.5% or more in comparison with the lower of the prior year actual and approved budget.   
+            - **Note**:  the resubmission of a budget ought to occur with the recognition that a significant review of budget formulation and approval will be undertaken to ensure more rigorous control measures on expenditures. 
+- [[Recommendation VI: Contingency Planning]]
+    - Given that the fall and spring is still very uncertain, due to the absence of a vaccine for COVID-19 and ongoing threats to enrolment posed by health concerns, attendant restrictions on travel and border closings, it is prudent to engage in ongoing scenario planning. 
+    - **Recommendation:** Undertake additional scenario planning in order to ensure that we have a viable cost-containment strategy that would allow us to meet the financial challenges or benefits of one (or more) of the following: 
+        - (i) an unexpected increase in enrolment;
+        - (ii) improved financial results -- above and beyond what can be expected due to proposed austerity measures.
+        - (Iii) an unexpected decline in enrolment;
+        - (iv) an unexpected closure of campus; 
+        - (v) a significant outbreak of COVID-19;
+        - (vi) an unexpected and significant drop fall to spring retention. 
+    - 
+    - `we believe that significant and tireless efforts undertaken throughout the summer by staff and faculty has placed the University on a strong footing for the fall. Ongoing efforts will be necessary to meet the projected decline of only 10% in overall spring enrolment. The net effect of our extensive planning and preparation for largely online delivery of education and a multi-access, multi-site TWU experience this fall has the potential to significantly attenuate the anticipated decline in enrolment that framed our original "best case scenario" back in May. We have many, many individuals to thank for their tireless work, and we would not be in the remarkable position that we are today had not so many individuals sacrificed so very much. Because of their sacrifice, we are able to enter into the fall with **no additional reductions to faculty or staff compensation**. `
+    - 
+- 
+    - [[Recommendation VII: Implement University-wide Efficiency Initiatives while Launching Innovative Programs of Strategic and Financial Value ]]
+    - Throughout the months of June and July 2020, President Husbands and Aklilu Mulat (Senior Vice President, Business Administration & Chief Financial Officer) led a series of consultations with key University leaders from across campus, including the Staff Advisory Committee Executive (SAE), the Faculty Advisory Committee Executive (FAX), Deans Council, and the University Leadership Council. This group of University leaders represent a wide array of interests, experience, and even commitment to the mission of the University. In spite of this, a careful examination of all of the recommendations submitted results in the recognition of a widely-shared and vital consensus. It was widely held that Trinity Western University must: (I) embark upon a university-wide assessment of cost-efficiencies, and (2) identify, develop, and launch innovative programs of strategic and financial value. 
+    - **Recommendation:** Identify and support key individuals capable of carrying out a university-wide program and organizational prioritization process with the goal of submitting recommendations for re-structuring both operations and academic programs. At the same time, Trinity Western University should identify and support key individuals capable of carrying out an analysis of innovative programs and systems that have the greatest potential to generate significant financial and strategic value for the University consistent with its mission as a premier Christian global liberal arts University. Extensive analysis and recommendations related to program prioritization will need to be done carefully but with dispatch. Where programs of strategic, economic, and missional value can be developed and brought to market, we should do so in as efficient and timely manner possible.  
+    -  
+    - that will create strategic and financial value for the 
+        - **Note**:   
+    - 
+        - Embark upon a university-wide assessment of cost-efficiencies; and
+            - There is a general consensus that inefficiencies exist and that inequities exist across the university regarding financial support and investment in particular sectors. 
+            - 
+            - 
+            - some sectors of the University are well-supportedwidespread concern that 
+            -  emarkable consensus can be found by examining all of the recommendations submitted by each of these groups. The emerging of leaders, o President Husbands regarding l
+                - Should an assessment of cost efficiencies be performed, it should not focus on a single area, but rather extend across the entire university – including physical infrastructure, student services, academics, and administration. The budgets of some sectors of the University are inflated, whereas others are extremely lean. This factor should be taken into account when applying cuts.
+        - 
+    - our CFOA significant consensus emerged from various consultations underta  
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- [[Senario II]]
+    - ^^A drop in enrolment of 30% below our budget (target) would result in a deficit of $13.6 mil in Free Cash Flow.^^
+        - This deficit is mitigated by measures already taken (voluntary salary reductions, temporary and permanent layoffs, and reductions in operating costs, saving the University, $5.6 mil.
+- 
+- [[Immediate goal]]
+    - To end the 2020-21 fiscal year with a non-negative cash flow. 
+    - To avoid having to go into debt to service a deficit tied to a drop in enrolment.
+- [[Promise Made - re: Compensation]]
+    - If, as part of the overall strategy to address a projected shortfall,  I recommend to the Board of Governors, and our financial picture improves to the point of projected positive cash flow for the end of the year, I am committed to **providing a proportionate, retroactive pay adjustment of amounts that have been lost to wage or salary reductions**. The adjustment total will not exceed the maximum expendable without causing a deficit. Assuming the conditions described are met, the retroactive pay will take place on January 31, 2021, at the earliest.
+- President Mark Husbands' Recommendation to the TWU Board of Governors: [[Cost-saving measures to be taken]] in the event of a significant drop in enrolment.
+    - Upon extensive review of all available information emerging from enrolment data and a corresponding financial analysis tied to scenario planning, and consultations with the Staff Advisory Executive, the Faculty Advisory Executive, Academic Deans, and the University Leadership Council, I recommend that the TWU Board of Governors seriously consider taking the following measures in the event of a significant downturn in the 2020-2021 enrolment. 
+        - [[Recommendation I.]]
+            - dfdf
+        - [[Recommendation II.]]
+            - dfdf
+        - [[Recommendation III.]]
+            - 
+        - [[Recommendation IV.]]

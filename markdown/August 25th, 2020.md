@@ -1,0 +1,6 @@
+- {{{[[DONE]]}}}} send Orientation video scripts to ELT
+- {{{[[DONE]]}}}} write to Mike asking for the cost of program analysis
+- {{{[[DONE]]}}}} write and memorize vision statement
+- {{[[TODO]]}} Trinity Fellows Introduction
+- {{[[TODO]]}} write to Jeff Greenman.
+- 

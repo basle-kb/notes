@@ -1,0 +1,9 @@
+- [[Books//Articles]]
+- {{[[TODO]]}} Send Brian job descrioption
+- {{[[TODO]]}} laundry
+- {{[[TODO]]}} vacuum house
+- {{[[TODO]]}} call becky
+- {{[[TODO]]}} write to Jocyeln Li
+- {{[[TODO]]}} respond to Alan Thorpe
+- {{[[TODO]]}} writing [[P: Convocation Address 2020]]
+- 

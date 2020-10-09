@@ -1,0 +1,18 @@
+- Author:: [[hbr.org]]
+- Full Title:: Start Stopping Faster
+- Category:: #articles
+- URL:: https://hbr.org/2020/09/start-stopping-faster
+- ### Highlights first synced by #Readwise [[September 29th, 2020]]
+    - There is an important parallel to the executive hunt for innovations. 
+    - Unless they develop new muscles for skillfully decelerating and adapting to unexpected twists and turns, they are likely to come up empty-handed 
+- ### New highlights added [[September 30th, 2020]] at 8:29 AM
+    - Between 70% and 90% of innovations fail, and healthy operations grow weaker every day that they must subsidize foundering projects kept alive by political inertia rather than potential payoff. 
+    - Since stopping things is so very hard, executives make starting them even harder, dampening innovation. They raise investment hurdle rates, demand more detailed analyses, and add layers of scrutiny. Sadly, these actions don’t improve decisions so much as damage speed to market and competitive positioning. Failures mount 
+    - Organizations can evolve and by focusing on three specific things, they can improve their own agility and start stopping things faster. 
+    - 1. Make more decisions reversible. 
+    - Break large, risky gambles into a series of smaller, smarter tests. Clarify the hypotheses, the best ways to test them, and the metrics that will signal whether to persist, pivot, or pause. Avoid premature scaling — hiring too many people, building too much capacity, doing too much marketing — before key assumptions have been validated. Match costs to revenues. 
+    - It’s hard to improve or stop unproductive work if you can’t see what work is being done and how well it’s going 
+    - Increasing visibility is good for everyone. 
+    - Imagine a system that enables authorized employees to see all work streams, who is on each team, what else they are working on, and how the work is progressing 
+    - 3. Overpower fear. 
+    - Finally, giving people more opportunities if their current project fails reduces the likelihood that they’ll stick with a bad idea longer than they should. Successful companies build a strong and visible backlog of compelling opportunities. They make it clear that until existing projects that aren’t panning out have stopped, new initiatives can’t be launched. And they redeploy people from the former to the latter as a matter of policy and offer training to ease the transition. In time, the fear of missing out on something better starts to overpower the fear of loss. 

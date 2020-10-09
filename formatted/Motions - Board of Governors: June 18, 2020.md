@@ -1,0 +1,20 @@
+- Background for [Mark's Response to BOG Mandate: Budget 2020-2021](<Mark's Response to BOG Mandate: Budget 2020-2021.md>)
+- 
+- **Finance Committee: Motion 1**
+    - Propose that the Board
+        - approve setting aside the original 2020/21 budget ( approved in February 2020)
+- **Finance Committee: Motion 2**
+    - Propose that the Board:
+        - - approve the Finance Committee to work with management:
+            - in developing a working budget subsequent to August 15th, but prior to August 31st, to be used to determine and put into effect cost-control measures necessary to ensure the university does not experience a negative net operating cash flow for the 2020/21 fiscal year
+            - in updating the budget in late September once we have passed the add/drop date of September 15th.
+- **Finance Committee: Motion 3**
+    - Propose that the Board:
+        - - authorize the Finance Committee to approve a final budget by the end of September that will result in a non-negative net operating cash flow for fiscal 2020/21.
+- **Finance Committee: Motion 4**
+    - Propose that the Board approve the following principle:
+        - • __IF__ measures taken to prevent the University from experiencing a negative net operating cash flow for the current fiscal year include temporary reductions in compensation over the period September 1, 2020-April 30, 2021, __AND__
+        - • __IF__ the University generates a positive net operating cash flow for the period September 1 - December 31, 2020, the positive net operating cash flow for this period will be returned pro-rata to those employees who experienced a temporary reduction in compensation up to a maximum of such reduction, __AND__
+        - • __IF__ the University generates a positive net operating cash flow for the period September 1, 2020 - April 30, 2021, the positive net operating cash flow for this period (after accounting for any repayment of compensation arising out of the previous point) will be returned pro-rata to those employees who experienced a temporary reduction in compensation up to a maximum of such reduction.
+    - 
+- 

@@ -1,0 +1,144 @@
+- [ELT Meeting](<ELT Meeting.md>) - September 16, 2020
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FHeh4wfNn1Y.png?alt=media&token=00384a40-379a-4ee1-b58d-29f05ae8ce35)
+    - Agenda:
+        - Present: Aklilu, Bob, Brian, Mark, Phil, Richard, Sonya
+        - 
+        - Devotions – Richard (next week Richard)
+        - 1. Institutional Program Prioritization Task Force Mandate - Mark
+            - Current State of Preparation for IPP — Bob , Aklilu
+                - Question of “in confidence"
+        - 2. Enrolment Update - Brian Kerr
+            - Preliminary Census
+                - losing some semester hours - some are moving to part time, but remain enrolled at TWU
+                    - could be wrestling with handling the online element
+                    - payment date last year was September 13
+                - Enrolment seems to be holding quite well
+                - Where did the dramatic rise in graduate enrolment (more than double last year)
+                    - MBA, and MA Lead (Business stream)
+                        - not exclusively but largely 96 hour marathon
+                            - problem with MA Lead - we are dependent upon one faculty member
+                                - not sustainable in being able to keep or increase volume
+                    - Enrolment Pipeline:
+                        - barrier was flight and getting to Canada
+                        - a huge market in Grad programs
+                            - American students, International Students, and U.S. is not a great option
+                        - Problem: we simply don’t have enough grad programs that meet the need of these students:
+                            - “Business” is an attractive term
+                            - Data Science, M.Tech (institutional Systems, and Analytics), M. Science and Management (Indiana Wesleyian)
+                - Spring: hypothesis - incoming students don’t pick spring courses until they are already here — so we do not have as many students registered yet, as we work on a slower pace of registration intentionally.
+                    - We implemented Web-registration this week — and we do this in one week: yet to come.
+        - 3. Update on Revised Budget Process — Aklilu
+            - Tuition revenue 3.5 million under last year’s budget
+                - UG is lower than original budget by 2%, Grad is 14% higher than original budget
+                - projecting January enrolment at 85% of fall numbers (rather than 95%)
+                - 3.8% lower than original budget
+                - EBIDT is significantly below last year. 
+                - Macro number: amount that is replaced by Spring enrolment (how much of the sales in the Fall is replaced by the Spring) - what replacement number do we need in January in GLOBAL?
+                    - 1. compensation increases go up, even though we have made adjustments
+                        - costs of the people hired in 19-20 fiscal year, faculty who were hired in and staff who were hired in 19-20, but not added on May 1, they get fully reflected in 20-21.
+                    - 2. debt servicing costs
+                        - Amount of money that we need to have available in order to cover friendly RRSP debt, and the amount that we set aside to carry the credit line with HSBC
+            - Drop/Add date: 
+            - Projections (likely end)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2Fnlo8Z79NBh.png?alt=media&token=ca276a44-47c9-4f12-bcab-2ad15bd69274)
+        - 4. Discussion: physical space utilization procedures at TWU — Aklilu
+            - Pressures on space
+                - no current procedure to ask for and acquire space
+                - we need a policy to have this managed by campus services team:
+                    - implementing priorities that: feedback necesary to Aklilu.
+        - 5. Discussion: risk related to student parties – Sonya
+            - We are at our biggest risk: student activity at parties
+                - Athletics is starting to come down quickly
+                    - are we moving policies to address this
+            - Discussion
+                - We need co-ordination of Athletics, Student-life, and Health Safety restrictions.
+                    - 
+        - 6. Discussion: Spring decision (confirmation of multi-access vs face-to-face) — Sonya
+            - Decision related to timing
+                - what have our competitors announced?
+        - 
+    - ^^Action Items^^ 
+        - [ ] Mark will provide Bob and Aklilu a Word version of the Draft of the IPPTF for their edits and use.
+        - [ ] ELT will need to offer Aklilu feedback on Space Management Policy Draft for ELT meeting [September 24th, 2020](<September 24th, 2020.md>)
+        - [ ] ^^Decision^^: Draft and put into operation "Notice of Disciplinary Consequences related to Health and Safety Expectations”
+            - Student Life, Athletics, Provost Office, and Health & Safety policy to ELT by — critical to have this operationalized by end of week, public relations and MarComm work on this early next week so that ELT and communications go out on Thursday following formal approval of ELT. 
+        - [ ] ^^Decision^^: announcement TWU Access - public by next week — Brian will work with MarComm and P.R. to draft material for public announcement. We anticipate that our Spring Graduation will be a virtual event. 
+        - 
+    - 
+- Call Nadia Stewart - Graduation Speaker
+    - 604-603-7587
+- [ ] Reply to James - Aklilu - Margaret:
+    - **What critical updates do you have for me?**
+        - - Workforce Planning: received budget approval for workforce plan, awaiting your approval on the workforce plan and I can move forward
+        - - TWU "Life Doesn't Come With A Map" Vision Tour:  details and logistics are sorted and invites are planned to go out today
+- [ ] ask Ann to schedule meeting with James and I tomorrow re: Vision focus groups
+- [ ] contact Laurie with details related to next week’s faculty faith and learning group. 
+- [Trinity Fellows Meeting](<Trinity Fellows Meeting.md>) - Wednesday, September 16, 2020
+    - Devotional: Mark 
+        - The program is not only about career develoment, but also personal and spiritual development and growth. 
+            - 
+    - Questions for Aklilu and Sonya:
+        - next time we meet as a group Sonya can run the session with the six of us. Today: if you could be prepared to answer these two questions: (1) what was a challenging leadership issue or situation you faced this week? And (2) what did you learn from this situation?
+            - International degree completion students:
+                - listened first, were vulnerable in showing an imperfect video , and held a town hall
+            - 30% of the students on Monday, many more on Tuesday, and now we are sending out a survey
+- take it seriously, not let the perfect be the enemy of the good, find a good solution, and not react.
+            - Budget Questions:
+                - Integrity and Competence 
+patience, 
+Lessons: 
+                    - confirm your observation
+examine your bias
+own the challenge of communication - examine your own contriution
+respond with clarity and, more importantly, honesty. 
+An Organizational Culture issue
+
+                        - Observations
+                            - do not go to bed angry
+                            - examine your bias
+                            - worry about culture and the impact of your actions on others - take a longer term vision of acts.
+                    - 
+    - Questions for Fellows:
+        - What were your “high’s and lows” from the first week as Fellows?
+            - Chanhee:
+                - no lows: 
+                - highs: 
+            - Naomi:
+                - lows: long, long day, and then a class a 6pm. 
+                - highs: meetings with James and Winnie around vision
+            - Sarah:
+                - no lows:
+                - highs: happy to jump in, start learning, get to know each other
+        - What were you most surprised by?
+            - research on Sonya - more positions and roles
+            - how expansive is the business department, also similar passions about development.
+            - how many times in conversations: evangelicalsim, women in leadership, diversity. 
+        - What questions and topics are you hoping that we can discuss together over the next few weeks/months?
+            - Topics for Discussion over the next few months:
+                - Concern: Chinese students - about infection Covid-19 - responsible for payment for treatment?
+                - Decision Making: How do you trust yourself when you don't know the right answer
+                - Leadership: How do you handle criticism?
+                - Calling: how do you lead with a sense of who you are, etc., 
+                - Finances: how do we construct a budget and what has been the impact of COVID-19 on our budget? 
+        - ![:+1:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/apple-small/1f44d.png)**3**
+            - Closing:
+Thank you for being so eager in your relationship with the Murdoch Foundation
+- you were the first and only mentees who reached out to Murdoch to register for the fall retreat.
+so. Well done!
+- [Ann Coats](<Ann Coats.md>) Meeting - September 16, 2020
+    - Erin Thiessen - Student Life
+    - [ ] card for Kalfeldts due [September 17th, 2020](<September 17th, 2020.md>)
+    - [ ] opening welcome letter  for Graduation folder due by [September 28th, 2020](<September 28th, 2020.md>)
+    - [ ] Budget Items:
+        - Review President's Office due [September 17th, 2020](<September 17th, 2020.md>)
+            - External Relations
+            - James Budget
+            - [ ] [October 31st, 2020](<October 31st, 2020.md>) Speaking at Christian Leadership Conference SCBC - virtual: present Live and and Q&A
+            - 
+            - 
+    - 
+
+# Backlinks
+## [  📅  Weekly Calendar](<  📅  Weekly Calendar.md>)
+- [September 16th, 2020](<September 16th, 2020.md>)\
+

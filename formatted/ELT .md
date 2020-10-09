@@ -1,0 +1,59 @@
+- Present: Aklilu, Bob, Brian, Mark, Phil, Richard, Sonya
+- Devotions – Richard (next week Richard)
+- 1. Institutional Program Prioritization Task Force Mandate - Mark
+- Current State of Preparation for IPP — Bob , Aklilu
+- Question of “in confidence"
+- 2. Enrolment Update - Brian Kerr
+- Preliminary Census
+- losing some semester hours - some are moving to part time, but remain enrolled at TWU
+- could be wrestling with handling the online element
+- payment date last year was September 13
+- Enrolment seems to be holding quite well
+- Where did the dramatic rise in graduate enrolment (more than double last year)
+- MBA, and MA Lead (Business stream)
+- not exclusively but largely 96 hour marathon
+- problem with MA Lead - we are dependent upon one faculty member
+- not sustainable in being able to keep or increase volume
+- Enrolment Pipeline:
+- barrier was flight and getting to Canada
+- a huge market in Grad programs
+- American students, International Students, and U.S. is not a great option
+- Problem: we simply don’t have enough grad programs that meet the need of these students:
+- “Business” is an attractive term
+- Data Science, M.Tech (institutional Systems, and Analytics), M. Science and Management (Indiana Wesleyian)
+- Spring: hypothesis - incoming students don’t pick spring courses until they are already here — so we do not have as many students registered yet, as we work on a slower pace of registration intentionally.
+- We implemented Web-registration this week — and we do this in one week: yet to come.
+- 3. Update on Revised Budget Process — Aklilu
+- Tuition revenue 3.5 million under last year’s budget
+- UG is lower than original budget by 2%, Grad is 14% higher than original budget
+- projecting January enrolment at 85% of fall numbers (rather than 95%)
+- 3.8% lower than original budget
+- EBIDT is significantly below last year.
+- Macro number: amount that is replaced by Spring enrolment (how much of the sales in the Fall is replaced by the Spring) - what replacement number do we need in January in GLOBAL?
+- 1. compensation increases go up, even though we have made adjustments
+- costs of the people hired in 19-20 fiscal year, faculty who were hired in and staff who were hired in 19-20, but not added on May 1, they get fully reflected in 20-21.
+- 2. debt servicing costs
+- Amount of money that we need to have available in order to cover friendly RRSP debt, and the amount that we set aside to carry the credit line with HSBC
+- Drop/Add date:
+- Projections (likely end)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2Fnlo8Z79NBh.png?alt=media&token=ca276a44-47c9-4f12-bcab-2ad15bd69274)
+- 4. Discussion: physical space utilization procedures at TWU — Aklilu
+- Pressures on space
+- no current procedure to ask for and acquire space
+- we need a policy to have this managed by campus services team:
+- implementing priorities that: feedback necesary to Aklilu.
+- 5. Discussion: risk related to student parties – Sonya
+- We are at our biggest risk: student activity at parties
+- Athletics is starting to come down quickly
+- are we moving policies to address this
+- Discussion
+- We need co-ordination of Athletics, Student-life, and Health Safety restrictions.
+- 6. Discussion: Spring decision (confirmation of multi-access vs face-to-face) — Sonya
+- Decision related to timing
+- what have our competitors announced?
+- Action Items
+- **** Mark will provide Bob and Aklilu a Word version of the Draft of the IPPTF for their edits and use.
+- **** ELT will need to offer Aklilu feedback on Space Management Policy Draft for ELT meeting [September 24th, 2020](<September 24th, 2020.md>)
+- **** Decision: Draft and put into operation "Notice of Disciplinary Consequences related to Health and Safety Expectations”
+- Student Life, Athletics, Provost Office, and Health & Safety policy to ELT by — critical to have this operationalized by end of week, public relations and MarComm work on this early next week so that ELT and communications go out on Thursday following formal approval of ELT.
+- **** Decision: announcement TWU Access - public by next week — Brian will work with MarComm and P.R. to draft material for public announcement. We anticipate that our Spring Graduation will be a virtual event.

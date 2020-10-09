@@ -1,0 +1,5 @@
+- Keywords: #Archives
+- Due Date: [[Monday, August 31, 2020]]
+- Goals: Write Commissioning Address
+- 
+- 

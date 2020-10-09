@@ -1,0 +1,9 @@
+- [Books//Articles](<Books//Articles.md>)
+- [ ] Send Brian job descrioption
+- [ ] laundry
+- [ ] vacuum house
+- [ ] call becky
+- [ ] write to Jocyeln Li
+- [ ] respond to Alan Thorpe
+- [ ] writing [P: Convocation Address 2020](<P: Convocation Address 2020.md>)
+- 

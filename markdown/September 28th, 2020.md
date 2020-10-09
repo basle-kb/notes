@@ -1,0 +1,6 @@
+- **Fall Graduation Review Discussion**
+    - {{[[TODO]]}} @Holly -- do we have a good example of Santa Ono's moderating of the Graduation service
+    - Who is producing the slides?
+    - Will I be given material for all of the introductions and draft of script for me to work on?
+    - Budget:
+        - 

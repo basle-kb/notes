@@ -1,0 +1,18 @@
+- Books
+    - Author:
+    - Reading Status:
+    - Recommended by:
+    - Tags: [Books](<Books.md>)
+- Articles
+    - Author:
+    - Source:
+    - Recommended by:
+    - Tags: [Articles](<Articles.md>)
+- Projects:
+    - Due Date:
+    - Status:
+    - Related Goals:
+    - Success Criteria:
+    - Tags: [Projects](<Projects.md>)
+- 
+

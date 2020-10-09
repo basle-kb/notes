@@ -1,0 +1,6 @@
+- Additional Index:
+    - [TakingNotes](<../TakingNotes.md>) 
+    - [Read](<../Read.md>) 
+    - [Unread](<../Unread.md>)
+- 
+- https://deanyeong.com/take-notes-online/

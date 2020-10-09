@@ -1,0 +1,3 @@
+- Statements ACTS makes:
+    - "ACTS Seminaries is the graduate school of theology of Trinity Western University and is accredited by the Association of Theological Schools."
+- ACTS Seminary Mission Statement:

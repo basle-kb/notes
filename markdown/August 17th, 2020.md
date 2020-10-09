@@ -1,0 +1,10 @@
+- [[Comms Team Meetings]]
+- Executive Leadership Team Meeting
+    - [[ELT Weekly Check-in]]
+- {{{[[DONE]]}}}} Revise and Distribute Presidential Recommendations to Finance Committee [[Board Report]] [Presidential Recommendations to Finance Committee](https://www.dropbox.com/s/wnryhshj26k6xb6/COVID-19%20Presidential%20Budget%20and%20Organizational%20Recommendations.pdf?dl=0)
+- {{{[[DONE]]}}}} Format Executive Summary of Recommendations to Constituent Members [[August 18th, 2020]] [[Board Report]] [Executive Summary of Recommendations](https://www.dropbox.com/s/rc1iz11asw4inqg/Executive%20Summary%20--%20COVID-19%20Presidential%20Budget%20and%20Organizational%20Recommendations.pdf?dl=0)
+- {{{[[DONE]]}}}} Ask Ann for Feedback on Recommendations
+- {{{[[DONE]]}}}}  follow up with [[Ann Coats]] regarding start dates and "orientation" that we need to provide for [[Trinity Fellows]] [[August 18th, 2020]]
+- {{{[[DONE]]}}}} review **TWU COVID-19 Safety Plan: Journey Forward**[[August 18th, 2020]]
+- {{[[TODO]]}} review [[Winnie Lui]] letters to government officials regarding COVID-19 readiness [[August 18th, 2020]]
+- 

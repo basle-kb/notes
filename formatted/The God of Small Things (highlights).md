@@ -1,0 +1,12 @@
+- **[Author](<Author.md>):** [christianitytoday.com](<christianitytoday.com.md>)
+- **[Full Title](<Full Title.md>):** The God of Small Things
+- **[Category](<Category.md>):** [articles](<articles.md>)
+- **[URL](<URL.md>):** https://www.christianitytoday.com/ct/2020/april-web-only/coronavirus-pandemic-temple-small-things.html
+- ### Highlights first synced by #[Congratulations Graduates - Short Message (150 words)](<Congratulations Graduates - Short Message (150 words).md>) [September 27th, 2020](<September 27th, 2020.md>)
+    - “Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? Look at the birds of the air; they do not reap or store away in barns, and yet your heavenly Father feeds them. … See how the flowers of the field grow. They do not labor or spin. Yet I tell you that not even Solomon in all his splendor was dressed like one of these. If that is how God clothes the grass of the field, which is here today and tomorrow is throw into the fire, will he not much more clothe you—you of little faith?”Matthew 6:25–26, 28–30 
+- **[Author](<Author.md>):** [christianitytoday.com](<christianitytoday.com.md>)
+- **[Full Title](<Full Title.md>):** The God of Small Things
+- **[Category](<Category.md>):** [articles](<articles.md>)
+- **[URL](<URL.md>):** https://www.christianitytoday.com/ct/2020/april-web-only/coronavirus-pandemic-temple-small-things.html
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 29th, 2020](<September 29th, 2020.md>)
+    - “Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? Look at the birds of the air; they do not reap or store away in barns, and yet your heavenly Father feeds them. … See how the flowers of the field grow. They do not labor or spin. Yet I tell you that not even Solomon in all his splendor was dressed like one of these. If that is how God clothes the grass of the field, which is here today and tomorrow is throw into the fire, will he not much more clothe you—you of little faith?”Matthew 6:25–26, 28–30 

@@ -1,0 +1,49 @@
+- Keywords: [ELT-Meetings](<ELT-Meetings.md>)
+Date: [October 7th, 2020](<October 7th, 2020.md>)
+Week: 40
+- 
+- 9:00-10:45 am
+- **Agenda**
+    - Devotions @Brian (next week Bob)
+    - 1. TWU Policy Development Process - Sonya
+    - 2. Partnerships – Brian
+    - 3. Campus Security - Mark
+    - 4. Update on Vision conversations - Mark
+- 
+- Devotions
+    - Brian:
+        - [Community Covenant](https://www.twu.ca/sites/default/files/community_covenant_june_25_2019.pdf)
+            - 
+            - 
+- I. TWU Policy Development Process
+- 2. Partnerships
+    - Acadeum
+        - 
+    - Baylor University
+        - Undergraduate pathway - Engineering
+            - direct pathway with pre-engineering 2 years at TWU, 2 more years at Baylor.
+        - Graduate pathway
+        - International students at Baylor are in a bit of a dead-end
+            - Baylor has indicated that none of their graduating undergraduates are able to remain in the U.S.
+            - We could pair M.A. Lead general stream with Masters of Science and Data Analytics
+                - we would have an articulation agreement with Baylor
+                    - courses are shared from both Master's Degree
+        - Discussion:
+            - 
+- 3. Campus Security
+    - 
+- 4. Update on Vision Statements
+    - 
+- -----
+- 
+- ^^Action Items^^ 
+    - [ ] ^^Decision^^: DADFdfd
+    - [ ] ^^Decision^^: DADFdfd
+    - [ ] ^^Decision^^: DADFdfd
+    - [ ] ^^Decision^^: DADFdfd
+    - 
+    - 
+    - 
+    - 
+    - 
+- 

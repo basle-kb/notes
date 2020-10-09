@@ -1,0 +1,36 @@
+"O Eternal God, bless all schools, colleges and universities, especially Trinity Western University, that they may be lively centers for sound learning, new discovery and the pursuit of wisdom; grant that those who teach and those who learn may find you to be the source of all truth. (Anglican Collect — __Book of Common Prayer__)"
+
+## ^^How to Prepare for your Assigned Reading(s)^^
+    In order to facilitate a good discussion of the assigned reading(s), strive to organize your thoughts and reflections in light of the following: 
+        Carefully read the chapter or article that has been assigned to you. 
+        For each reading assigned to you, take the time to identify the most important passages, and arrive at the discussion with two or three questions that the material has raised for you.
+    Note, if you have been assigned the task of introducing one of the assigned readings for the day, take the time to write a concise introduction to the reading that covers the following:
+        1. In order to prepare to introduce this reading, ask yourself the following question (before you start the reading): what did you think this doctrine / topic was going to be about?
+        2. After completing the reading, and as you prepare to introduce it, ask yourself “how has my mind changed as a result of today’s reading(s)?
+        3. Identify what, in your opinion, is the most important passage from the assigned reading and be prepared to explain why this is the case.
+        4. What two questions about this topic do you hope that we answer today – i.e., what are the most important questions left for you that you hope to better understand at the conclusion of our time together?
+        5. How might this topic and reading enable ELT and TWU to make significant progress this year. In a season of disruption, we have the opportunity and need to reimagine all that we are doing to determine how best to (1) determine the "job that needs to be done" among our existing and prospective students; (2) realign key facets of what we have been doing to more successfully deliver a compelling value proposition. 
+    __Note: you will have about 5 minutes to introduce the assigned reading.__
+    
+    Here is the list of topics with accompanying readings and "assignments to facilitate the discussion"
+    ^^TOPIC, Readings, and Facilitator^^
+        ### Enrolment Challenges at Evangelical Institutions
+            ["Hundreds of Positions Eliminated at Evangelical Colleges and Universities"](https://www.dropbox.com/s/in09fwimgyvxe0g/Hundreds%20of%20Positions%20Eliminated%20at%20Evangelical%20Colleges%20and%20Universities.pdf?dl=0) — Mark Husbands
+        ### The Changing Face of Work
+            ["The Future of Work: Part One -- The changing workplace and the dual threats of automation and a gig economy"](https://www.dropbox.com/s/hott7ruxsm3g4uw/future-of-work-part-1.pdf?dl=0) — Aklilu Mulat
+            [Washington Post Opinion Piece by Jeffrey J. Selingo, June 1, 2016 ["The myth of the well-rounded student? It’s better to be ‘T-shaped’."](https://www.dropbox.com/s/wewot5uukp3riyo/Opinion%20%7C%20The%20myth%20of%20the%20well-rounded%20student%3F%20It%E2%80%99s%20better%20to%20be%20%E2%80%98T-shaped%E2%80%99..pdf?dl=0) — Richard Taylor
+            [“The Future of Work: Part Two — How higher education can better meet the demands of the 21st century workforce”](https://www.dropbox.com/s/u2aso8ize3eb9av/future-of-work-part-2.pdf?dl=0) — Phil Laird
+            ["The Future of Work: Part Three — The colleges and universities already filling the needs of the next economy."](https://www.dropbox.com/s/eom74bccowf3a2i/future-of-work-part-3.pdf?dl=0) — Brian Kerr
+            [Jeffrey J. Selingo, July 28, 2019, "MBA enrollment is down again. What’s the future of the degree?"](https://www.dropbox.com/s/egfilflwiqdctj8/MBA%20enrollment%20is%20down%20again.%20What%E2%80%99s%20the%20future%20of%20the%20degree%3F.pdf?dl=0) — Sonya Grypma
+        ### Educating for Life: Focus on Calling
+            ["Author of new book on 'purposeful graduates' says colleges must talk to students about making meaningful lives"](https://www.dropbox.com/s/wt1ad4ldmei5ifa/Author%20of%20new%20book%20on%20%27purposeful%20graduates%27%20says%20colleges%20must%20talk%20to%20students%20about%20making%20meaningful%20lives.pdf?dl=0) — Richard Taylor
+            ["A Roadmap for Transforming the College-To-Career Experience"](https://www.dropbox.com/s/pcz0izqc6yscohk/A-Roadmap-for-Transforming-The-College-to-Career-Experience.pdf?dl=0) — Brian Kerr
+        ### Program Prioritization
+            ["Colleges Need to Rethink Their Market — and Maybe Their Mission: Too many institutions are stuck in the last decade"](https://www.dropbox.com/s/q5dh610mj0lpcrs/Colleges%20Need%20to%20Rethink%20Their%20Market%20%E2%80%94%20and%20Maybe%20Their%20Mission.pdf?dl=0) — Sonya Grypma
+            [Dickeson, "Selecting Appropriate Criteria — Chapter 5"](https://www.dropbox.com/s/ki3twa2rl0yvso9/Dickeson%20-%20Prioritizing%20Academic%20Programs%20-%20Chapter%205.pdf?dl=0) — Aklilu Mulat
+            [Dickeson, "Anticipating Process Issues — Chapter 7"](https://www.dropbox.com/s/sj5nfdo3k4bi8u2/Prioritization%20-%20Dickeson%20-%20Chapter%207.pdf?dl=0) — Bob Wood
+        ### Educating for Faith Formation
+            [Hunter — To Change the World — "Difference and Dissolution"](https://www.dropbox.com/s/7dbe3bq0tciqfie/Hunter%20-%20To%20Change%20the%20World%20-%20Difference%20and%20Dissolution.pdf?dl=0) — Mark Husbands
+            ["Baylor -- Unambiguously Christian Educational Environment"](https://www.baylor.edu/illuminate/index.php?id=951740) -- Sonya Grypma
+            ["Wheaton - Christ at the Core"](https://www.wheaton.edu/academics/the-liberal-arts-at-wheaton-college/christ-at-the-core-liberal-arts-at-wheaton/) — Phil Laird
+    

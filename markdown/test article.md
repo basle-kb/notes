@@ -1,0 +1,7 @@
+- Metadata:
+    - Author: Sample Author
+    - Tags: Books//Articles
+    - Type: #Article
+    - Status: #TakingNotes
+    - Source: Web
+- 

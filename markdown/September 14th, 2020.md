@@ -1,0 +1,14 @@
+- {{{[[DONE]]}}}} look up the request for a [[Vision and Calling - Murdoch Retreat]] one-minute video for the retreat
+- {{{[[DONE]]}}}} send of report to Leighton
+- {{[[DONE]]}}  find Drafts and contact Scott and Adrienne Tigler's new U.S. student 
+    - {{[[TODO]]}} send note to new U.S. student
+- {{{[[DONE]]}}}} revise and send off V.P. advertisement to Margaret
+- {{{[[DONE]]}}}} check in with Naomi
+- {{{[[DONE]]}}}} have ann Schedule time for [[Trinity Fellows Meeting]]
+- {{{[[DONE]]}}}} follow up with Nadia fe graduation speaking #p1
+- {{[[DONE]]}} Draft Institutional Program Prioritization Task Force Mandate
+    - {{[[DONE]]}} add the draft to ELT Agenda
+    - {{[[DONE]]}} add reference to NWC post-prioritization announcement: [Strategizing for Strength](https://www.nwciowa.edu/strategizing-for-strength)
+- {{{[[DONE]]}}}} Review and correct donor proposal: Schroeder Pavillion #p1
+- {{[[DONE]]}} Review and prepare for ELT: Vision Statement and Engagement Proposal
+    - Review /[[Preparation for [[Vision Focus Groups]]]]

@@ -1,0 +1,10 @@
+- [Comms Team Meetings](<Comms Team Meetings.md>)
+- Executive Leadership Team Meeting
+    - [ELT Weekly Check-in](<ELT Weekly Check-in.md>)
+- {[x] }} Revise and Distribute Presidential Recommendations to Finance Committee [Board Report](<Board Report.md>) [Presidential Recommendations to Finance Committee](https://www.dropbox.com/s/wnryhshj26k6xb6/COVID-19%20Presidential%20Budget%20and%20Organizational%20Recommendations.pdf?dl=0)
+- {[x] }} Format Executive Summary of Recommendations to Constituent Members [August 18th, 2020](<August 18th, 2020.md>) [Board Report](<Board Report.md>) [Executive Summary of Recommendations](https://www.dropbox.com/s/rc1iz11asw4inqg/Executive%20Summary%20--%20COVID-19%20Presidential%20Budget%20and%20Organizational%20Recommendations.pdf?dl=0)
+- {[x] }} Ask Ann for Feedback on Recommendations
+- {[x] }}  follow up with [Ann Coats](<Ann Coats.md>) regarding start dates and "orientation" that we need to provide for [Trinity Fellows](<Trinity Fellows.md>) [August 18th, 2020](<August 18th, 2020.md>)
+- {[x] }} review **TWU COVID-19 Safety Plan: Journey Forward**[August 18th, 2020](<August 18th, 2020.md>)
+- [ ] review [Winnie Lui](<Winnie Lui.md>) letters to government officials regarding COVID-19 readiness [August 18th, 2020](<August 18th, 2020.md>)
+- 

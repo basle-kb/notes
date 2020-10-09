@@ -1,0 +1,86 @@
+- Keywords: #[Trinity Fellows](<Trinity Fellows.md>)
+- Date: 
+- Topic: program self-assessment 
+- Goals: 
+- ---------------
+- 
+- 
+- Emmaus Scholars Program —  Self-Assessment, June 2014
+- # Introduction
+- The Emmaus Scholars Program is an innovative one-year program (comprised of 15 Hope College Sophomores and Juniors) in intentional Christian community focused upon integral mission. 
+- ## Mission
+- This innovative program in “lived theology” employs an experiential-learning model that integrates theological reflection, intentional community and a commitment to integral mission. 
+- The focus upon integral mission provides a scholarly, spiritually meaningful, and moral order within which students can inquire after, seek to embody and demonstrate their love of God and neighbor in a wholly integrated fashion.
+- ## Strategic Significance of the Program
+- The Emmaus Scholars Program is a strategic implementation of Hope’s goal of linking three critical program areas of the college: Academic, Campus Ministries, and Student Development. Working together, these three elements provide students with a supportive, spiritually vital and academically challenging learning experience.
+    - As an is innovative program in “lived theology” — the Emmaus Scholars Program privileges experiential learning, theological reflection, intentional community and a commitment to integral mission. The focus upon integral mission provides a scholarly, spiritually meaningful, and moral order within which students can inquire after, seek to embody and demonstrate their love of God and neighbor in a wholly integrated fashion.
+- ## Christian Community
+- Commenting upon the real blessing of the physical presence of other Christians, Dietrich Bonhoeffer writes:
+    - "It is easily forgotten that the community of Christians is a gift of grace from the kingdom of God, a gift that can be taken from us any day—that the time still separating us from the most profound loneliness may be brief indeed. Therefore, let those who until now have had the privilege of living a Christian life together with other Christians praise God’s grace from the bottom of their hearts. Let them thank God on their knees and realize: it is grace, nothing but grace, that we are still permitted to live in the community of Christians today." (29-30)	
+- Christian community only exists in Christ. There are all sorts of other, more general, notions of "community". The task and privilege that lies ahead for each of us in the Emmaus Scholars Program, is to discover, nurture, cherish, and share in genuine Christian community. 
+- The Emmaus Scholars Program provides a cohort of emerging adults with a vital context in which to to experience intentional Christian community. By meeting for daily prayer, coursework, fellowship, discussions, "Mennonite dinners", and sharing in the work of community development and justice, we seek to live out the Gospel of Christ in winsome and caring ways.  Inviting guests to share our community in prayer, over meals, discussions, and in service, allows for hospitality, learning, and outreach.
+- # I. Execution of Key Goals of the Program
+- The Emmaus Scholars Program is an intentional Christian community that integrates a number of key  elements in faith and practice. Key to the program is the execution of an experiential learning model of pedagogy.
+- ![Experiential Learning Model](https://www.dropbox.com/s/1a3dqrm3lqmbcae/Screenshot%202014-06-11%2014.40.12.png)
+- Through guided experiential-learning opportunities, reflection and conversation on the nature of identity, community, self-giving, discipleship, integral mission, and culture care, we aim to foster deep and critical reflection upon moral, social, theological and cultural witness. The fruits of individual and shared reflection, journaling, and joint research, are brought together in a final summative presentation. Students are given opportunities to reflect back upon and process these experiences in order to foster deep connections between faith, justice, reconciliation, and social responsibility.
+- The following documents how these goals were achieved throughtout the course of the first year of the pilot stage of the program.
+- ## I. Critical Thinking
+- Fully aware of the diverse sociological and intellectual impediments to Christian formation among emerging adults, the Emmaus Scholars Program is committed to fostering a high level of academic, spiritual, moral and experiential learning in the service of discovering the meaning and significance of integral mission. 
+- Accordingly, this program provides a select group of Hope College students with a unique opportunity to connect their learning, spiritual and moral formation to the biblical promise that Christ will truly be all in all (Col 3:10).  
+- Academic work undertaken by Emmaus Scholars includes collaborative research, a seminar “Reconciliation and Integral Mission”; a leadership course, “Team Building, Servant Leadership, Christian Perspective”; and an experiential learning course, “Integral Mission and Community” for a total of 10 credits. 
+- *The Leading goals of the Curriculum were as follows**:
+- 1. To help a cohort of Hope College students to embody a life-long commitment to integral mission. 
+- 2. To help Emmaus Scholars to grow intellectually, socially, academically, spiritually, and morally.
+- 3. To connect deep patterns of biblical justice to the concrete needs of communities by learning and practicing integral mission and thus share in God’s reconciliation of the world in Christ.
+- 4. To publish the best of our research on integral mission so that others (faculty, researchers, students, Christian leaders) may come to better understand and share in integral mission. 
+- 5. To discover, and employ gifts of servant-leadership within the Emmaus cohort, the Hope College community and the surrounding neighborhood.
+- Critical Thinking Skills were developed in the course of completing the following pieces of academic work:
+- ![Emmaus Academic Work](https://www.dropbox.com/s/wl7fsb63co75pyq/academic%20work.png)
+- ## Moral Vision
+- (Biblical Understanding of Justice and the Kingdom of God)
+- One of the ways in which we sought to develop a deeper moral vision of the kingdom of God was through what is called "Mennonite Dinners". These dinners took place every Sunday evening (from 5-7:30pm). These dinners served to:
+- provide a concrete setting for intentional Christian community by having Emmaus students take turns shopping for food and preparing the dinners, setting up and taking down the tables, chairs, etc., and washing dishes together.
+- expose students to inviduals whose lives and work embody the kind of moral commitments to justice that the students were learning about in more formal settings.
+- Provide a forum in which Emmaus students could ask formative questions about vocation and Christian witness.
+- enabled students to learn from the following dinner guests:
+- #### Fall 2013 Mennonite Dinner Guests:
+- September 8 	- Fred Johnson (History Professor, Hope College)
+- September 22 	- Jeff and Melissa Roessing - 8th Day Farm 
+- September 29 	- Bruce Benedict (candidate for Chaplain of Worship)
+- October 6			- Jamie Brown (candidate for Chaplain of Worship)
+- October 20		- Yolanda Vega (Phelps Scholars Program) and Johnny Vega
+- October 27		- Jon and Kristyn Brown (Lead Pastor, Pillar Church)
+- November 3		- Steven Vanderveen (Professor of Management and Director of the Center for Faithful Leadership) 
+- November 10	-  Trygve Johnson (Dean of the Chapel, Hope College)
+- November 17 	- Sarah Estelle (Economics Professor, Hope College)
+- November 24 	- Darryl Bartlett, Executive Director of the Holland Rescue Mission
+- December 8		- Emmaus Community (no guest)
+- ###[Spring](<Spring.md>) 2014 Mennonite Dinner Guests:
+- January 12 	- Sarah and Jeff Hoos (Hope College)
+- January 19		- Donna and David Lowry (David - Neurosurgeon, Secretary of the Board of Trustees, Donna, OBGyN - Health Director, Ready for School)
+- January 26		- Chuck, Sarah, Maggie and Emma DeGroat (Associate Professor of Pastoral Care and Counselling, Western Theological Seminary)
+- February 16	- Michael and Sonya Trent Brown (and Michael Jr.) (Psychology Professor, Program Co-ordinator of the Phelps Scholars Program)
+- February 23	-	Andy and Laurel McCoy (Director of the Center for Ministry Studies, Hope College)
+- March 2		- Beth Snyder (Member of the Board of Trustees, Program Manager, Exxon Mobil)
+- March 9 		- David and Janelle Phillips, (Professor of Economics, Hope College, he and Janelle lived in an intentional Christian Community in Washington D.C.)
+- March 30	- Patrice Rankine (Dean of the Arts and Humanities, Hope College)
+- April 6		- Rich Ray (Provost, Hope College)
+- April 13		- Joseph Byrd (Minister of Worship and the Arts, Zion Lutheran, actor and spiritual director)
+- April 27 	- Emmaus Community (no guests)
+- #### Spring Break Integral Mission Trip to D.C.
+- Panel Discussion of Vocation: "Living out One's Faith in the City" - Church of the Advent, March 16, 2014 - (Four women from the Church of the Advent committed to intentional Christian community shared how their professional and personal lives are shaped in critical ways by their faith leading them to live out lives of justice in the non-profit, artistic and diplomatic spheres).  
+- ## Integrated Spiritual Life
+- (Spiritual Formation)
+- The Director and/or Assistant Director met with Emmaus students for morning and evening prayer (every weekday morning, and Monday, Tuesday and Thursday evenings: 8 a.m. , and 10 p.m.): 16 wks in the Fall and 16 wks in the Spring
+- The liturgies for morning and evening prayer used were from the Book of Common Prayer, the Northumbria Community and "Wee Worship Book" (Wild Goose Publications)
+- Early these liturgies were led the Director and/or Assistant Director, by October students were invited to lead these prayers: this involved preparing a reflection on  given biblical passage (from the common lectionary and the Shane Claiborne "Common Prayer" lectionary readings) helping others to see the connection between Scripture and their daily lives, he/she was expected to come to the prayer time with global concerns for which we could pray and invited those gathered to share prayer personal/community needs. equests, the leader also was expected to 
+- The Director and approximately 8 Emmaus students attended a weekly bible study on the book of Romans at Pillar Church on Wednesday evenings
+- Following our Sunday community dinner ("Mennonite dinner") Emmaus students regularly attended The Gatherings.
+- The Director met with each Emmaus student in the Fall and Spring one-on-one and, as needed given particular challenges and developments in individual student lives.
+- #### Spring Break Integral Mission Trip to D.C.
+- Church of the Servant, D.C. (visit) - Sunday Morning - March 16, 2014
+- Curch of the Advent, D.C. (visit) - Sunday Evening - March 16, 2014
+- Panel Discussion of Vocation: "Living out One's Faith in the City" - Church of the Advent, March 16, 2014 - (Four women from the Church of the Advent committed to intentional Christian community shared how their professional and personal lives are shaped in critical ways by their faith leading them to live out lives of justice in the non-profit, artistic and diplomatic spheres).  
+- ## Activie Commitment to Justice
+- (Walking with the Poor)
+- ## Conclusion

@@ -1,0 +1,5 @@
+- Keywords: [Archives](<Archives.md>)
+- Due Date: [Monday, August 31, 2020](<Monday, August 31, 2020.md>)
+- Goals: Write Commissioning Address
+- 
+- 

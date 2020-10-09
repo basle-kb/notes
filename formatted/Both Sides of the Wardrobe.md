@@ -1,0 +1,17 @@
+- Books // Articles
+    - Metadata:
+        - Author: Robert C. Fennell (ed)
+        - Tags: Books//Articles
+        - Type: [Book](<Book.md>)
+        - Status: [TakingNotes](<TakingNotes.md>)
+        - Source:https://books.google.ca/books?hl=en&lr=&id=zWaPCwAAQBAJ&oi=fnd&pg=PA20&dq=%22Certainly+there+was+an+Eden+on+this+very+unhappy+earth%22&ots=c04wPyY-11&sig=wVQIVvuOiopcmOV8SEiTI-bsWAo&redir_esc=y[v](<v.md>)=onepage&q&f=false
+    - "Two Paths to Joy: C.S. Lewis and J.R.R. Tolkien on Joy and Eucatasrophe" Allen B. Robertson
+        - >"J.R.R. Tolkien likewise wrote of that joy, though he wraps it up in his understanding of *eucatastrophe*, that is, the unexepected happy ending or joyous reversal of history. This is a universal, radiant joy that is the vital spark of faith..." (20)
+        - >"Tolkien was emphatic about the two key events in universla joy: the eucatasphe of history was the Incarnation, and the eucatasrophe for humanity was the Resurrection. This great story, as he eloquently wrote of it, began and ended in joy. 
+        - >"...the depth of Tolkien's theological explorations has not always been fully recognized, though the influence of his Roman Catholic faith on his fantasy writings can hardly be ignored. His insights into faith are couched in the language of poetry and mythology." (21)
+        - >"Tolkien's insights received their first proper expressions in the Andrew Lang Lectures delivered in 1938 at the University of St. Andrews and entitled "On Fairy-Stories." (21)
+::take notes on the Lang Lecture::
+        - >comments on *Sehnsucht*: a sought-after vision or state which can haunt one and disturb one's sense of peace" i.e., longing for Eden, and homesickness
+        - >"This was the flash of Truth behind our reality: the joy found in God. That longing and desire were deeply felt and their panges were fleeting. Such elusiveness could never by overcome except by way of a life transformed in death and resurrection. Both Lewis and Tolkien realized that we could not, on our own, create this joy through pleasure or creaturely comforts. Such joy is a gift given to us unexpectedly and without warning, yet is more real than anything one materially possess. It is beyond the ordinary and can embrace the contradictory emotions of sorrow and joy." (24) 
+        - In a letter (110), Tolkien "returned to the attractraction of the happy ending modif, basing it on the relationship with humanity as originally intended by God and located in the account of Eden..."
+            - "certainly there was an Eden on this very unhappy earth. We all long for it, and we are constantly glimpsing it; our whole nature at its best and least corrupted, its gentlest and most humane, is still soaked with the sense of `exile'." 
