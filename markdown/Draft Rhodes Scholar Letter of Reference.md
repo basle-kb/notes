@@ -1,3 +1,10 @@
+- Dear Rhodes Scholarship Selection Committee, 
+- 
+- As President of Trinity Western University, it is my privilege to offer you this letter of strong support for Mr. Jordan Koslowsky. Jordan is an individual who embodies the highest expression of intellectual, moral, and inter-personal qualities. I respectfully submit that Jordan is  selfless and abiding commitment to protect and honor the dignity and lives of marginalized and vulnerable people across the globe reveals how very much he is, what Dietrich Bonhoeffer characterized as, a will 
+- 
+- 
+- reflect well upon  reflect well upon the  and dignity of commitment to there is every indication that Jordan will ordan would not only  confident that if Jordan was selected to become a Rhodes Scholar, he would bring 
+- He is a remarkably gifted, engaging, focused, and effective leader who exhibits  what necessary to being a s by the Rhodes Scholarship Committees. -personal characteristics. and outstanding leadership 
 - **Details about Jordan:**
     - Jordan Koslowsky (a Trinity Western University 2019 graduate).
     - based on a considerable amount of personal interaction with this student, that he is an excellent representative of all it means to have a Trinity Western University education
