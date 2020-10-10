@@ -1,4 +1,0 @@
-- UI Colors: https://flatuicolors.com/palette/defo
-- [Leyendecker](<../Leyendecker.md>)
-- [Tag Styles](<../Tag Styles.md>)
-- 
