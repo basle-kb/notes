@@ -11626,18 +11626,36 @@
             "edit-time": 1601424270977,
             "string": "{{[[TODO]]}} ^^Decision^^:  ",
             "uid": "G5OnhsbgV"
-          },
-          {
-            "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1601424270977,
-            "string": "",
-            "uid": "Ba6eKU1_-"
           }
         ],
         "edit-email": "mark.husbands@twu.ca",
         "edit-time": 1601424270977,
         "string": "**Decisions**",
         "uid": "CdZc33ur4"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602302728866,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602302728866,
+        "string": "______________\n{{[[r/moved]]}}[*](((Ba6eKU1_-)))",
+        "uid": "MufB0-6HQ"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602302725429,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602302742025,
+        "string": "{{[[\u2206]]:7+2}}",
+        "uid": "r7eud5XJx"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602302743934,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602302743934,
+        "string": "",
+        "uid": "m9h2eLYHJ"
       }
     ],
     "edit-email": "mark.husbands@twu.ca",
@@ -39652,5 +39670,25 @@
     "edit-email": "mark.husbands@twu.ca",
     "edit-time": 1602289066950,
     "title": "October 10th, 2020"
+  },
+  {
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602302724245,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602302724249,
+    "title": "\u2206"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602302728873,
+        "string": "______________\n{{[[\u2206]]:9+2}}",
+        "uid": "Ba6eKU1_-"
+      }
+    ],
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602302728864,
+    "title": "October 16th, 2020"
   }
 ]

@@ -45,4 +45,7 @@ Week:
     - {{[[TODO]]}} ^^Decision^^:  
     - {{[[TODO]]}} ^^Decision^^:  
     - {{[[TODO]]}} ^^Decision^^:  
-    - 
+- ______________
+{{[[r/moved]]}}[*](((Ba6eKU1_-)))
+- {{[[∆]]:7+2}}
+- 

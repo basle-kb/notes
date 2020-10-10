@@ -45,4 +45,7 @@ Week:
     - [ ] ^^Decision^^:  
     - [ ] ^^Decision^^:  
     - [ ] ^^Decision^^:  
-    - 
+- ______________
+{{[r/moved](<r/moved.md>)}}[*](((Ba6eKU1_-)))
+- {{[∆](<∆.md>):7+2}}
+- 
