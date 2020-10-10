@@ -39690,5 +39690,140 @@
     "edit-email": "mark.husbands@twu.ca",
     "edit-time": 1602302728864,
     "title": "October 16th, 2020"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "heading": 1,
+        "string": "Evergreen notes",
+        "uid": "eP3cv0WDz"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "string": "__Evergreen notes__\u00a0are written and organized to evolve, contribute, and accumulate over time, across projects. This is an unusual way to think about writing notes:\u00a0[Most people take only transient notes](https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1). That\u2019s because these practices aren\u2019t about writing notes; they\u2019re about effectively developing insight:\u00a0[\u201cBetter note-taking\u201d misses the point; what matters is \u201cbetter thinking\u201d](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc). When done well, these notes can be quite valuable:\u00a0[Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be).",
+        "uid": "TRQrkjplf"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602303745430,
+            "string": "[Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)",
+            "uid": "mRhhSwdBO"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602303745430,
+            "string": "[Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)",
+            "uid": "sRh3R84GQ"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602303745430,
+            "string": "[Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)",
+            "uid": "QlJgxppJA"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602303745430,
+            "string": "[Prefer associative ontologies to hierarchical taxonomies](https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy)",
+            "uid": "kHfJZJRYx"
+          }
+        ],
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "string": "It\u2019s hard to write notes that are worth developing over time. These principles help:",
+        "uid": "4e8ZywoHL"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "string": "This concept evolves in large part from Niklas Luhmann\u2019s\u00a0[Zettelkasten](https://notes.andymatuschak.org/z2QvtE9w5zs49x7WUeG8Ut1vywHDLiG2Wkm9p), which he regards as the independent intellectual partner in writing his 70 books. See\u00a0[Similarities and differences between evergreen note-writing and Zettelkasten](https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm)",
+        "uid": "UOAHvbnxs"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "heading": 2,
+        "string": "Implementing an evergreen note practice",
+        "uid": "1leDckSZk"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602303745430,
+            "string": "[Write about what you read](https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo)",
+            "uid": "5fT9KEioQ"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602303745430,
+            "string": "[A reading inbox to capture possibly-useful references](https://notes.andymatuschak.org/z3N113rxPFreW9xUkLkUFomr2LUqfXbdCo3M)",
+            "uid": "WYbmUAm6w"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602303745430,
+            "string": "[A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz)",
+            "uid": "2ubGwh90T"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602303745430,
+            "string": "[Executable strategy for writing](https://notes.andymatuschak.org/z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8)",
+            "uid": "2nYxwBzzZ"
+          }
+        ],
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "string": "See:",
+        "uid": "EwLQoBwNz"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "heading": 2,
+        "string": "References",
+        "uid": "5mhgQiIsk"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "string": "Ahrens, S. (2017).\u00a0__How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking \u2013 for Students, Academics and Nonfiction Book Writers__.",
+        "uid": "lKbOpNM-z"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "string": "Many students and academic writers think like the early ship owners when it comes to note-taking. They handle their ideas and findings in the way it makes immediate sense: If they read an interesting sentence, they underline it. If they have a comment to make, they write it into the margins. If they have an idea, they write it into their notebook, and if an article seems important enough, they make the effort and write an excerpt. Working like this will leave you with a lot of different notes in many different places. Writing, then, means to rely heavily on your brain to remember where and when these notes were written down.",
+        "uid": "pHFD5YLUk"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "string": "Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.),\u00a0__Universit\u00e4t als Milieu: Kleine Schriften__\u00a0(pp. 53\u201361). Retrieved from\u00a0http://luhmann.surge.sh/communicating-with-slip-boxes",
+        "uid": "V9S26HbZ7"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "heading": 3,
+        "string": "Links to this note",
+        "uid": "ieNkuxCim"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602303745430,
+        "string": "[Enabling environmentA collection of densely-connected Evergreen notes is an enabling environment: Evergreen note-writing helps insight accumulate. (See also Evergreen note-writing as fundamental unit of knowledge work)](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)[Evergreen note-writing as fundamental unit of knowledge workIf you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of Evergreen notes written per day. Note-writing can be a virtuosic skill, but Most people use notes as a bucket for storage or scratch thoughts and Note-writing practices are generally ineffective.](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be)[Write about what you readIt\u2019s not enough to just highlight or write marginalia in books: there isn\u2019t much pressure to synthesize, connect, or to get to the heart of things. And they don\u2019t add up to anything over time as you read more. Instead, write Evergreen notes as you read.](https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo)[Evergreen notes should be concept-orientedIt\u2019s best to factor Evergreen notes by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time (Evergreen notes should be densely linked).](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)[Evergreen note titles are like APIsWhen Evergreen notes are factored and titled well, those titles become an abstraction for the note itself. The entire note\u2019s ideas can then be referenced using that handle (see Concept handles, after Alexander). In fact, this property itself functions as a kind of litmus: as you develops ideas in notes over time and improve the \u201cAPIs,\u201d you\u2019ll be able to write individual notes which abstract over increasingly large subtrees (e.g. Enacted experiences have incredible potential as a mass medium, Evergreen note-writing as fundamental unit of knowledge work).](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C)[Evergreen note-writing helps insight accumulateMuch of the day-to-day thinking involved in creative work is simply lost, like sand castles in the tide. Ephemerality can actually be useful in low-fidelity thought, but it\u2019s simply an accidental property in many cases. We should do our serious thinking in the form of Evergreen notes so that the thinking accumulates.](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb)[Executable strategy for writingBy contrast, if you\u2019ve already written lots of concept-oriented Evergreen notes around the topic, your task is more like editing than composition. You can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative. In fact, because you can Create speculative outlines while you write, you might find that the first of these steps is already accomplished, too. And writing each note isn\u2019t hard: Evergreen notes permit smooth incremental progress in writing (\u201cincremental writing\u201d).](https://notes.andymatuschak.org/z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8)[Most people take only transient notesIn contrast to Evergreen notes, Most people use notes as a bucket for storage or scratch thoughts. These are very convenient to write, but after a year of writing such notes, they\u2019ll just have a pile of dissociated notes. The notes won\u2019t have added up to anything: they\u2019re more like fuel, written and discarded to help the author process their ongoing experiences.](https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1)[Similarities and differences between evergreen note-writing and ZettelkastenMy practice of writing Evergreen notes is heavily inspired by Niklas Luhmann\u2019s Zettelkasten practice and its contemporary advocates. I use a different term both because there are some distinctions and because I want to give myself space to explore ideas in this space apart from the culture surrounding Zettelkasten, which has its own prior values and proclivities.](https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm)[A writing inbox for transient and incomplete notesEven if you aspires to write Evergreen notes, most notes begin as transient notes. You should be able to capture thoughts without friction (Close open loops), then reliably develop them into evergreen notes over time (Knowledge work should accrete). This implies two important mechanisms:](https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz)[Evergreen note-writing helps reading efforts accumulateThis is also why we write Evergreen notes: so that if we encounter a book which discusses a concept we\u2019ve already written about, we\u2019re pushed to integrate new ideas with our prior conception. Certainly, we normally do this when we read, but we\u2019re limited to our faulty memory of other works which might be related. The externalized note-taking system substantially removes this limitation.](https://notes.andymatuschak.org/z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1)[Most people use notes as a bucket for storage or scratch thoughtsThese are not Evergreen notes. Most \u201cstorage-oriented\u201d notes will never be useful again (Most people take only transient notes). More importantly, this framing misses that it\u2019s possible for note-writing to be the \u201creal\u201d work (Evergreen note-writing as fundamental unit of knowledge work).\u00a0](https://notes.andymatuschak.org/z5nw1rPzimCJYyMknDujwvP344Hv3ixCZRZV2)[Writing forces sharper understandingThe additional step of making associations and integrating that writing with prior notes (i.e. to create Evergreen notes, particularly since Evergreen notes should be concept-oriented) makes this effect even more powerful because you have to understand how a given idea relates to other ideas. And when you\u2019re comparing the new ideas to the old, you can see what\u2019s not being said in the new work.](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)[Evergreen notes permit smooth incremental progress in writing (\u201cincremental writing\u201d)These small, self-contained notes represent regular checkpoints. Each note takes only a few minutes to write, but because they\u2019re Evergreen notes, each note is solid ground to stand on\u2014fairly complete relative to its own concept (Evergreen notes should be concept-oriented). Of course, we\u2019ll iterate on their contents over time, but each time we do, that note will remain a mostly-complete, self-contained unit.](https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97)[The mnemonic medium can be extended to one\u2019s personal notesIn using a Spaced repetition memory system, you\u2019ll fill it with notes on what you\u2019re learning, observing, and thinking. Unfortunately, Existing spaced repetition systems discourage evergreen notes. A memory system will help you retain and continuously engage with what you write, but it won\u2019t much help you build on those ideas over time. An Evergreen notes system will help you build on your ideas over time, but it won\u2019t help you retain and continuously engage with those notes (outside of Evergreen note maintenance approximates spaced repetition). So you\u2019re stuck either duplicating your efforts messily in two separate systems, or giving up one system\u2019s benefits.](https://notes.andymatuschak.org/z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE)[Evergreen note maintenance approximates spaced repetitionBecause writing Evergreen notes with dense associative structure (see Evergreen notes should be densely linked) requires that we constantly reread and revise our past writing, this type of note-taking approximates spaced repetition.](https://notes.andymatuschak.org/z6yfTwYekzvBkVjeH7WBUrSAJhyGTMYDAyYW7)[Spaced repetition may be a helpful tool to incrementally develop inklingsI\u2019m often struck by an interesting question or notion in conversation or on a walk. In many cases, I can\u2019t write anything terribly insightful on that topic in that moment: I certainly can\u2019t write a good Evergreen notes. I don\u2019t have anything useful to say about the notion yet\u2014it just seems awfully interesting.](https://notes.andymatuschak.org/z7iCjRziX6V6unNWL81yc2dJicpRw2Cpp9MfQ)[Note-writing practices provide weak feedbackEvergreen notes offer tighter and higher-signal feedback loops because you\u2019re constantly revising and consulting past notes. It\u2019s somewhat easier to notice if a prior note is difficult to revise. The Executable strategy for writing also creates stronger feedback on one\u2019s note-taking practices.](https://notes.andymatuschak.org/z66PNF1Wt4AZ4j7TVEenkvPZgvDcHPuSdJC2r)[Salience of improvement drives skill developmentI suspect that this is one key reason why People generally develop skills to a plateau and then stop, and in particular why Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do. If you\u2019ve never heard of a Spaced repetition memory system, it\u2019s probably not obvious that memory can be made a solved problem. If you\u2019ve never heard of Evergreen notes, it\u2019s probably not obvious that Knowledge workers usually have no specific methods for developing ideas over time.](https://notes.andymatuschak.org/z5aSQpP5pxVAwzbgQNxy7GTKGjGXrug6615Ui)[Pocket memo pad to capture into writing inbox while outThese notes don\u2019t stay in the memo pad: it\u2019s effectively an inbox which feeds A writing inbox for transient and incomplete notes. Intermittently, during My morning writing practice, I process memo pad notes by developing them into Evergreen notes, by transferring them into my writing inbox, or by discarding them.](https://notes.andymatuschak.org/z5FKgZAnMhS73t9kenbVUYx23CHSQAE1gKxVf)[HypertextEvergreen notes: Evergreen notes should be densely linked](https://notes.andymatuschak.org/zShLAg6VYyK2dyBQFSuSbDiPUzw5KfAjNCNi)[My morning writing practiceAfter the pre-desk elements of My daily routine, I begin my first serious creative work of the day: at least two hours writing and revising Evergreen notes. This is typically the most challenging work I do all day, so I like to do it when I have the most clarity and focus. It\u2019s not for \u201cnote-taking\u201d in a traditional sense\u2014writing down other people\u2019s ideas, or recording things that happened\u2014it\u2019s for developing ideas. (i.e. Most people use notes as a bucket for storage or scratch thoughts vs. Evergreen note-writing helps insight accumulate)](https://notes.andymatuschak.org/zVFGpprS64TzmKGNzGxq9FiCDnAnCPwRU5T)[Evergreen notes are a safe place to develop wild ideasInstead, nurture the wild idea and let it develop over time by incrementally writing Evergreen notes about small facets of the idea. Those notes have much tighter scope: they just have to describe one atomic concept (Evergreen notes should be atomic, Evergreen notes should be concept-oriented).](https://notes.andymatuschak.org/z8RTzukqNLKFXzqLwx25HrUrg5E5jiziGznWB)[Evergreen notes lower the emotional stakes in editing manuscriptsBut if one uses the note-based Executable strategy for writing, then much of the work goes into writing Evergreen notes. Material which isn\u2019t essential for a particular piece can become a durable note, seeding a network of links (Evergreen notes should be densely linked) and contributing to future insight (see Evergreen note-writing helps insight accumulate). Or if it needs more development, it can be added to one\u2019s writing inbox (A writing inbox for transient and incomplete notes).](https://notes.andymatuschak.org/z26G5QDZgkk3mLTJoWHfzM6kjRzHpTAWHeZWN)[Self-exemplifying mediaMy public Evergreen notes about writing evergreen notes.](https://notes.andymatuschak.org/z4i7wQCSUgsYdgDiYCEFozKLPE3AeDP232J3v)[MochiAs far as I can tell, this approach to the connection between notes and spaced repetition prompts only works once. You can write a note anew, then generate the prompts, but future edits will cause problems. This approach makes Evergreen notes impossible.](https://notes.andymatuschak.org/zxAXSEQidXeYW2XFBj9ftGxz1kTNtV4fXjhZ)[Daily working logIn the Taxonomy of note types, this is the lowest-fidelity layer, ephemeral by design. But as scratch thoughts look like they might have legs, they get extracted into a note in my writing inbox (A writing inbox for transient and incomplete notes). Sometimes I\u2019ll use the daily working log as a drafting space, and I can extract sections roughly-as-is into Evergreen notes.](https://notes.andymatuschak.org/z28QkpK3vRKQTacjFDfGYBhCXHqHuVWJzny9)[Prefer note titles with complete phrases to sharpen claimsWhen writing Evergreen notes, I\u2019ve found that using complete phrases as note titles helps maintain concept-orientation (Evergreen notes should be concept-oriented). For example: Educational objectives often subvert themselves, Evergreen notes permit smooth incremental progress in writing (\u201cincremental writing\u201d).](https://notes.andymatuschak.org/z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)[Existing spaced repetition systems discourage evergreen notesThough notes in a Spaced repetition memory system are atomic in the same way as Evergreen notes (Evergreen notes should be atomic), they\u2019re in many ways too atomized (Traditional spaced repetition memory prompts are atomized). The form discourages incremental synthesis and distillation.](https://notes.andymatuschak.org/zZuqUv3XNEFsimMmHszLF87Pr5vTraLjL5Y)[Prefer positive note titles to promote systematic theoryWhen writing Evergreen notes, it\u2019s tempting to write notes like \u201cX is bad\u201d or \u201cY doesn\u2019t work.\u201d Prefer instead to write note titles which express the property or requirement in a positive sense.](https://notes.andymatuschak.org/z8T6sLNco2benUMgcXUXeJh35eW2obP48DoPp)[Taxonomy of note typesPrompts and incomplete notes in writing inbox (A writing inbox for transient and incomplete notes), which are meant to possibly become Evergreen notes. These prompts may accumulate writing over time via spaced repetition (see Spaced repetition may be a helpful tool to incrementally develop inklings)](https://notes.andymatuschak.org/z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)[Brainstorming may often substitute for missing insight accretion systemsA brainstorm\u2019s generative, uncritical mindset might lead to surprising results, but often we also use brainstorming as a practical way to brain-dump all our ideas about a subject in one place. That may be a sign that we haven\u2019t designed our knowledge systems as described in Knowledge work should accrete. With Evergreen notes and dense associative structure (see Evergreen notes should be densely linked), our ideas are collected and distilled continuously. Evergreen note-writing helps insight accumulate, so there\u2019s less need for brainstorming because those insights have already emerged\u2014and captured in an ongoing fashion\u2014in one\u2019s day-to-day work.](https://notes.andymatuschak.org/z5cVs9BKLJsCYifhYBstAEKuZ8driDzLB3gFd)[The detail-in-context problemThis appears to be a central framing of the problems confronting my work in creating Peripheral vision for Evergreen notes graph structure.](https://notes.andymatuschak.org/z6zGpscnGJpsV4brsMmuVrMvhYq6EUASYNTY4)[Collaborative knowledge management systems tend to decayI suspect this is because they\u2019re missing a few important attributes which enable Evergreen notes to grow sustainably over time:](https://notes.andymatuschak.org/z6jeph6NdePn1TBPPK9958eTVZWfsWQw6VEYD)[Advantages and disadvantages of using notes to form associations in contentWhen we Write about what you read, we have two layers of notes: there are lightweight notes about the reading itself in our reference library, then there are higher-fidelity Evergreen notes in our note archive. It may be valuable to support two layers of noting about association fidelity as well: one could make lightweight associations between materials, then encode the valuable observations into durable notes over time.](https://notes.andymatuschak.org/z2D6w86eKLuVdmk5icMJ5L6av1nG62HaF7ref)[Conversations incorporating multiple discussants\u2019 evergreen notes may promote collaborative sense-makingEvergreen notes can increase conversational bandwidth, but something particularly interesting happens when multiple people have written Evergreen notes related to a single discussion topic. Instead of figuratively \u201ccomparing notes\u201d on an idea conversationally, the discussants can literally compare notes around some idea. Each person will have factored their notes somewhat differently, so it usually won\u2019t be possible to make a 1:1 correspondence\u2014and that\u2019s the whole point. Each person will approach the idea from a different angle, notice different implications, frame it within different contexts.](https://notes.andymatuschak.org/z8NiytpoGGuh8okwPaca2qnScvc5xCqnS6JBN)[Evergreen notes can increase conversational bandwidthIf a topic you\u2019ve thought deeply about comes up in conversation, the constraints of the medium can become frustrating: it\u2019s often hard to convey lengthy, detailed thoughts in conversation. If you\u2019ve published an article or book on the topic, of course, you can always share that as a follow-up. But that\u2019s a fairly high bar. You probably have lots of well-developed knowledge you haven\u2019t recorded as publishable prose. Evergreen notes can fill this gap. They may lack the narrative structure and prose quality of an essay, but evergreen notes are polished enough to stand on their own and to be worth developing over time. Sharing such a note can increase a conversation\u2019s bandwidth.](https://notes.andymatuschak.org/z848gfJnsUNa5JjziTzXirNEJsEzRejTeYefX)[\u00a7Note-writing systemsEvergreen notes](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)[Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-makingIf I\u2019m writing Evergreen notes onto physical index cards, I\u2019ll naturally arrange them on my desk as I write them. Several notes that are related will likely end up in a small cluster or pile. Notes which follow from others will probably sit physically to the right of \u201cmore fundamental\u201d notes. As I\u2019m writing a new note, I\u2019ll see all the other notes I\u2019ve been writing, physically arranged adjacent to it. This is a kind of Peripheral vision.](https://notes.andymatuschak.org/z6Pb6rwTDSg7K7LqF2EbtqbnKvpMbiXYkToDi)",
+        "uid": "j8i12rXmF"
+      }
+    ],
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602303740419,
+    "title": "Evergreen Notes"
   }
 ]
