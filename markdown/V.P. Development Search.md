@@ -16,7 +16,7 @@
     - Kara Grist
     - --------------------------------------------------
 - ## Possible Follow-up with these Candidates:
-    - {{[[TODO]]}} Ray Marshall  followup with Paul for political reasons
+    - {{[[DONE]]}} Do not follow up with Ray Marshall
     - Sarah Nelems [[September 27th, 2020]]
         - [LInkedIn profile](https://www.linkedin.com/in/sarahnelems/)
         - [Application Materials](https://www.dropbox.com/sh/xmzu9qgd7k47je3/AABvkxcJAyBgio_grCvNUTW4a?dl=0)

@@ -343,9 +343,6 @@
 
 - {{[TODO](<TODO.md>)}
 
-## [V.P. Development Search](<V.P. Development Search.md>)
-- {{[TODO](<TODO.md>)}
-
 ## [Week 40: October 5 - 11](<Week 40: October 5 - 11.md>)
 {{[TODO](<TODO.md>)}
 
