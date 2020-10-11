@@ -9,3 +9,6 @@
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - [Trinity Fellows Meeting](<Trinity Fellows Meeting.md>)
 
+## [Week 41: October 12-18](<Week 41: October 12-18.md>)
+- 1:00-2:00 [Trinity Fellows Meeting](<Trinity Fellows Meeting.md>)
+
