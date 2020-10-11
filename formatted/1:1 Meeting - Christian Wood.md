@@ -19,3 +19,6 @@
 ## [October 9th, 2020](<October 9th, 2020.md>)
 - [1:1 Meeting - Christian Wood](<1:1 Meeting - Christian Wood.md>)
 
+## [Week 41: October 12-18](<Week 41: October 12-18.md>)
+- 10:00-11:00am [1:1 Meeting - Christian Wood](<1:1 Meeting - Christian Wood.md>)
+

@@ -31621,8 +31621,8 @@
                 "create-email": "mark.husbands@twu.ca",
                 "create-time": 1602442346010,
                 "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1602442390989,
-                "string": "8:30-9:00am Review with Ann",
+                "edit-time": 1602443258001,
+                "string": "8:30-9:00am [[Review with Ann]]",
                 "uid": "DYQ7L9OnN"
               },
               {
@@ -31713,9 +31713,17 @@
                 "create-email": "mark.husbands@twu.ca",
                 "create-time": 1602443194530,
                 "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1602443202097,
-                "string": "11",
+                "edit-time": 1602443213013,
+                "string": "11:00-12:00 [[1:1 Meeting - Naomi Lomavatu ]]",
                 "uid": "F9bWwJuT_"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602443216307,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602443229139,
+                "string": "12:00-5:00pm SOC",
+                "uid": "ueg_hK0lT"
               }
             ],
             "create-email": "mark.husbands@twu.ca",
@@ -31726,6 +31734,56 @@
             "uid": "khzuORdAt"
           },
           {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602443231685,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602443270588,
+                "string": "8:30-9:00am [[Review with Ann]]",
+                "uid": "aYzLs9Uei"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602443274539,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602443353373,
+                "string": "9:00-10:00am [[Chick-Fill-A]]",
+                "uid": "8iHy_i4UE"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602443337813,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602443412945,
+                "string": "10:00-11:00am [[1:1 Meeting - Christian Wood]]",
+                "uid": "xWWFat5eT"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602443415477,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602443454177,
+                "string": "11:00-12:00 [[1:1 Meeting - Winnie Lui]]",
+                "uid": "zGxnMeGlA"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602443454173,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602443497882,
+                "string": "12:00-12:30 [[Discussion: Race @ TWU]]",
+                "uid": "-S48NYeWo"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602443497877,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602443507862,
+                "string": "1:00-5:00 SOC",
+                "uid": "y6EhfXVp7"
+              }
+            ],
             "create-email": "mark.husbands@twu.ca",
             "create-time": 1602442332008,
             "edit-email": "mark.husbands@twu.ca",
@@ -41423,5 +41481,147 @@
     "edit-email": "mark.husbands@twu.ca",
     "edit-time": 1602443176580,
     "title": "ELT Meeting - Week 41"
+  },
+  {
+    "children": [
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602445741767,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602445741755,
+        "string": "",
+        "uid": "7H2eaYg_y"
+      }
+    ],
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602443258002,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602443258003,
+    "title": "Review with Ann"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602446011656,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602446553450,
+            "string": "[Chick-Fil-A Canada](https://www.chick-fil-a.ca/)",
+            "uid": "XRi1TrRky"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602446555001,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602446615539,
+            "string": "Article [critical of their retreat from Philanthropy to Evangelical Organizations deemed \"Anti-LGBTQ\"](https://www.christianitytoday.com/news/2019/november/chick-fil-stops-christian-donations-fca-salvation-army.html)",
+            "uid": "3rjyJbqGo"
+          },
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602446736370,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602446736370,
+                "string": "",
+                "uid": "ZkWWPezYB"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602446618224,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602446734755,
+            "string": "[Chick-fil-a Leadership Academy](https://www.chick-fil-afoundation.org/news-events/chick-fil-a-leader-academy-kicks-off-nationwide)",
+            "uid": "sybi6TW95"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602445908601,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602446011671,
+        "heading": 2,
+        "string": "Background",
+        "uid": "E9wptOY6-"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602445944453,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602445959696,
+        "heading": 2,
+        "string": "Opportunity for TWU & our Students",
+        "uid": "GnvUn1knF"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602445960962,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602445978027,
+        "heading": 2,
+        "string": "Strategy for Engaging Chick-Fill-A Leadership",
+        "uid": "D3RvauXC1"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602445978090,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602445992240,
+        "heading": 2,
+        "string": "Contact information and past meeting(s)?",
+        "uid": "DLzRF4tu_"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602445992354,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602446003849,
+        "heading": 2,
+        "string": "A Way Forward",
+        "uid": "ON0knVkC1"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602445768914,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602445859693,
+        "string": "{{iframe: https://talentegg.ca/employer/chick-fil-a-inc/leadership-development-program}}",
+        "uid": "ldi-vxvrx"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602445861103,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602445861103,
+        "string": "",
+        "uid": "kLbrotzDB"
+      }
+    ],
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602443353376,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602443353377,
+    "title": "Chick-Fill-A"
+  },
+  {
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602443454178,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602443454178,
+    "title": "1:1 Meeting - Winnie Lui"
+  },
+  {
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602443497894,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602443497897,
+    "title": "Discussion: Race @ TWU"
+  },
+  {
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602443631977,
+    "title": "October 12th, 2020"
   }
 ]
