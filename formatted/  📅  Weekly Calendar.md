@@ -1,4 +1,23 @@
 - [2020](<2020.md>)
+    - [Week 40: October 5 - 11](<Week 40: October 5 - 11.md>)
+        - {{[kanban](<kanban.md>)}}
+            - Monday (o)
+                - 11am Meeting with [Paul Weme](<Paul Weme.md>)
+            - Tuesday (o)
+                - 10am Thanksgiving Gathering
+            - Wednesday (h)
+                - 9am ELT Meeting
+                - 11am Vision & Call Meeting with John Franklin
+            - Thursday (o)
+                - 8:30-2:30 [ACTS Seminary Board Meeting](<ACTS Seminary Board Meeting.md>)
+            - Friday (o)
+                - 9am [First Destination Survey](<First Destination Survey.md>)
+                - 10am [Institutional Research & Analysis](<Institutional Research & Analysis.md>)
+            - 
+    - [Week 41: October 12-18](<Week 41: October 12-18.md>)
+    - [Week 42: October 19-25](<Week 42: October 19-25.md>)
+    - [Week 52: October 26-Nov 1](<Week 52: October 26-Nov 1.md>)
+- 2020-Calendar Archive
     - [Week 37: September 14-20](<Week 37: September 14-20.md>)
         - [September 14th, 2020](<September 14th, 2020.md>) - [September 20th, 2020](<September 20th, 2020.md>)
             - [September 14th, 2020](<September 14th, 2020.md>)
@@ -104,22 +123,4 @@
             - 11am-12: Vision and Call Advisors Session
         - [October 3rd, 2020](<October 3rd, 2020.md>)
         - [October 4th, 2020](<October 4th, 2020.md>)
-    - [Week 40: October 5 - 11](<Week 40: October 5 - 11.md>)
-        - {{[kanban](<kanban.md>)}}
-            - Monday (o)
-                - 11am Meeting with [Paul Weme](<Paul Weme.md>)
-            - Tuesday (o)
-                - 10am Thanksgiving Gathering
-            - Wednesday (h)
-                - 9am ELT Meeting
-                - 11am Vision & Call Meeting with John Franklin
-            - Thursday (o)
-                - 8:30-2:30 [ACTS Seminary Board Meeting](<ACTS Seminary Board Meeting.md>)
-            - Friday (o)
-                - 9am [First Destination Survey](<First Destination Survey.md>)
-                - 10am [Institutional Research & Analysis](<Institutional Research & Analysis.md>)
-            - 
-    - [Week 41: October 12-18](<Week 41: October 12-18.md>)
-    - [Week 42: October 19-25](<Week 42: October 19-25.md>)
-    - [Week 52: October 26-Nov 1](<Week 52: October 26-Nov 1.md>)
-- 
+    - 

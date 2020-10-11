@@ -22473,6 +22473,174 @@
                     "children": [
                       {
                         "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1601656847382,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1601657985398,
+                        "string": "11am Meeting with [[Paul Weme]]",
+                        "uid": "JSFFNkkPl"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1601656844013,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1601657936262,
+                    "string": "Monday (o)",
+                    "uid": "8CUqHGMaj"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1601657954968,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1601657981326,
+                        "string": "10am Thanksgiving Gathering",
+                        "uid": "f0sivFJ34"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1601657941527,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1601657950534,
+                    "string": "Tuesday (o)",
+                    "uid": "PzEqhPbW7"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1601658036498,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1601658045459,
+                        "string": "9am ELT Meeting",
+                        "uid": "FOkMlR5XS"
+                      },
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1601658047821,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1601658092256,
+                        "string": "11am Vision & Call Meeting with John Franklin",
+                        "uid": "t_M6Ek4bR"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1601657991658,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1601658036266,
+                    "string": "Wednesday (h)",
+                    "uid": "E3zn5vvfv"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1601658143423,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1601658180934,
+                        "string": "8:30-2:30 [[ACTS Seminary Board Meeting]]",
+                        "uid": "Ow1oHOnTp"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1601658120501,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1601658159235,
+                    "string": "Thursday (o)",
+                    "uid": "dd2OdLYI1"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1601658204002,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1601658221759,
+                        "string": "9am [[First Destination Survey]]",
+                        "uid": "D1exrFzqs"
+                      },
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1601658222190,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1601658237744,
+                        "string": "10am [[Institutional Research & Analysis]]",
+                        "uid": "cyKkDHwWy"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1601658184378,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1601658202459,
+                    "string": "Friday (o)",
+                    "uid": "hiXd06yIR"
+                  },
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1601658237738,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1601658237738,
+                    "string": "",
+                    "uid": "0ePNG7XS4"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1601656835289,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1601656843128,
+                "string": "{{[[kanban]]}}",
+                "uid": "50kHXayze"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1601145185514,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1601145516052,
+            "string": "[[Week 40: October 5 - 11]]",
+            "uid": "e8CB62TYA"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1601145222576,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1601145535490,
+            "string": "[[Week 41: October 12-18]]",
+            "uid": "bUkZJxOWv"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1601145255379,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1601145556600,
+            "string": "[[Week 42: October 19-25]]",
+            "uid": "w6J4iytAB"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1601145277206,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1601145575709,
+            "string": "[[Week 52: October 26-Nov 1]]",
+            "uid": "Bp-WUAdw4"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1601136903082,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602448569278,
+        "string": "[[2020]]",
+        "uid": "v3HS_DuiI"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "mark.husbands@twu.ca",
                         "create-time": 1600106114663,
                         "edit-email": "mark.husbands@twu.ca",
                         "edit-time": 1600140650510,
@@ -23150,177 +23318,19 @@
             "uid": "Z4fgX4et0"
           },
           {
-            "children": [
-              {
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "create-email": "mark.husbands@twu.ca",
-                        "create-time": 1601656847382,
-                        "edit-email": "mark.husbands@twu.ca",
-                        "edit-time": 1601657985398,
-                        "string": "11am Meeting with [[Paul Weme]]",
-                        "uid": "JSFFNkkPl"
-                      }
-                    ],
-                    "create-email": "mark.husbands@twu.ca",
-                    "create-time": 1601656844013,
-                    "edit-email": "mark.husbands@twu.ca",
-                    "edit-time": 1601657936262,
-                    "string": "Monday (o)",
-                    "uid": "8CUqHGMaj"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "mark.husbands@twu.ca",
-                        "create-time": 1601657954968,
-                        "edit-email": "mark.husbands@twu.ca",
-                        "edit-time": 1601657981326,
-                        "string": "10am Thanksgiving Gathering",
-                        "uid": "f0sivFJ34"
-                      }
-                    ],
-                    "create-email": "mark.husbands@twu.ca",
-                    "create-time": 1601657941527,
-                    "edit-email": "mark.husbands@twu.ca",
-                    "edit-time": 1601657950534,
-                    "string": "Tuesday (o)",
-                    "uid": "PzEqhPbW7"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "mark.husbands@twu.ca",
-                        "create-time": 1601658036498,
-                        "edit-email": "mark.husbands@twu.ca",
-                        "edit-time": 1601658045459,
-                        "string": "9am ELT Meeting",
-                        "uid": "FOkMlR5XS"
-                      },
-                      {
-                        "create-email": "mark.husbands@twu.ca",
-                        "create-time": 1601658047821,
-                        "edit-email": "mark.husbands@twu.ca",
-                        "edit-time": 1601658092256,
-                        "string": "11am Vision & Call Meeting with John Franklin",
-                        "uid": "t_M6Ek4bR"
-                      }
-                    ],
-                    "create-email": "mark.husbands@twu.ca",
-                    "create-time": 1601657991658,
-                    "edit-email": "mark.husbands@twu.ca",
-                    "edit-time": 1601658036266,
-                    "string": "Wednesday (h)",
-                    "uid": "E3zn5vvfv"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "mark.husbands@twu.ca",
-                        "create-time": 1601658143423,
-                        "edit-email": "mark.husbands@twu.ca",
-                        "edit-time": 1601658180934,
-                        "string": "8:30-2:30 [[ACTS Seminary Board Meeting]]",
-                        "uid": "Ow1oHOnTp"
-                      }
-                    ],
-                    "create-email": "mark.husbands@twu.ca",
-                    "create-time": 1601658120501,
-                    "edit-email": "mark.husbands@twu.ca",
-                    "edit-time": 1601658159235,
-                    "string": "Thursday (o)",
-                    "uid": "dd2OdLYI1"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "mark.husbands@twu.ca",
-                        "create-time": 1601658204002,
-                        "edit-email": "mark.husbands@twu.ca",
-                        "edit-time": 1601658221759,
-                        "string": "9am [[First Destination Survey]]",
-                        "uid": "D1exrFzqs"
-                      },
-                      {
-                        "create-email": "mark.husbands@twu.ca",
-                        "create-time": 1601658222190,
-                        "edit-email": "mark.husbands@twu.ca",
-                        "edit-time": 1601658237744,
-                        "string": "10am [[Institutional Research & Analysis]]",
-                        "uid": "cyKkDHwWy"
-                      }
-                    ],
-                    "create-email": "mark.husbands@twu.ca",
-                    "create-time": 1601658184378,
-                    "edit-email": "mark.husbands@twu.ca",
-                    "edit-time": 1601658202459,
-                    "string": "Friday (o)",
-                    "uid": "hiXd06yIR"
-                  },
-                  {
-                    "create-email": "mark.husbands@twu.ca",
-                    "create-time": 1601658237738,
-                    "edit-email": "mark.husbands@twu.ca",
-                    "edit-time": 1601658237738,
-                    "string": "",
-                    "uid": "0ePNG7XS4"
-                  }
-                ],
-                "create-email": "mark.husbands@twu.ca",
-                "create-time": 1601656835289,
-                "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1601656843128,
-                "string": "{{[[kanban]]}}",
-                "uid": "50kHXayze"
-              }
-            ],
             "create-email": "mark.husbands@twu.ca",
-            "create-time": 1601145185514,
+            "create-time": 1602448418324,
             "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1601145516052,
-            "string": "[[Week 40: October 5 - 11]]",
-            "uid": "e8CB62TYA"
-          },
-          {
-            "create-email": "mark.husbands@twu.ca",
-            "create-time": 1601145222576,
-            "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1601145535490,
-            "string": "[[Week 41: October 12-18]]",
-            "uid": "bUkZJxOWv"
-          },
-          {
-            "create-email": "mark.husbands@twu.ca",
-            "create-time": 1601145255379,
-            "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1601145556600,
-            "string": "[[Week 42: October 19-25]]",
-            "uid": "w6J4iytAB"
-          },
-          {
-            "create-email": "mark.husbands@twu.ca",
-            "create-time": 1601145277206,
-            "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1601145575709,
-            "string": "[[Week 52: October 26-Nov 1]]",
-            "uid": "Bp-WUAdw4"
+            "edit-time": 1602448418314,
+            "string": "",
+            "uid": "Dh-poCrgj"
           }
         ],
         "create-email": "mark.husbands@twu.ca",
-        "create-time": 1601136903082,
-        "edit-email": "mark.husbands@twu.ca",
-        "edit-time": 1601136903082,
-        "string": "[[2020]]",
-        "uid": "v3HS_DuiI"
-      },
-      {
-        "create-email": "mark.husbands@twu.ca",
         "create-time": 1601145396759,
         "edit-email": "mark.husbands@twu.ca",
-        "edit-time": 1601145396759,
-        "string": "",
+        "edit-time": 1602448416474,
+        "string": "2020-Calendar Archive",
         "uid": "4REbt-fyt"
       }
     ],
@@ -41523,11 +41533,19 @@
             "children": [
               {
                 "create-email": "mark.husbands@twu.ca",
-                "create-time": 1602446736370,
+                "create-time": 1602447309799,
                 "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1602446736370,
-                "string": "",
-                "uid": "ZkWWPezYB"
+                "edit-time": 1602447330284,
+                "string": "[Training the next generation of leaders](https://thechickenwire.chick-fil-a.com/inside-chick-fil-a/training-the-next-generation-of-leaders)",
+                "uid": "lg49s9FNG"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602447354771,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602447368145,
+                "string": "[Leadership](https://talentegg.ca/employer/chick-fil-a-inc/leadership-development-program)",
+                "uid": "zYjunz0V0"
               }
             ],
             "create-email": "mark.husbands@twu.ca",
@@ -41536,6 +41554,22 @@
             "edit-time": 1602446734755,
             "string": "[Chick-fil-a Leadership Academy](https://www.chick-fil-afoundation.org/news-events/chick-fil-a-leader-academy-kicks-off-nationwide)",
             "uid": "sybi6TW95"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602446736370,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602447027085,
+            "string": "[Chick-Fil-A and LGBTQ Controversy](https://en.wikipedia.org/wiki/Chick-fil-A_and_LGBT_people)",
+            "uid": "ZkWWPezYB"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602447028408,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602447028408,
+            "string": "",
+            "uid": "rFNxNtl_p"
           }
         ],
         "create-email": "mark.husbands@twu.ca",
@@ -41547,6 +41581,24 @@
         "uid": "E9wptOY6-"
       },
       {
+        "children": [
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602447127425,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602447144991,
+            "string": "[The Inside Scoop on the Leadership Development Program with Chick-fil-A](https://talentegg.ca/incubator/2019/09/23/scoop-leadership-development-program-chickfila/)",
+            "uid": "TisynwO0o"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602447145896,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602447145896,
+            "string": "",
+            "uid": "KY-z22Z4k"
+          }
+        ],
         "create-email": "mark.husbands@twu.ca",
         "create-time": 1602445944453,
         "edit-email": "mark.husbands@twu.ca",

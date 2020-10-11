@@ -2,8 +2,13 @@
     - [Chick-Fil-A Canada](https://www.chick-fil-a.ca/)
     - Article [critical of their retreat from Philanthropy to Evangelical Organizations deemed "Anti-LGBTQ"](https://www.christianitytoday.com/news/2019/november/chick-fil-stops-christian-donations-fca-salvation-army.html)
     - [Chick-fil-a Leadership Academy](https://www.chick-fil-afoundation.org/news-events/chick-fil-a-leader-academy-kicks-off-nationwide)
-        - 
+        - [Training the next generation of leaders](https://thechickenwire.chick-fil-a.com/inside-chick-fil-a/training-the-next-generation-of-leaders)
+        - [Leadership](https://talentegg.ca/employer/chick-fil-a-inc/leadership-development-program)
+    - [Chick-Fil-A and LGBTQ Controversy](https://en.wikipedia.org/wiki/Chick-fil-A_and_LGBT_people)
+    - 
 - ## Opportunity for TWU & our Students
+    - [The Inside Scoop on the Leadership Development Program with Chick-fil-A](https://talentegg.ca/incubator/2019/09/23/scoop-leadership-development-program-chickfila/)
+    - 
 - ## Strategy for Engaging Chick-Fill-A Leadership
 - ## Contact information and past meeting(s)?
 - ## A Way Forward
