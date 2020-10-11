@@ -2,7 +2,7 @@
     - # [fit] II. Being a Dean - 2
     - Reading: C.K. Gunsalus, “Negotiation” The College Administrator’s Survival Guide, 66-95
     - --
-    - ##Skills to Cultivate
+    - #[Skills](<Skills.md>) to Cultivate
     - 1. What are we instructed to learn from Henry Fonda's character in *12 Angry Men*? (68)
     - 2. According to Gunsalus, what are the "most important skills [ to cultivate ] of the administrator"?
     - 3. What lesson -- for changing the culture at Northwestern College -- are we to take from the following passage: 
@@ -10,7 +10,7 @@
     - > "The good news and the bad news about improving your skill in negotiation are the same: in order to influence others you must change your conduct. Think about it: you cannot *force* others to change; in a highly charged situation, the only factor you truly control is your own behavior. And changing your behavior...can have a powerful effect on the outcome."
     - - 69-70
     - --
-    - ##Negotiation Skills (69-82)
+    - #[Negotiation](<Negotiation.md>) Skills (69-82)
     - 1. Change Your Behavior
     - 2. Choose to Listen
     - 3. Ask Questions
@@ -20,7 +20,7 @@
     - what is the easiest to do?
     - what is the hardest thing to do (and why)?
     - -- 
-    - ##Stages of Negotiation (82-91)
+    - #[Stages](<Stages.md>) of Negotiation (82-91)
     - 1. Honey, Not Vinegar
     - 2. Collecting Information
     - 3. Value for Both Parties
@@ -28,7 +28,7 @@
     - 5. Confirm Your Agreement
     - Q. What was the most helpful information you learned here?
     - --
-    - ##One Key Piece of Advice
+    - #[One](<One.md>) Key Piece of Advice
     - *Don't let it be about you. Focus on the principles, the problems, the goals.**
     - #[fit] Time for a Break
     - --
@@ -37,7 +37,7 @@
     - --
     - ![fit](/Users//dogmatics/Dropbox/!VPAA-PRESENTATIONS/MarkDown%20Presentations/md-images/nwcmission.png)
     - --
-    - ##The Central Purpose of Christian Higher Education:
+    - #[The](<The.md>) Central Purpose of Christian Higher Education:
     - >*"to foster a deeper love for God and God's creation in ways that contribute to greater human flourishing (including our own)."[^1]*
     - [^1]: Ream and Glazer, “The Creation and Redemption of Learners and Learning” The Idea of a Christian College, 54.
     - Compare this statement with Northwestern College's mission: 
@@ -55,7 +55,7 @@
     - 1. How critical is it to *"help students recognize the importance of understanding the implications of competing stories*"? 
     - 2. If it is so crucial, where do we do this well, and where can we improve in this endeavor?  
     - --
-    - ###The Creation and Redemption of Advanced Learning (65-66)
+    - ##[The](<The.md>) Creation and Redemption of Advanced Learning (65-66)
     - 1. What, in general, distinguishes a university from a college?
     - 2. If this is true, what can / ought we to expect in terms of scholarship from our professors?
     - 3. Is the mission of "disseminating knowledge" rather than "engaging in creative scholarly projects" sufficient for Northwestern College (its faculty, trustees, constituency, and students)?
@@ -76,11 +76,11 @@
     - --
     - ![original](/Users//dogmatics/Dropbox/!VPAA-PRESENTATIONS/MarkDown%20Presentations/md-images/jackie.jpg)
     - ![original](/Users//dogmatics/Dropbox/!VPAA-PRESENTATIONS/MarkDown%20Presentations/md-images/markb.jpg)
-    - #IV. How Admissions / Recruitment Works
+    - [IV](<IV.md>). How Admissions / Recruitment Works
     - --
     - #[fit]V. Advancing the Mission - 2 
     - --
-    - ##Ream and Glazer, “Joining our Work with God’s Work” *The Idea of a Christian College*, 68-80
+    - #[Ream](<Ream.md>) and Glazer, “Joining our Work with God’s Work” *The Idea of a Christian College*, 68-80
     - What do you make of Robert Wuthnow's study of how Christians and non-Christians alike make decisions about their careers?
     - --
     - >*"The Christian University must set before students a grand vision of the Christian narrative that encompasses all of life. For if students are shuffled into career or professional placement counseling that mimics the same language and operates from the same paradigm as secular universities, the Christian university has failed...A creative and redemptive Christian university must be different."*[^5]
@@ -88,7 +88,7 @@
     - --
     - Q. What did you take away from this material on "Creation and Work" (pp. 70-71)?
     - --
-    - ##Vocational Formation
+    - #[Vocational](<Vocational.md>) Formation
     - Q. Which of the ten elements of "vocational formation" should we consider highlighting at the start of our academic leadership together? (pp. 72-76) and what could we hope to accomplish by doing so?
     - --
     - ![](/Users//dogmatics/Dropbox/!VPAA-PRESENTATIONS/MarkDown%20Presentations/md-images/calling1.jpg)
@@ -105,13 +105,13 @@
     - --
     - #[fit]VI. Strategy — Goals
     - --
-    - #Institutional Goals
+    - [Institutional](<Institutional.md>) Goals
     - --
-    - #What should be *Our* Goals?
-    - ##And How can we tie them to the Strategic Plan?
+    - [What](<What.md>) should be *Our* Goals?
+    - #[And](<And.md>) How can we tie them to the Strategic Plan?
     - --
-    - #Let's Look at Calvin's new Vision
-    - ##Lifework
+    - [Let](<Let.md>)'s Look at Calvin's new Vision
+    - #[Lifework](<Lifework.md>)
     - -- 
     - ![](/Users//dogmatics/Dropbox/!VPAA-PRESENTATIONS/MarkDown%20Presentations/md-images/lifework1.jpg)
     - --
@@ -133,6 +133,6 @@
     - --
     - ![](/Users//dogmatics/Dropbox/!VPAA-PRESENTATIONS/MarkDown%20Presentations/md-images/lifework10.jpg)
     - --
-    - #So, where could we begin in the articulation of our own vision of "Lifework"?
+    - [So](<So.md>), where could we begin in the articulation of our own vision of "Lifework"?
     - --
     - ![](/Users//dogmatics/Dropbox/!VPAA-PRESENTATIONS/MarkDown%20Presentations/md-images/calling.jpg)
