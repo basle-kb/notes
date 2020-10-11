@@ -25,6 +25,7 @@ https://twitter.com/catominor3/status/1256647817449390081?s=21
 __Roam Demo Videos__ — via [Roam Demo Videos](https://roamresearch.com/#/app/help/page/k5RxbGuJN)
 
 __Make the most of shortcuts
+[x] this is a task, 
 You can find many shortcuts in the help menu in the bottom right corner of Roam. It may feel unnatural at first if you’re not someone who tends to use your keyboard a lot when using applications, but it’s definitely worth building the muscle memory to create a faster workflow.
 CMD+B for bold, CMD+I for italic, CMD+H for highlights
 CMD+ATL+1,2,3 (choose a number) to create H1, H2, or H3 titles
