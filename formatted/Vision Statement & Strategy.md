@@ -16,7 +16,8 @@
         ^^Every graduate is equipped to work and live for the good of the world and the glory of God.^^
         Question: would you affirm that this is a true statement about TWU at the moment?
         
-        
+    ### Background Notes: 
+    
 --------------------------------------
 Sample Vision Statements
     Wheaton College
