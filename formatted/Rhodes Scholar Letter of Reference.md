@@ -3,7 +3,7 @@
     - Bob Kuhn
         - Dear Dr. Husbands;
         - I am writing further to my email earlier today regarding support of a Rhodes Scholarship application by Jordan Koslowsky (a Trinity Western University 2019 graduate). As previously set out, it is my opinion, based on a considerable amount of personal interaction with this student, that he is an excellent representative of all it means to have a Trinity Western University education. He was not only a top-notch student, he was a member of the elite men's Spartan volleyball team. He was a student leader, as well as envisioning and implementing a means to enable refugee families to come to Canada. He is truly a leader who I have no doubt will leave a significant mark on our world.
-        - Last year, just prior to you starting as president of Trinity Western University, I provided a reference for Jordan, although I could only do so as President Emeritus.  Unfortunately, Jordan's application was not accepted. However, he has again made application. A critically important step in the application process requires that the President of Trinity Western University support the application. I am requesting that you consider providing the support needed. I would be most willing to provide whatever information or reference may be needed from me.
+        - DADFADF
         - I have copied Jordan on this email so as to enable him to contact you directly. I trust that meets with your approval.
         - In His Service,
             - Bob

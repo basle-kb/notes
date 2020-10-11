@@ -1,4 +1,5 @@
 https://roamresearch.com/#/app/help/page/Vu1MmjinS
+https://twitter.com/JemarTisby/status/1314898725152595975?s=20
 https://twitter.com/catominor3/status/1256647817449390081?s=21
 
 /done
