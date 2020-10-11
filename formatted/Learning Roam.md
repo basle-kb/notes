@@ -6,6 +6,9 @@ https://twitter.com/catominor3/status/1256647817449390081?s=21
 [x] }
 
 
+Oh nothing just playing Duke Nukem in Roam
+{{iframe: https://archive.org/embed/DukeNukem}}
+{{I frame 
 {{alias: ((1597)) 4}}/
 
 [Getting started with Roam](https://www.roamtips.com/home/getting-started-with-roam-research)
