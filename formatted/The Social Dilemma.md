@@ -19,7 +19,8 @@
     - [The New Thing: Faith in the Age of Social Media](https://reflections.yale.edu/article/ibelieve-facing-new-media-explosion/new-thing-faith-age-social-media)
     - 
 - Artificial Intelligence
-    - 
+- Disinformation for Profit
+- 
 - 
 - ^^Key Question: We need to determine / decide what the criteria of success is^^
 - 

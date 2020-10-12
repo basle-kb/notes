@@ -42255,22 +42255,28 @@
         "uid": "Y8wYlWLF-"
       },
       {
-        "children": [
-          {
-            "create-email": "mark.husbands@twu.ca",
-            "create-time": 1602474882375,
-            "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1602474882375,
-            "string": "",
-            "uid": "LK36J7P2m"
-          }
-        ],
         "create-email": "mark.husbands@twu.ca",
         "create-time": 1602474597772,
         "edit-email": "mark.husbands@twu.ca",
         "edit-time": 1602474777189,
         "string": "Artificial Intelligence",
         "uid": "2rS_EOEnH"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602474882375,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602475760651,
+        "string": "Disinformation for Profit",
+        "uid": "LK36J7P2m"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602475762897,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602475762897,
+        "string": "",
+        "uid": "kOFDUXofR"
       },
       {
         "create-email": "mark.husbands@twu.ca",
