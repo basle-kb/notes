@@ -1,0 +1,25 @@
+- Topic: Ethical Technology: Social Media
+- 
+- **Netflix Documentary: The Social Dilemma**
+    - [Surveillance Capitalism](https://www.project-syndicate.org/onpoint/surveillance-capitalism-exploiting-behavioral-data-by-shoshana-zuboff-2020-01?barrier=accesspaylog&utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=1220154768&hsa_cam=11057299673&hsa_grp=110767378922&hsa_ad=464624815811&hsa_src=g&hsa_tgt=dsa-956483632501&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1rfH4oyu7AIVcz6tBh34KwdvEAAYASAAEgL41_D_BwE)
+    - [Center for Humane Technology](https://www.humanetech.com/)
+    - https://www.humanetech.com/
+    - "Stanford Persuasive Technology Lab"
+        - 
+    - ^^Tristan Harris^^
+        - https://www.tristanharris.com/
+        - 
+    - Chamath Palihaptitya
+    - Automating Humanity
+    - "Growth Hacking"
+    - 
+- Christianity and Social Media
+    - https://henrycenter.tiu.edu/wp-content/uploads/2017/07/Ben-Michell_Christians-and-Digital-Media.pdf
+    - [Christian Social Media](https://www.prnewswire.com/news-releases/the-christian-social-network-2019----where-social-networking-is-more-spiritual-than-social-300784983.html)
+    - [The New Thing: Faith in the Age of Social Media](https://reflections.yale.edu/article/ibelieve-facing-new-media-explosion/new-thing-faith-age-social-media)
+    - 
+- Artificial Intelligence
+    - 
+- 
+- ^^Key Question: We need to determine / decide what the criteria of success is^^
+- 
