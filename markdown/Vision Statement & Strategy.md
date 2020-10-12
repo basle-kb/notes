@@ -1,3 +1,4 @@
+[[Vision Statement — Board Report, Fall 2020]]
 ## Current Efforts and Expressing a Compelling & Faithful Vision
     ### Imaginative Challenge:
         Imagine if 30,000 TWU alumni had been formed by the very best of a TWU education -- how would the world be different? what impact would TWU have upon the world?
@@ -14,10 +15,15 @@
 ### Current Work on TWU Vision Statements
     [[Draft of TWU Vision Statements]]
         ^^Every graduate is equipped to work and live for the good of the world and the glory of God.^^
+        or:
+        ^^Every graduate is equipped to work and live for the glory of God and the good of the world.^^
         Question: would you affirm that this is a true statement about TWU at the moment?
         
+    ----------------------------------------------
+    
     ### Background Notes: 
     
+
 --------------------------------------
 Sample Vision Statements
     Wheaton College
