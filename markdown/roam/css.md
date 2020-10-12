@@ -42,7 +42,9 @@ canvas[data-id="layer2-node"] {
 They're free to download from Google:
 https://fonts.google.com/specimen/Lato
 https://fonts.google.com/specimen/Open+Sans  */
-
+body {
+  font-size: 120%;
+}
 h1,
 h2,
 h3,
@@ -54,7 +56,7 @@ h6 {
 
 div,
 textarea {
-  font-family: 'Adobe Garamond Pro';
+  font-family: 'Palatino';
 }
 
 .roam-block-container {
@@ -231,7 +233,7 @@ a {
 }
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page,
 .roam-body .roam-app .roam-sidebar-container > * {
-    opacity: 80%;
+    opacity: 90%;
     box-shadow: none;
 }
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover,

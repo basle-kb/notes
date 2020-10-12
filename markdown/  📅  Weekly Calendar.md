@@ -1,23 +1,9 @@
 - [[2020]]
-    - [[Week 40: October 5 - 11]]
-        - {{[[kanban]]}}
-            - Monday (o)
-                - 11am Meeting with [[Paul Weme]]
-            - Tuesday (o)
-                - 10am Thanksgiving Gathering
-            - Wednesday (h)
-                - 9am ELT Meeting
-                - 11am Vision & Call Meeting with John Franklin
-            - Thursday (o)
-                - 8:30-2:30 [[ACTS Seminary Board Meeting]]
-            - Friday (o)
-                - 9am [[First Destination Survey]]
-                - 10am [[Institutional Research & Analysis]]
-            - 
     - [[Week 41: October 12-18]]
     - [[Week 42: October 19-25]]
-    - [[Week 52: October 26-Nov 1]]
-- 2020-Calendar Archive
+    - [[Week 43: October 26-Nov 1]]
+- ___________________________
+- **2020-Archive**
     - [[Week 37: September 14-20]]
         - [[September 14th, 2020]] - [[September 20th, 2020]]
             - [[September 14th, 2020]]
@@ -123,4 +109,19 @@
             - 11am-12: Vision and Call Advisors Session
         - [[October 3rd, 2020]]
         - [[October 4th, 2020]]
+    - [[Week 40: October 5 - 11]]
+        - {{[[kanban]]}}
+            - Monday (o)
+                - 11am Meeting with [[Paul Weme]]
+            - Tuesday (o)
+                - 10am Thanksgiving Gathering
+            - Wednesday (h)
+                - 9am ELT Meeting
+                - 11am Vision & Call Meeting with John Franklin
+            - Thursday (o)
+                - 8:30-2:30 [[ACTS Seminary Board Meeting]]
+            - Friday (o)
+                - 9am [[First Destination Survey]]
+                - 10am [[Institutional Research & Analysis]]
+            - 
     - 
