@@ -1,5 +1,6 @@
-**But seek first the kingdom of God and his righteousness, and all these things will be added to you.
--- Matthew 6:33 (ESV)**
+**But seek first the kingdom of God and his righteousness, and all these things will be added to you.**
+-- Matthew 6:33 (ESV)
+-- 2 Corinthians 3:18
 
 **14 For the love of Christ urges us on, because we are convinced that one has died for all; therefore all have died. 
 15 And he died for all, so that those who live might live no longer for themselves, but for him who died and was raised for them. 
@@ -8,15 +9,38 @@
 18 All this is from God, who reconciled us to himself through Christ, and has given us the ministry of reconciliation; 
 19 that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting the message of reconciliation to us. 
 20 So we are ambassadors for Christ, since God is making his appeal through us; we entreat you on behalf of Christ, be reconciled to God.
-21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
--- 2 Corinthians 5:14-21 (NRSV)**
+21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.**
+-- 2 Corinthians 5:14-21 (NRSV)
 
-**17 Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.
--- James 1:17 (TNIV)**
+**17 Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.**
+-- James 1:17 (TNIV)
 
-**
+**7 But seek the welfare of the city where I have sent you into exile, and pray to the LORD on its behalf, for in its welfare you will find your welfare.**
+-- Jeremiah 29:7 (ESV)
+
+**14 And the Word became flesh and lived among us, and we have seen his glory, the glory as of a father’s only son, full of grace and truth.**
+--John 1:14 (NRSV)
+
+**16 In the same way, let your light shine before others, so that they may see your good works and give glory to your Father in heaven.**
+-- Matthew 5:16 (NRSV)
+
+**1 Happy are those who do not follow the advice of the wicked, or take the path that sinners tread, or sit in the seat of scoffers; 
+2 but their delight is in the law of the LORD, and on his law they meditate day and night. 
+3 They are like trees planted by streams of water, which yield their fruit in its season, and their leaves do not wither. In all that they do, they prosper.**
+-- Psalm 1:1–3 (NRSV)
+
+**31 So, whether you eat or drink, or whatever you do, do everything for the glory of God. 
+32 Give no offense to Jews or to Greeks or to the church of God, 
+33 just as I try to please everyone in everything I do, not seeking my own advantage, but that of many, so that they may be saved. 
+1 Be imitators of me, as I am of Christ.**
+-- 1 Corinthians 10:31–11:1 (NRSV)
+
+The 2nd century theologian and bishop, Irenaeus, effectively sets the dignity, identity, and __telos__ of the human person within the drama of God's reconciliation of all things in Christ, insisting that “the glory of God is man fully alive" to which he adds, "man’s life is the vision of God: if God’s revelation through creation has already obtained life for all the beings that dwell on earth, how much more will the Word’s manifestation of the Father obtain life for those who see God.” (CCC 294)
+So, “The ultimate purpose of creation is that God ‘who is the creator of all things may at last become ‘all in all,’ thus simultaneously assuring his own glory and our beatitude’”(CCC 294).
 
 
+"
+    Turning to CD, Volume IV.3.1, we find that Barth, in talking about the glory of the Mediator, lays a greater emphasis on the image of light shining forth as an exposition of God’s glory. Moreover, this declaration and revelation of Jesus Christ as the Mediator, whose glory is as light, also constitutes Jesus in his office as prophet. This agrees with Barth’s accentuating the essentially declarative nature of God’s revelation, expressed in the indicative and imperative." #Quote
     **Mission Statement**
         "The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life." 
 
@@ -56,6 +80,8 @@
                 2. do we offer the world a compelling and true witness of God's  we actively pursuing God's justice, reconciliation, and truth in the world?
                 3. are we  we understand God's redemptive purposes for the world?
         for the world: 
+
+
 2 Corinthians 5:14–21 (ESV)
 14 For the love of Christ controls us, because we have concluded this: that one has died for all, therefore all have died; 
 15 and he died for all, that those who live might no longer live for themselves but for him who for their sake died and was raised. 
