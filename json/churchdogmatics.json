@@ -43709,8 +43709,360 @@
     "title": "Steve Jobs - Turning Apple Around"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602603065956,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603502530,
+            "string": "ELT Agenda items",
+            "uid": "nnHtpFByd"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603551729,
+            "string": "**Reminders/Outstanding**",
+            "uid": "I06gboWyr"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603546911,
+            "string": "Outline here, follow up information will be added below.",
+            "uid": "LvpkCjkFV"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603607133,
+            "string": "{{[[TODO]]}} 1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Board Report",
+            "uid": "a9_USkaVx"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603614076,
+            "string": "{{[[TODO]]}} 2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Rhodes Scholar App \u2013 Jordan Koslowsky",
+            "uid": "1pOcd1uGa"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603622109,
+            "string": "{{[[TODO]]}} 3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Welcome message for Commencement Program",
+            "uid": "VsRSOlZtz"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603635078,
+            "string": "{{[[TODO]]}} 4.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0New Student Admit Letter",
+            "uid": "kMBUq9tm7"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603640701,
+            "string": "{{[[TODO]]}} 5.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Text for the Cultural Intelligence training invites",
+            "uid": "or9tZXAla"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603648191,
+            "string": "{{[[TODO]]}} 6.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Finalize Job Description \u2013 Phil Laird",
+            "uid": "KWKk4cYHj"
+          },
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602603581999,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602603584826,
+                "string": "Paul",
+                "uid": "Y4oOVXyQS"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602603584823,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602603671993,
+                "string": "Employees for volunteering",
+                "uid": "fgwQ1O1mC"
+              }
+            ],
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603654066,
+            "string": "{{[[TODO]]}} 7.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0HR Items",
+            "uid": "QjUq3Dj_v"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603661565,
+            "string": "{{[[TODO]]}} 8.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Development Items",
+            "uid": "-f8PmyI8n"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602603668410,
+            "string": "{{[[TODO]]}} 9.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Scripts for Fall grad \u2013 filming next Saturday",
+            "uid": "qeL1jNHd_"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602603053555,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602603065958,
+        "string": "8:30-9:00 am [[Review with Ann]]",
+        "uid": "8fvYwaWnb"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602797013,
+            "string": "Development Items",
+            "uid": "_IhChaRn3"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602787856,
+            "string": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Feedback on accessibility report",
+            "uid": "iiP2-7hoW"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602787856,
+            "string": "2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0TWU Student impact Fund - approval of new photos.",
+            "uid": "pgo04ww-5"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602787857,
+            "string": "3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Faith and Learning Initiative - provide Meghan with a short piece on what has been done to date for the impact report.\u00a0This will be used for Marvin Kehler, whose next gift is contingent upon receiving this report.",
+            "uid": "9ziiC9COm"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602787857,
+            "string": "4.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Request - We would like to request for Mark to have a phone call with Maxwell Munday as a follow-up to the $20,000 donation just received. This donor values hearing from the president so a phone call would be appreciated.\u00a0Max has been a very faithful supporters for many years!\u00a0(Let Ann know if this should be scheduled or not.)",
+            "uid": "xgZOP29D5"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602787857,
+            "string": "5.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Request - Jim Janz \u2013 after Vision conversation would like to invite you and Becky to their place \u2013 are you open to that?\u00a0(Let Ann know if this should be scheduled or not.)",
+            "uid": "7hYNE9P-2"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602787857,
+            "string": "6.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Request - Handwritten note of thanks to Jim & Leanne Schroeder \u2013 Pavilion gift",
+            "uid": "yr0FHBXmm"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602787857,
+            "string": "7.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Request - Marcus New \u2013 was unable to attend the Vision conversation and requested from Paul a taped version.\u00a0Paul would like suggestions of how to respond (or what to send).FYI - I asked for an update on the elevator - it\u00a0 has not started yet - apparently they are waiting on a permit.\u00a0(edited)",
+            "uid": "hrS5ug9c7"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602787857,
+            "string": "3 files\u00a0____",
+            "uid": "huRS_3-XW"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602602773618,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602602785601,
+        "string": "[[Development Meeting]]",
+        "uid": "f0_KMzeSh"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602856904,
+            "string": "RE: Script Needs for filming of graduation (Saturday, Oct 17 at 8 am)",
+            "uid": "wmac7wI_x"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602856904,
+            "string": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Areas highlighted in gray are for information only so as to familiarize you with the program flow.",
+            "uid": "ByPvCVZGY"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602856904,
+            "string": "2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u201cMessage from the President\u201d gives you an opportunity to address the graduating class leaving the introduction at the beginning for your welcome to the viewers, description of the program, and a lead in to O Canada.",
+            "uid": "lwDqWpbEb"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602602856904,
+            "string": "3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Some pieces are still pending and are noted on the document.",
+            "uid": "XcwweeNIj"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602602833284,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602602839343,
+        "string": "[[Fall Graduation 2020]]",
+        "uid": "5r9Zyv_x3"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602605107189,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602605116209,
+                    "string": "how many online courses",
+                    "uid": "fXbPZGcfW"
+                  },
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602605116206,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602605121559,
+                    "string": "hybrid class models",
+                    "uid": "WgZjDPwK0"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605130959,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605130959,
+                "string": "Basic Questions in Global:",
+                "uid": "fVGaR47st"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605121814,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605136432,
+                "string": "Physical Plant",
+                "uid": "VUWZ92I1G"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605136429,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605140423,
+                "string": "Dorms",
+                "uid": "IXdbvrpyi"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605159790,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605182207,
+                "string": "Change in Enrolment Patterns",
+                "uid": "5i9xH9x6e"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605182205,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605191463,
+                "string": "A permanent change in customer behavior",
+                "uid": "pHxrUYPV3"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605313030,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605317651,
+                "string": "Financial Aid",
+                "uid": "pMf_HuRv9"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602605088766,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602605095877,
+            "string": "9:00-10:00",
+            "uid": "jSt97oPs8"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602605207398,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602605223910,
+            "string": "How much of the \"new normal\" can and ought we to control?",
+            "uid": "L9t-_W6mS"
+          },
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605249727,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605326790,
+                "string": "Stage I:",
+                "uid": "mKuaIH1PM"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605254205,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605256734,
+                "string": "Stage II",
+                "uid": "PkSpjZYmL"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605256863,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605260486,
+                "string": "Stage III",
+                "uid": "thTiuevW-"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602605245590,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602605248164,
+            "string": "Timeline",
+            "uid": "w17sJR0IU"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602605261718,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602605274181,
+            "string": "New area of Expenditures: support for technology",
+            "uid": "rXg-skbd1"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602605019632,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602605103334,
+        "string": "[[New Normal - Assessment ELT]]",
+        "uid": "xLGn0IuUB"
+      }
+    ],
     "edit-email": "mark.husbands@twu.ca",
     "edit-time": 1602600873307,
     "title": "October 13th, 2020"
+  },
+  {
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602602839343,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602602839344,
+    "title": "Fall Graduation 2020"
+  },
+  {
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602605103337,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602605103338,
+    "title": "New Normal - Assessment ELT"
   }
 ]

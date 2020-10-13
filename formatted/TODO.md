@@ -164,6 +164,25 @@
 ## [First Destination Survey -- Meeting](<First Destination Survey -- Meeting.md>)
 - {{[TODO](<TODO.md>)}
 
+## [October 13th, 2020](<October 13th, 2020.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [October 1st, 2020](<October 1st, 2020.md>)
 {{[TODO](<TODO.md>)}
 

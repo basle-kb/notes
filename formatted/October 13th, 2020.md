@@ -1,19 +1,19 @@
-- 8:30-9:00 am [[Review with Ann]]
+- 8:30-9:00 am [Review with Ann](<Review with Ann.md>)
     - ELT Agenda items
     - **Reminders/Outstanding**
     - Outline here, follow up information will be added below.
-    - {{[[TODO]]}} 1.      Board Report
-    - {{[[TODO]]}} 2.      Rhodes Scholar App – Jordan Koslowsky
-    - {{[[TODO]]}} 3.      Welcome message for Commencement Program
-    - {{[[TODO]]}} 4.      New Student Admit Letter
-    - {{[[TODO]]}} 5.      Text for the Cultural Intelligence training invites
-    - {{[[TODO]]}} 6.      Finalize Job Description – Phil Laird
-    - {{[[TODO]]}} 7.      HR Items
+    - [ ] 1.      Board Report
+    - [ ] 2.      Rhodes Scholar App – Jordan Koslowsky
+    - [ ] 3.      Welcome message for Commencement Program
+    - [ ] 4.      New Student Admit Letter
+    - [ ] 5.      Text for the Cultural Intelligence training invites
+    - [ ] 6.      Finalize Job Description – Phil Laird
+    - [ ] 7.      HR Items
         - Paul
         - Employees for volunteering
-    - {{[[TODO]]}} 8.      Development Items
-    - {{[[TODO]]}} 9.      Scripts for Fall grad – filming next Saturday
-- [[Development Meeting]]
+    - [ ] 8.      Development Items
+    - [ ] 9.      Scripts for Fall grad – filming next Saturday
+- [Development Meeting](<Development Meeting.md>)
     - Development Items
     - 1.      Feedback on accessibility report
     - 2.      TWU Student impact Fund - approval of new photos.
@@ -23,12 +23,12 @@
     - 6.      Request - Handwritten note of thanks to Jim & Leanne Schroeder – Pavilion gift
     - 7.      Request - Marcus New – was unable to attend the Vision conversation and requested from Paul a taped version. Paul would like suggestions of how to respond (or what to send).FYI - I asked for an update on the elevator - it  has not started yet - apparently they are waiting on a permit. (edited)
     - 3 files ____
-- [[Fall Graduation 2020]]
+- [Fall Graduation 2020](<Fall Graduation 2020.md>)
     - RE: Script Needs for filming of graduation (Saturday, Oct 17 at 8 am)
     - 1.      Areas highlighted in gray are for information only so as to familiarize you with the program flow.
     - 2.       “Message from the President” gives you an opportunity to address the graduating class leaving the introduction at the beginning for your welcome to the viewers, description of the program, and a lead in to O Canada.
     - 3.      Some pieces are still pending and are noted on the document.
-- [[New Normal - Assessment ELT]]
+- [New Normal - Assessment ELT](<New Normal - Assessment ELT.md>)
     - 9:00-10:00
         - Basic Questions in Global:
             - how many online courses
