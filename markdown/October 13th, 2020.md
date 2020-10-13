@@ -119,4 +119,7 @@ Q. why wouldn't we prepare a robust summer schedule of online courses now.
     - 
 - 12:30-1:00 [[Development Event — Dinner with the President]]
 - 1:00-2:00 [[Trinity Fellows Meeting]]
+    - Devotional Isaiah 41
+        - 
 - 2:00-5:00 Hold for [[Filming - Vision Intro]]
+    - abundant life: 

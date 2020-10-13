@@ -44659,12 +44659,42 @@
         "uid": "dd3xtiWBa"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602619882029,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602619882029,
+                "string": "",
+                "uid": "0IHl2DYoI"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602619875464,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602619881507,
+            "string": "Devotional Isaiah 41",
+            "uid": "JDFaWckqw"
+          }
+        ],
         "edit-email": "mark.husbands@twu.ca",
         "edit-time": 1602609372680,
         "string": "1:00-2:00 [[Trinity Fellows Meeting]]",
         "uid": "sfnborEd5"
       },
       {
+        "children": [
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602619885860,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602619890716,
+            "string": "abundant life: ",
+            "uid": "hZSGCrwXA"
+          }
+        ],
         "edit-email": "mark.husbands@twu.ca",
         "edit-time": 1602609372680,
         "string": "2:00-5:00 Hold for [[Filming - Vision Intro]]",
