@@ -92,3 +92,31 @@ Q. why wouldn't we prepare a robust summer schedule of online courses now.
         - By cutting face to face content in hybrid you can double class size
         - ^^Superordinate Question: how much independence do we give to faculty to manage the learning experience?^^
         - 
+- 11:00am [Tako van Popta](<Tako van Popta.md>), MP for Langley-Aldergrove
+    - First of all: Thank you
+        - thank you for all that you and others have done to advocate for expanding border exemptions. 
+        - We truly appreciate your ongoing encouragement for the government to keep these exemptions in place for schools with approved quarantine processes is critical.
+        - ^^Progress so Far^^
+        - Regarding the pandemic, we have fared very well.  This is, in large part I believe, to a three-pronged approach to COVID-19: Preparation, Education, Intervention.
+        - **Preparation:**  In May, President Husbands initiated 12 task forces to prepare for fall. Our COVID-19 Health & Safety Taskforce spent most of May-Aug developing a comprehensive [COVID-19 Safety Plan](https://www.twu.ca/sites/default/files/public_covid-19_health_safety_plan_aug2020.pdf).  This included policies, processes and protocols ranging from decision-making guides for Deans to determine which courses should be F2F and how to safely plan for these (F2F comprise 10% of our courses), development of an online Campus Access Request application process for all employees; capacity assessment of every room on campus; determination of safe maximum residential capacity (50%) processes for daily login of all employees and students for contact tracing.  Key to this was the decision to hire 2 FTE Public Health Nurses (PHNs).  The lead is a TWU nursing alum with masters in public health from John’s Hopkins. The other FTE is split among 6 part-time nurses, 2 of whom are assigned to TWU-Richmond (Mandarin-speaking).
+        - We have also submitted a **Quarantine Readiness Plan to the BC Ministry of Advanced Education**, which ^^has been approved^^, **meaning that TWU will be listed on the government of Canada site as one of the approved PSIs to accept international students**.
+        - **Education:**  We held numerous information and Q&A sessions for employees, parents, students, TWU partners over the summer.  
+            - Each dean was assigned a PHN consultant to help prepare for any F2F courses (music; theatre; human kinetics/ athletics; nursing; biology; counseling psychology). 
+            - We also developed a COVID-19 specific sharepoint site, weekly email updates, and have educational signage in every physical space in Langley and Richmond.  Now the PHNs are focusing on ongoing education of students and employees re: safe socializing.
+        - **Intervention:  **The PHNs work within the Wellness Centre and alongside Student Life to assist international students in quarantine, students who have symptoms, COVID-19 testing, and general support. The PHN Lead reports to me as Senior Health Advisor, and we are in regular communication. We have plans in place to assist BC Public Health for contact tracing should there be a positive COVID-19 place.
+        - **Outcomes of our Efforts**:
+            - **COVID-19 cases:  **To date we have had no COVID-19 positive students and one COVID-19 positive employee.  
+                - The employee was identified by BC Public Health as a household contact of a  COVID-19 positive case, and self-isolated x 14 days. There was no campus exposure.  We fully anticipate that there will be a COVID-19 positive case at some point, and have strong plans in place re: self-isolation, support, and contact tracing (in conjunction with Fraser and Coastal Health Authorities).
+            - **Quarantine**:  Quarantine support provided in August, as well as ongoing arrival support, has gone smoothly.
+            - We have supervised and supported the on-campus quarantine of over 80 students, with approx 20 others supervised off-campus. 
+                - We are completing institutional processes to identify all future incoming international students, whose quarantine plans we will review, and who we will provide health care professional support (including assessment and discharge at day 15) as required by BC MAEST.  I would be curious to know how larger BC institutions are tracking and supporting their international students; it becomes more complicated the larger the numbers are.
+        - **Looking Forward**
+            - The concern that I see on the horizon is our short/medium-range pipeline.  
+                - As the borders have remained closed, our incoming pipelines are drying up.  
+                - Currently, international funnels for Spring 2021 are behind last year.  With borders opening this month, my hope is that we begin to reverse the trend.  
+                - The work done in the 96 hour marathons and the close relationships that Geoffrey and team have maintained should serve us well.
+                -  
+    - 
+- 12:30-1:00 [Development Event — Dinner with the President](<Development Event — Dinner with the President.md>)
+- 1:00-2:00 [Trinity Fellows Meeting](<Trinity Fellows Meeting.md>)
+- 2:00-5:00 Hold for [Filming - Vision Intro](<Filming - Vision Intro.md>)
