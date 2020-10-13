@@ -43989,15 +43989,347 @@
             "uid": "jSt97oPs8"
           },
           {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602606788179,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602607010505,
+                "string": "^^Have we figured out how to do an excellent job of helping students think through the physical experience of their learning^^",
+                "uid": "57A5uH9oz"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602607013083,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602607047610,
+                    "string": "N.B. UBC gives students on how to create a meaningful learning experience online.",
+                    "uid": "86YNR-Xbk"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602606962122,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602607010505,
+                "string": "^^Why are we teaching online courses synchronously?^^",
+                "uid": "k6o7fPjEy"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602605811549,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602605827814,
+                    "string": "A large block of faculty do not want to take on the challenge of a new way. ",
+                    "uid": "ZZDvk27YX"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602606546611,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602606553690,
+                "string": "New degrees and certificates",
+                "uid": "R7dhEOGGQ"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602605780772,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602605789098,
+                    "string": "Q. who champions this venture",
+                    "uid": "ewy1r7IRa"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602605971196,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602605977726,
+                        "string": "we can market this across Canada",
+                        "uid": "hg2H_PuM2"
+                      },
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602605984124,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602606010548,
+                        "string": "marketing opportunity for students who hesitated and took a \"gap year\".",
+                        "uid": "3bzjnrKI6"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602605952388,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602605969546,
+                    "string": "Q. how do we support Jonathan in getting this out. ",
+                    "uid": "0QmqLfNl_"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "create-email": "mark.husbands@twu.ca",
+                                "create-time": 1602606299684,
+                                "edit-email": "mark.husbands@twu.ca",
+                                "edit-time": 1602606792431,
+                                "string": "hopefully this is exciting",
+                                "uid": "P_gfCoJKg"
+                              }
+                            ],
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602606642045,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602606652732,
+                            "string": "**I. Learning**",
+                            "uid": "xCSoE8-01"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "mark.husbands@twu.ca",
+                                "create-time": 1602606332667,
+                                "edit-email": "mark.husbands@twu.ca",
+                                "edit-time": 1602606340490,
+                                "string": "you choose this because you need for your degree",
+                                "uid": "bzdn4DzKP"
+                              },
+                              {
+                                "create-email": "mark.husbands@twu.ca",
+                                "create-time": 1602606769522,
+                                "edit-email": "mark.husbands@twu.ca",
+                                "edit-time": 1602606778928,
+                                "string": "definetely N.B.",
+                                "uid": "Ev-A-0g2x"
+                              }
+                            ],
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602606322406,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602606668650,
+                            "string": "**II. Credentialing**",
+                            "uid": "UnJWin2Yk"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "mark.husbands@twu.ca",
+                                "create-time": 1602606761178,
+                                "edit-email": "mark.husbands@twu.ca",
+                                "edit-time": 1602606763186,
+                                "string": "may sell you on studying at the U. ",
+                                "uid": "J0NCJbt4-"
+                              }
+                            ],
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602606305867,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602606748666,
+                            "string": "**III. Experience**",
+                            "uid": "IBHCb2iNY"
+                          }
+                        ],
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602606283488,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602606729740,
+                        "string": "{{[[table]]}}",
+                        "uid": "7v6YUHg6Z"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602606117917,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602606269742,
+                    "string": "Three main reasons why students take a class:",
+                    "uid": "YO7Xg_FrN"
+                  },
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602606383067,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602606414292,
+                    "string": "i.e., online: Peter Flint - Dead Seas Scrolls",
+                    "uid": "KPVcWzTm3"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605755069,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605772434,
+                "string": "A robust online Summer Portfolio of offerings",
+                "uid": "MUC94T9l9"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602607506001,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602607536823,
+                    "string": "most faculty are experiential learners -- and will learn how to teach well online by doing it. ",
+                    "uid": "KtzfdPbKE"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602606994465,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602607505681,
+                "string": "**Key Questions for ELT re: Online Learning**",
+                "uid": "134asKEn1"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602606979056,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602607416931,
+                "string": "Do we have the right platform for online learning?",
+                "uid": "hUpff_xY3"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602607416928,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602607554458,
+                "string": "Do we have the right faculty support and development and student development for online learning?",
+                "uid": "ApEcJvQx2"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602607449969,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602607470809,
+                "string": "Do we have the right system to foster great online learning?",
+                "uid": "GVtXz7gl7"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602607432368,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602607432368,
+                "string": "",
+                "uid": "5chrTjQGX"
+              }
+            ],
             "create-email": "mark.husbands@twu.ca",
             "create-time": 1602605207398,
             "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1602605223910,
-            "string": "How much of the \"new normal\" can and ought we to control?",
+            "edit-time": 1602606126115,
+            "string": "**How much of the \"new normal\" can and ought we to control?**",
             "uid": "L9t-_W6mS"
           },
           {
             "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602605466030,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602605588372,
+                            "string": "status quo, virtual graduation, enrolment challenges, \nQ. why wouldn't we prepare a robust summer schedule of online courses now. \n",
+                            "uid": "uifkmYYK_"
+                          }
+                        ],
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602605445831,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602605449721,
+                        "string": "Spring Semester",
+                        "uid": "5F8jRvthW"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602605336369,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602605340517,
+                    "string": "Stage I",
+                    "uid": "pSm3yP62X"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602605533301,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602605677972,
+                            "string": "robust online summer session offerings -- listed before: November ",
+                            "uid": "4aFAHKOxx"
+                          }
+                        ],
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602605450374,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602605456229,
+                        "string": "Summer and Fall 2021",
+                        "uid": "CFw5SFqEp"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602605342215,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602605345538,
+                    "string": "Stage II",
+                    "uid": "YKXRl1n_G"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602607955095,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602607972560,
+                            "string": "world will likely move to something like the old normal, but what if we ",
+                            "uid": "fFyxxzY_4"
+                          }
+                        ],
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602605456911,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602605463413,
+                        "string": "2022",
+                        "uid": "AtAbSnNXJ"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602605345535,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602606488025,
+                    "string": "Stage III",
+                    "uid": "_7r43mXr3"
+                  },
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602605348630,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602605348630,
+                    "string": "",
+                    "uid": "EYak1Wn_0"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602605332390,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602605336068,
+                "string": "{{[[table]]}}",
+                "uid": "cIRPjkfho"
+              },
               {
                 "create-email": "mark.husbands@twu.ca",
                 "create-time": 1602605249727,
@@ -44034,9 +44366,87 @@
             "create-email": "mark.husbands@twu.ca",
             "create-time": 1602605261718,
             "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1602605274181,
+            "edit-time": 1602605735292,
             "string": "New area of Expenditures: support for technology",
             "uid": "rXg-skbd1"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602607748848,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602607759218,
+                    "string": "even with all classroom online",
+                    "uid": "yjga1TXg2"
+                  },
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602607759216,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602607813425,
+                    "string": "certificate at the end of program",
+                    "uid": "giu0gm7cE"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602607737303,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602607747585,
+                "string": "Model of leadership learning labs in all curriculum",
+                "uid": "KO34kuGGp"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602607829847,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602607841296,
+                    "string": "prefer to come in once and experience a hybrid model",
+                    "uid": "_ZsTcTrcD"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602607815280,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602607829105,
+                "string": "Students don't need 3 hours of face to face for each class",
+                "uid": "wdr_jbmFG"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602607842896,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602608383734,
+                "string": "By cutting face to face content in hybrid you can double class size",
+                "uid": "tT4PkKwwn"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602608384943,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602608410996,
+                "string": "^^Superordinate Question: how much independence do we give to faculty to manage the learning experience?^^",
+                "uid": "NYaduAxir"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602608411070,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602608411070,
+                "string": "",
+                "uid": "Xf_yP7rsa"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602607726056,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602607737147,
+            "string": "Do we have the attitude: advantages",
+            "uid": "y5LMTWMol"
           }
         ],
         "create-email": "mark.husbands@twu.ca",

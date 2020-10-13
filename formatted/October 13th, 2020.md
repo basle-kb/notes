@@ -38,9 +38,57 @@
         - Change in Enrolment Patterns
         - A permanent change in customer behavior
         - Financial Aid
-    - How much of the "new normal" can and ought we to control?
+    - **How much of the "new normal" can and ought we to control?**
+        - ^^Have we figured out how to do an excellent job of helping students think through the physical experience of their learning^^
+        - ^^Why are we teaching online courses synchronously?^^
+            - N.B. UBC gives students on how to create a meaningful learning experience online.
+        - New degrees and certificates
+            - A large block of faculty do not want to take on the challenge of a new way. 
+        - A robust online Summer Portfolio of offerings
+            - Q. who champions this venture
+            - Q. how do we support Jonathan in getting this out. 
+                - we can market this across Canada
+                - marketing opportunity for students who hesitated and took a "gap year".
+            - Three main reasons why students take a class:
+                - {{[table](<table.md>)}}
+                    - **I. Learning**
+                        - hopefully this is exciting
+                    - **II. Credentialing**
+                        - you choose this because you need for your degree
+                        - definetely N.B.
+                    - **III. Experience**
+                        - may sell you on studying at the U. 
+            - i.e., online: Peter Flint - Dead Seas Scrolls
+        - **Key Questions for ELT re: Online Learning**
+            - most faculty are experiential learners -- and will learn how to teach well online by doing it. 
+        - Do we have the right platform for online learning?
+        - Do we have the right faculty support and development and student development for online learning?
+        - Do we have the right system to foster great online learning?
+        - 
     - Timeline
-        - Stage I
+        - {{[table](<table.md>)}}
+            - Stage I
+                - Spring Semester
+                    - status quo, virtual graduation, enrolment challenges, 
+Q. why wouldn't we prepare a robust summer schedule of online courses now. 
+
+            - Stage II
+                - Summer and Fall 2021
+                    - robust online summer session offerings -- listed before: November 
+            - Stage III
+                - 2022
+                    - world will likely move to something like the old normal, but what if we 
+            - 
+        - Stage I:
         - Stage II
         - Stage III
     - New area of Expenditures: support for technology
+    - Do we have the attitude: advantages
+        - Model of leadership learning labs in all curriculum
+            - even with all classroom online
+            - certificate at the end of program
+        - Students don't need 3 hours of face to face for each class
+            - prefer to come in once and experience a hybrid model
+        - By cutting face to face content in hybrid you can double class size
+        - ^^Superordinate Question: how much independence do we give to faculty to manage the learning experience?^^
+        - 
