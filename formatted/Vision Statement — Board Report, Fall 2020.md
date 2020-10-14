@@ -30,7 +30,19 @@
 
 
 INTRODUCTION
-    Why does Trinity Western University exist? What is our final measure of success? These are both challenging and entirely fitting questions to ask amidst disruptive and challenging times. I am thrilled to have been able to share the wonderful news that **Trinity Western University has just received the highest enrolment in its 58-year history.** Fall 2020 enrolment is 4,774 students, up from 4,476 in 2019. Overall university enrolment has increased 6.7% over last year. At the same time, I am painfully aware that God's gracious provision also demanded a corresponding sacrifice on behalf of the majority of the Trinity Western University community. 
+    Why does Trinity Western University exist?
+    What do we want others to know about us?
+    What does Trinity offer the world?
+    How are we unique on the Canadian landscape of higher education? 
+    What is our final measure of success? 
+    Do TWU faculty have a common or shared understanding of what it means to model Paul's exhortation: "Do not be conformed to this world, but be transformed by the renewing of your minds, so that you may discern what is the will of God—what is good and acceptable and perfect." (Rom 12:2)?
+        What is lost if TWU faculty, in general, lack this ability and commitment?
+
+    These questions do not arise, however, out of "thin air" but rather, emerge quite forcefully and passionately from a long friendship with Mark Noll (arguably one of the most brilliant and humble Christian thinkers the Evangelical tradition has produced in over the last 70 years). 
+    In a short interview on volume 97 of __Mars Hill Audio__ (I have posted this interview online: ) Mark reflects on how Christian higher education is aided by a commitment to something like "Christendom," a commitment to the view that Christ has consequences for all of life and all of social experience. Note, while Mark is one of our finest evangelical thinkers and historians, he is not a dispassionate observer.
+        For instance, he rightly claims that a vision of Christianity that views salvation in fundamentally private or individualistic terms will be unable to sustain and carry out serious Christian learning. Reflecting on the value and contribution of C   Listen to 
+    
+    These are both challenging and entirely fitting questions to ask amidst disruptive and challenging times. I am thrilled to have been able to share the wonderful news that **Trinity Western University has just received the highest enrolment in its 58-year history.** Fall 2020 enrolment is 4,774 students, up from 4,476 in 2019. Overall university enrolment has increased 6.7% over last year. At the same time, I am painfully aware that God's gracious provision also demanded a corresponding sacrifice on behalf of the majority of the Trinity Western University community. 
     Having reached the fall with this stunningly positive achievement in enrolment, it might be tempting for some to begin to make plans to "return to normal." And yet, we are all living through a devastating global pandemic. However there are very good reasons to resist the illusory comfort of a dream of "returning to normal." 
     Despite the hardship, disruption, and challenges of seeking to advance the work of Canada's leading global Christian University amidst COVID-19, this season has also afforded us unforeseen opportunities for growth, clarity, innovation, and adaptation. Indeed, from the onset of COVID-19, my hope and prayer is that Trinity Western University would emerge from this crisis a stronger, more agile, innovative, and mission-focused institution than when we began. 
     Why do we exist, and how will we measure our success?
