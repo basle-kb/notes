@@ -8,4 +8,6 @@
     - Employees for volunteering
 - {{[[TODO]]}} 8.      Development Items
 - {{[[TODO]]}} 9.      Scripts for Fall grad – filming next Saturday
+- {{[[TODO]]}} review https://app.sparkmailapp.com/web-share/mQ4zc6JteMcx5waQaApMZm3btqCpBQlJQSeJ-jP3
+- 
 - 
