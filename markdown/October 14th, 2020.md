@@ -10,4 +10,5 @@
 - {{[[TODO]]}} 9.      Scripts for Fall grad – filming next Saturday
 - {{[[TODO]]}} review https://app.sparkmailapp.com/web-share/mQ4zc6JteMcx5waQaApMZm3btqCpBQlJQSeJ-jP3
 - 
-- 
+- [[Executive Summary of Fall 2020 Board Items]]
+    - 
