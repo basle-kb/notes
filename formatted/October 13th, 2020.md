@@ -3,7 +3,7 @@
     - **Reminders/Outstanding**
     - Outline here, follow up information will be added below.
     - [ ] 1.      Board Report
-    - [ ] 2.      Rhodes Scholar App – Jordan Koslowsky
+    - [x] 2.      Rhodes Scholar App – Jordan Koslowsky
     - [ ] 3.      Welcome message for Commencement Program
     - [ ] 4.      New Student Admit Letter
     - [ ] 5.      Text for the Cultural Intelligence training invites

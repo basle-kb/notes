@@ -1,0 +1,11 @@
+- {{[[TODO]]}} 1.      Board Report
+- {{[[TODO]]}} 3.      Welcome message for Commencement Program
+- {{[[TODO]]}} 4.      New Student Admit Letter
+- {{[[TODO]]}} 5.      Text for the Cultural Intelligence training invites
+- {{[[TODO]]}} 6.      Finalize Job Description – Phil Laird
+- {{[[TODO]]}} 7.      HR Items
+    - Paul
+    - Employees for volunteering
+- {{[[TODO]]}} 8.      Development Items
+- {{[[TODO]]}} 9.      Scripts for Fall grad – filming next Saturday
+- 

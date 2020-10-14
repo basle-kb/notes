@@ -41354,7 +41354,7 @@
             "create-email": "mark.husbands@twu.ca",
             "create-time": 1602372689833,
             "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1602458484390,
+            "edit-time": 1602698099793,
             "string": "```css\n/*  Make sure you have the fonts Lato and Open Sans installed locally on your machine.\nThey're free to download from Google:\nhttps://fonts.google.com/specimen/Lato\nhttps://fonts.google.com/specimen/Open+Sans  */\nbody {\n  font-size: 120%;\n}\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-family: 'Whitney';\n}\n\ndiv,\ntextarea {\n  font-family: 'Palatino';\n}\n\n.roam-block-container {\n    max-width: 1000px;\n}\n\n.rm-query {\n    border: 0.5px solid #e4e9ec;\n    border-radius: 5px;\n    \n}\n\n.rm-query .rm-query-title {\n    background-color: #f7f8f8;\n    padding: 0.8em;\n    color: #d1dbe2;\n    font-size: 80%;\n}\n\n.rm-reference-main.rm-query-content {\n    padding: 0.8em;\n}\n\n.rm-reference-main .rm-reference-item .rm-block-text {\n    font-size: 90%;\n}\n\n.rm-ref-page-view-title span {\n    \n}\n\n.rm-reference-main .rm-reference-item .controls {\n    margin-left: -1em;\n}\n\n.rm-ref-page-view {\n    padding: 0.4em 0.2em;\n}\n\n.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {\n    padding: 6px;\n}\n\ndiv.flex-v-box.starred-pages-wrapper > div.flex-h-box > span {\n    font-size: 14px;\n    opacity: 80%;\n    letter-spacing: 0.04em;\n}\n\ndiv.roam-sidebar-container.noselect > div > div {\n    font-size: 14px;\n    letter-spacing: 0.03em;\n    \n}\n\n#block-input {\n    background: white;\n}\n\n.roam-body #block-input > span > div {\n    padding: 6px 24px;\n    background: white;\n}\n\nspan.bp3-icon-small.bp3-icon-star {\n    display: none;\n    visibility: hidden;\n}\n\n.roam-block {\n    max-width: 850px;\n}\n\n#right-sidebar > div {\n    background-color: #f7f8fa;\n    border-left: 1px solid #e9ebef;\n}\n.rm-page-ref-brackets {\n    display: none;\n}\n.controls .simple-bullet-outer .simple-bullet-inner {\n    background-color: #e5e9f2;\n}\n.block-border-left {\n    border-left: 1px solid #fff;\n}\n.kanban-board {\n    background-color: #fff;\n}\n.kanban-card {\n    background-color: white;\n    margin: 8px;\n    box-shadow: 0px 1px 2px #9EB3C0;\n    padding: 10px;\n    border-radius: 2px;\n    line-height: 1.3em;\n}\n.kanban-title {\n    text-align: center;\n    font-weight: bold;\n    padding-top: 6px;\n}\n.kanban-column {\n    background-color: #E4EDF2;\n    margin: 0px 4px 0px 4px;\n    padding: 4px;\n    min-width: 200px;\n    border-radius: 3px;\n}\n.rm-block-ref::before {\n    content: '';\n    display: inline-block;\n    width: 10px;\n    border-radius: 40px;\n    height: 10px;\n    background: #ff913c;\n    margin-right: 5px;\n}\n.rm-block-ref {\n    border-bottom: none;\n    font-size: 1em;\n    color: #627a9d;\n}\n.rm-block-ref:hover {\n    background: none;\n    cursor: pointer;\n}\n.checkmark {\n    background: #fff;\n}\n.check-container input:checked ~ .checkmark {\n    background: #33bdea;\n}\n.check-container input:checked ~ .checkmark:after {\n    border-color: #fff;\n}\n.rm-reference-item {\n    margin-top: 8px;\n    border-radius: 6px;\n    border: 1px solid #e4e9ee;\n    margin-right: 8px;\n    flex: 1 1 100%;\n    word-break: break-word;\n    background-color: #f7f9fb;\n    padding: 8px;\n}\n\n.rm-level2 {\n    font-size: 1.5em;\n}\n.rm-level3 {\n    color: #939aae;\n    font-weight: 400;\n    font-size: 1.3em;\n}\n.rm-page-ref {\n    color: #9aabd0;\n}\n.rm-page-ref-link-color {\n    color: #ec6f35;\n    font-weight: 600;\n}\na {\n    color: #8A3CC8;\n}\n.intercom-app,\n.intercom-launcher-frame,\n#intercom-container {\n    display: none;\n}\n.roam-body .roam-app .roam-sidebar-container {\n    background-color: white;\n    border-right: 1px #eee solid;\n}\n.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page,\n.roam-body .roam-app .roam-sidebar-container > * {\n    opacity: 90%;\n    box-shadow: none;\n}\n.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover,\n.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {\n    background: white;\n    color: black;\n    opacity: 100%;\n}\n#buffer.tall {\n    height: calc(100vh - 50px);\n}\n.check-container {\n    padding-right: 4px;\n}\nspan.rm-page-ref {\n    border-radius: 2px;\n    padding-left: 1px;\n    padding-right: 1px;\n}\n.content span.rm-page-ref {\n    padding: 4px 1px 1px;\n    /* required for fixing azo */\n}\n.center-proj {\n    text-align: center;\n}\n\n\n/* Custom data tags */\nspan.rm-page-ref[data-tag=\"TwitterPost\"] {\n    background: #81D5ED;\n    color: white;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Literature Notes\"] {\n    background: #9769FF;\n    color: white;\n    padding: 3px 7px;\n    font-weight: 500;\n    line-height: 2em;\n}\n\n\nspan.rm-page-ref[data-tag=\"Evergreens\"] {\n    background: #0DBAC6;\n    color: #fff;\n    padding: 3px 8px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Seedling\"] {\n    color: #0dbac6;\n    padding: 3px 3px;\n    font-weight: 600;\n    line-height: 1.4em;\n}\n\nspan.rm-page-ref[data-tag=\"Idea Bank\"] {\n    color: #FCB815;\n    padding: 3px 4px;\n    font-weight: 700;\n    line-height: 1.4em;\n}\n\nspan.rm-page-ref[data-tag=\"Idea Bank\"]:before {\n    content: '\u2726 '\n}\n\nspan.rm-page-ref[data-tag=\"Illustrated Notes\"] {\n    color: #7172FC;\n    padding: 3px 4px;\n    font-weight: 700;\n    line-height: 1.4em;\n}\n\nspan.rm-page-ref[data-tag=\"Garden Notes\"] {\n    color: #9DBC13;\n    padding: 3px 4px;\n    font-weight: 700;\n    line-height: 1.4em;\n}\n\nspan.rm-page-ref[data-tag=\"Video Tutorial\"] {\n    color: #db3b8d;\n    padding: 3px 4px;\n    line-height: 1.4em;\n    font-weight: 700;\n}\n\nspan.rm-page-ref[data-tag=\"Essay\"] {\n    background: #ADCB2A;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\n\nspan.rm-page-ref[data-tag=\"Livestream\"] {\n    color: #B979CF;\n    padding: 3px 4px;\n    line-height: 1.4em;\n    font-weight: 700;\n}\n\nspan.rm-page-ref[data-tag=\"Talk\"] {\n    background: #7172FC;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Waiting\"] {\n    background: #F9C866;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Researching\"] {\n    background: #FF9D66;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Synthesising\"] {\n    background: #FC766F;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\n\nspan.rm-page-ref[data-tag=\"Alive\"] {\n    background: #EE5F85;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\u00a9 2020 GitHub, Inc.\nTerms\nPrivacy\nSecurity\nStatus\nHelp\nContact GitHub\nPricing\nAPI\nTraining\nBlog\nAbout\n```",
             "uid": "EzfyA56nc"
           },
@@ -41638,6 +41638,102 @@
     "title": "Filming - Vision Intro"
   },
   {
+    "children": [
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602698732547,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698744807,
+        "string": "[[October 15th, 2020]], 9-11am",
+        "uid": "l9qE6wPwX"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602698348110,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698359875,
+        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FO9pg1Uas1E.png?alt=media&token=1681ee87-346b-45c1-a1fe-d7babc68a42f)",
+        "uid": "efMwyVCgf"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602698366242,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698366242,
+        "string": "",
+        "uid": "7I6_Hxaht"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602698571363,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602698571363,
+                "string": "Results:",
+                "uid": "wMN2Pldo5"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602698373076,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602698569479,
+            "string": "1. Discussion of the results of the ELT Survey: https://markhusbands186063.typeform.com/to/UqMZhbQ6",
+            "uid": "kl084CQV9"
+          },
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602698555059,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602698601081,
+                "string": "https://www.dropbox.com/s/bwaeo0q8x64o22f/TWU%20PRES%20Vision%20-%20Staff%20Faculty%20presentation.pdf?dl=0 ",
+                "uid": "jn_XstN4i"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602698585549,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602698585549,
+            "string": "2. Discussion of Vision Slide Deck:",
+            "uid": "Gvh30sK2r"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602698662191,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602698682211,
+            "string": "3. Review if Revised Policy Process  - Sonya",
+            "uid": "zkM_K7ZZh"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602698682208,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602698701181,
+            "string": "4. \"On not returning to normal\" Part 1 of X - Phil and Aklilu",
+            "uid": "zG_vgHO7s"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602698701704,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602698712526,
+            "string": "5. ULC agenda - what ought we to cover and when?",
+            "uid": "tM71BiiJF"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602698365396,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698372486,
+        "string": "AGENGA",
+        "uid": "beAHHi-Hf"
+      }
+    ],
     "create-email": "mark.husbands@twu.ca",
     "create-time": 1602443176577,
     "edit-email": "mark.husbands@twu.ca",
@@ -43740,8 +43836,8 @@
           },
           {
             "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1602603614076,
-            "string": "{{[[TODO]]}} 2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Rhodes Scholar App \u2013 Jordan Koslowsky",
+            "edit-time": 1602698128341,
+            "string": "{{[[DONE]]}} 2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Rhodes Scholar App \u2013 Jordan Koslowsky",
             "uid": "1pOcd1uGa"
           },
           {
@@ -44727,8 +44823,85 @@
     "title": "Tako van Popta"
   },
   {
+    "children": [
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698156442,
+        "string": "{{[[TODO]]}} 1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Board Report",
+        "uid": "TKj3w_5o1"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698156441,
+        "string": "{{[[TODO]]}} 3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Welcome message for Commencement Program",
+        "uid": "RdEBh1V1W"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698156442,
+        "string": "{{[[TODO]]}} 4.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0New Student Admit Letter",
+        "uid": "niVy4c6kp"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698156442,
+        "string": "{{[[TODO]]}} 5.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Text for the Cultural Intelligence training invites",
+        "uid": "E4FTzeTIC"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698156442,
+        "string": "{{[[TODO]]}} 6.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Finalize Job Description \u2013 Phil Laird",
+        "uid": "3nmUzRbVL"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602698156442,
+            "string": "Paul",
+            "uid": "5CeEhj8wS"
+          },
+          {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602698156442,
+            "string": "Employees for volunteering",
+            "uid": "2H3xyEvpi"
+          }
+        ],
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698156442,
+        "string": "{{[[TODO]]}} 7.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0HR Items",
+        "uid": "Q6Z51mdke"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698156442,
+        "string": "{{[[TODO]]}} 8.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Development Items",
+        "uid": "9FPDCSUxF"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698156442,
+        "string": "{{[[TODO]]}} 9.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Scripts for Fall grad \u2013 filming next Saturday",
+        "uid": "LHhoWzaM3"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602698166311,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602698166311,
+        "string": "",
+        "uid": "xmFSLtOEc"
+      }
+    ],
     "edit-email": "mark.husbands@twu.ca",
     "edit-time": 1602634697847,
     "title": "October 14th, 2020"
+  },
+  {
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602698738050,
+    "title": "October 15th, 2020"
   }
 ]

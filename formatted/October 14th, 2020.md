@@ -1,0 +1,11 @@
+- [ ] 1.      Board Report
+- [ ] 3.      Welcome message for Commencement Program
+- [ ] 4.      New Student Admit Letter
+- [ ] 5.      Text for the Cultural Intelligence training invites
+- [ ] 6.      Finalize Job Description – Phil Laird
+- [ ] 7.      HR Items
+    - Paul
+    - Employees for volunteering
+- [ ] 8.      Development Items
+- [ ] 9.      Scripts for Fall grad – filming next Saturday
+- 
