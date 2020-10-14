@@ -52,13 +52,12 @@ INTRODUCTION
 
 MISSION & VISION
     Why do we exist, and how will we measure our success?
-    Eight weeks after returning to Apple, Steve Jobs held a “team meeting” with Apple Employees to introduce an entirely new strategy for product development and marketing. 
-    In the course of this talk, Jobs expressed a point of view that could help Trinity Western University over the next few years. Listen to this comment by Steve Jobs:
+    Eight weeks after returning to Apple, Steve Jobs held a “team meeting” with Apple Employees to introduce an entirely new strategy for product development and marketing. In the course of this talk, Jobs expressed a point of view that could help Trinity Western University over the next few years: 
         "To me, marketing is about values. This is a very complicated world. It is a very noisy world. And, were not going to get a chance to get people to remember much about us. No company is. And so we have to be really clear on what we want them to know about us." 
     To which Jobs added: 
         "Even a great brand needs investment and caring if it going to retain its relevance and vitality...our customers want to know "who is Apple, and what is it that we stand for, where do we fit in the world"."
-    Do our friends, donors, students, alumni, and parents, know who TWU is, what TWU stands for, and where we fit in the world?
-    **In a noisy, competitive, and largely post-Christian West, have we been really clear on what we want people to remember about us?**
+    Indeed, our friends, donors, alumni, parents, and students want to know "what do we stand for?" and "where do we fit in the world?"
+    **In a noisy, competitive, and largely post-Christian West, we have to be really clear on what we want people to remember about us?**
     This is where the question of mission & vision come in. 
     The assumption here is this: in order to succeed in helping others know and hopefully value what Trinity Western University is about, and what we stand for, it is necessary to have institutional clarity and commitment to a common vision. 
     Put differently, in order to be sure that we are pursuing the right goals, and devoting finite resources to the most important areas of the University, we need to have a clear sense of where we are going. If we can't answer "why we exist, or how we measure success" we will not reach the potential and fulfill the mission that God has given us. 
@@ -89,10 +88,11 @@ The vast majority of Universities across North America are set-up to provide stu
         >”A program of purpose exploration is not the only way for campuses to accomplish this; but it is a demonstrably effective way to increase campus engagement and satisfaction, to focus attention beyond campus bubbles, and to supply a language, conversation partners, and generative resources that improve successful navigation of our highly competitive and complex world.” (205)
     The goal of The effortDoing so, however, would require us to reach back to Scripture and the Christian tradition for a vision of human flourishing and service grounded in the person and work of Christ. 
     You can learn more about the *Emmaus Scholars Program* here: [“Nurturing Holy Grit”].
-    The 2nd century theologian and bishop, Irenaeus rightly claimed the purpose and goal of human life was to be at peace with God. Human creatures have been created with a purpose and calling -- not to live for themselves, but to live for and with Christ. Irenaeus taught that “the glory of God is man fully alive" to which he adds, "man’s life is the vision of God" meaning, humanity is only truly alive when it sees and understands the world from the perspective of God's revelation in Christ, the One in whom we live and move and have our being (cf. Acts 17:28). 
+    The 2nd century theologian and bishop, Irenaeus wisely claimed the purpose and goal of human life was to be at peace with God. Human creatures have been created with a purpose and calling -- not to live for themselves, but to live for and with Christ. Irenaeus taught that “the glory of God is man fully alive" to which he adds, "man’s life is the vision of God" meaning, humanity is only truly alive when it sees and understands the world from the perspective of God's revelation in Christ, the One in whom we live and move and have our being (cf. Acts 17:28). 
         "...revealing God indeed to men, but presenting man to God, and
 preserving at the same time the invisibility of the Father, lest man should at any time become a despiser of God, and that he should always possess something towards which he might advance; but, on the other hand, revealing God to men through many dispensations, lest man, failing away from God altogether, should cease to exist. **For the glory of God is a living man; and the life of man consists in beholding God. For if the manifestation of God which is made by means of the creation, affords life to all living in the earth, much more does that revelation of the Father which comes through the Word, give life to those who see God.** 
             Source: Irenaeus of Lyons, __Irenæus against Heresies,__ in __The Apostolic Fathers with Justin Martyr and Irenaeus__, ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe, vol. 1, The Ante-Nicene Fathers (Buffalo, NY: Christian Literature Company, 1885), 489–490.
+
 
 n order to provide a satisfying answer to the questions: Why do we exist, and how will we measure our success?
 
