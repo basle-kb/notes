@@ -45704,14 +45704,6 @@
                 "edit-time": 1602795786705,
                 "string": "{{[[TODO]]}} Ann should set up a meeting with Brian, and Laurie, and Bob to see how should this course be framed. ",
                 "uid": "hP7g5Rrgt"
-              },
-              {
-                "create-email": "mark.husbands@twu.ca",
-                "create-time": 1602795789990,
-                "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1602795789990,
-                "string": "",
-                "uid": "tr6cSauiP"
               }
             ],
             "create-email": "mark.husbands@twu.ca",
@@ -45720,6 +45712,70 @@
             "edit-time": 1602795278302,
             "string": "IV. Foundations 101",
             "uid": "fZRLPOTQg"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602796113671,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602796187947,
+                    "string": "{{[[TODO]]}} Ann should set up phone conversation with  Jennifer Adkins for Mark and Richard to talk about an NSERC grant -  and connect with Richard",
+                    "uid": "AVXO5QefJ"
+                  },
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602796256958,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602796256958,
+                    "string": "",
+                    "uid": "7WEjX-Tkn"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602796109756,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602796113475,
+                "string": "Richard Chandra",
+                "uid": "Y-LLGC-AV"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602795789990,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602796109772,
+            "string": "V. EDIC NSERC grant",
+            "uid": "tr6cSauiP"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602796358158,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602796365473,
+                    "string": "motion: ",
+                    "uid": "gdlNFr4FW"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602796252421,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602796358162,
+                "string": "Worry and anxiety",
+                "uid": "Ye9350VHd"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602796235901,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602796252169,
+            "string": "VI. INSTITUTIONAL PROGRAM PRIORITIZATION",
+            "uid": "JtF00_qjj"
           }
         ],
         "create-email": "mark.husbands@twu.ca",

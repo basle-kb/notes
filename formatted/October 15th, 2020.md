@@ -23,7 +23,13 @@
         - A. It should not be housed in Student Life?
         - The new piece to this is Brian's area of Personal and Career Development
         - [ ] Ann should set up a meeting with Brian, and Laurie, and Bob to see how should this course be framed. 
-        - 
+    - V. EDIC NSERC grant
+        - Richard Chandra
+            - [ ] Ann should set up phone conversation with  Jennifer Adkins for Mark and Richard to talk about an NSERC grant -  and connect with Richard
+            - 
+    - VI. INSTITUTIONAL PROGRAM PRIORITIZATION
+        - Worry and anxiety
+            - motion: 
 
 # Backlinks
 ## [ELT Meeting - Week 41](<ELT Meeting - Week 41.md>)
