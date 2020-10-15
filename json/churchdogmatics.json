@@ -41669,11 +41669,99 @@
             "children": [
               {
                 "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602777822254,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602777846830,
+                "string": "\"but he, desiring to justify himself, asked...\"who is my neighbor:?\"",
+                "uid": "7PAnxjfke"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602777805470,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602777821746,
+            "string": "Devotional: good samaritan",
+            "uid": "7d6p9N6Oj"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602777382424,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602777386446,
+                    "string": "the sample size is small",
+                    "uid": "QdhpS5F2f"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602777430942,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602777476848,
+                            "string": "For the record, I prefer \"utterly true\" and when we work together as ELT I am not generally asking for marketing language or postures so you might want to clarify your answer if it shows up on the screen. ",
+                            "uid": "JIA_qaO2U"
+                          }
+                        ],
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602777399286,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602777430945,
+                        "string": "I also did not direct you to answer the question in a way that you thought perhaps I would want you to answer or to answer in a way that is utterly true. ",
+                        "uid": "OO4yD1MHg"
+                      },
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602777476846,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602777513316,
+                        "string": "It is also worth asking: what does the range of response and perhaps even misunderstanding of certain things reveal about us. ",
+                        "uid": "kjjoiHTJI"
+                      },
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602777518135,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602777518135,
+                        "string": "",
+                        "uid": "OgNKRqNhN"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602777386486,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602777399289,
+                    "string": "I did not give you much context",
+                    "uid": "-9wKKz0Kd"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602777377481,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602777381295,
+                "string": "Note: ",
+                "uid": "o8AZJ6dSh"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
                 "create-time": 1602698571363,
                 "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1602698571363,
-                "string": "Results:",
+                "edit-time": 1602776194253,
+                "string": "Results: https://markhusbands186063.typeform.com/report/UqMZhbQ6/FLhPeorazRBAVUno",
                 "uid": "wMN2Pldo5"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602776194674,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602776194674,
+                "string": "",
+                "uid": "5oJNVj-kG"
               }
             ],
             "create-email": "mark.husbands@twu.ca",
@@ -41729,8 +41817,8 @@
         "create-email": "mark.husbands@twu.ca",
         "create-time": 1602698365396,
         "edit-email": "mark.husbands@twu.ca",
-        "edit-time": 1602698372486,
-        "string": "AGENGA",
+        "edit-time": 1602777802866,
+        "string": "AGENDGA",
         "uid": "beAHHi-Hf"
       }
     ],

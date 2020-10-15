@@ -1,9 +1,19 @@
 - [October 15th, 2020](<October 15th, 2020.md>), 9-11am
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchurchdogmatics%2FO9pg1Uas1E.png?alt=media&token=1681ee87-346b-45c1-a1fe-d7babc68a42f)
 - 
-- AGENGA
+- AGENDGA
+    - Devotional: good samaritan
+        - "but he, desiring to justify himself, asked..."who is my neighbor:?"
     - 1. Discussion of the results of the [ELT Typeform Survey -- October 14, 2020](<ELT Typeform Survey -- October 14, 2020.md>) https://markhusbands186063.typeform.com/to/UqMZhbQ6
-        - Results:
+        - Note: 
+            - the sample size is small
+            - I did not give you much context
+                - I also did not direct you to answer the question in a way that you thought perhaps I would want you to answer or to answer in a way that is utterly true. 
+                    - For the record, I prefer "utterly true" and when we work together as ELT I am not generally asking for marketing language or postures so you might want to clarify your answer if it shows up on the screen. 
+                - It is also worth asking: what does the range of response and perhaps even misunderstanding of certain things reveal about us. 
+                - 
+        - Results: https://markhusbands186063.typeform.com/report/UqMZhbQ6/FLhPeorazRBAVUno
+        - 
     - 2. Discussion of Vision Slide Deck:
         - https://www.dropbox.com/s/bwaeo0q8x64o22f/TWU%20PRES%20Vision%20-%20Staff%20Faculty%20presentation.pdf?dl=0 
     - 3. Review if Revised Policy Process  - Sonya
