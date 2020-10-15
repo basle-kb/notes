@@ -27,7 +27,11 @@
         - https://www.dropbox.com/s/bwaeo0q8x64o22f/TWU%20PRES%20Vision%20-%20Staff%20Faculty%20presentation.pdf?dl=0 
     - 3. Review if Revised Policy Process  - Sonya
     - 4. "On not returning to normal" Part 1 of X - Phil and Aklilu
+        - @Bob, @Sonya, and @Phil: do we need a taskforce to help us focus on ensuring a high quality learning experience for post-covid online education ()and for summer school online offerings)?
+        - [ ] ask Kristen for a copy of the online teaching manual : WTS
+        - 
     - 5. ULC agenda - what ought we to cover and when?
+        - 
 
 # Backlinks
 ## [Week 41: October 12-18](<Week 41: October 12-18.md>)
