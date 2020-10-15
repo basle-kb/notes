@@ -54,4 +54,218 @@ on recruitment, retention, and access, we were able to welcome the largest stude
     - TWU is well prepared to safely support our students, faculty, and staff through this global pandemic. In addition to the above, we are well prepared to support testing, contact tracing, self-isolation, and quarantine as necessary. Although we anticipate and are prepared for COVID transmission within our TWU population, we are grateful to the Lord that, to date, we have had no COVID-19 positive student cases.
 - 
 - MARKETING & COMMUNICATIONS
-    - 
+    - James Tweedy is providing a high-level of professional and cost-effective leadership to the marketing and communications team. Within surrounding the ever-evolving COVID-19 global pandemic has proven to be a significant, yet exciting, challenge. The mandate of the Communications Task Force, “to create a confidence building communications strategy around (the University’s) ability to meet the challenge of COVID-19” effectively captures the driving focus for communications efforts during this season.
+    - The narrative has moved from finishing well in the spring—moving classes online, TWU Live and graduation celebrations—to pivoting well—team-of-teams launch, the Journey Forward and Core Team activation—to ultimately reimagining the delivery of the Trinity Western University distinctive and confidently communicating it within the challenging environment of an active global pandemic.
+    - Although our recent enrolment and re-enrolment numbers are certainly an encouragement and a testament of God’s faithfulness, the true win lies in the University’s ability to shift the focus from the present, to the future, by casting an inspiring and compelling vision that clearly articulates our positive impact upon the world.
+    - Here is an excellent sample of how we strove to build confidence in the value of a Trinity Western University education amidst COVID-19. We made extensive use of video with the goal of highlighting the claim: "The world has changed. Your future hasn't" [cf. TWU Access Video](https://vimeo.com/445713063).
+    - Addressing the fundamental concerns of students and parents in Phase 1 laid the necessary foundation to build out a more virtual student experience and a robust explanation and overview to orient (and re-orient) all students to the ‘new’ student experience at Trinity Western University—whether an incoming student or fourth year.
+    - The driving question of this exercise was, “where do students show up on Day 1 of fall?” An orientation team, with participants from Marketing and Communications, were labouring to conceive an entirely new Orientation Day (O-Day) experience. But, what about the week after O-Week? As key contributors to the sub-task force of the Virtual Campus Task Force, led by Richard Taylor, the Marketing and Communications team was able to conceive and deliver two primary answers to this question—a new student experience portal and a new app.
+    - These efforts resulted in the categorization of our primary product and service offerings surrounding student life at TWU being: Courses (Academics), Community (Student Life & Events) and Services (Academic & Support). Simple overview videos—hosted by Jassie Virk (Youth Alpha)—explain and introduce these different areas to orient both incoming and returning students successfully.
+    - [TWU Access COURSES](https://vimeo.com/455717083)
+    - [TWU Access: COMMUNITY](https://vimeo.com/455706954)
+    - [TWU Access: SERVICES](https://vimeo.com/455711951)
+- PROVOST
+    - Over the past several months, faculty professional learning initiatives have focused exclusively on how to teach effectively online. The Multi-access Task Force, comprised of faculty representatives from each School and Faculty, as well as three Student Life representatives and the Executive Director of Online Learning, led the initiative with its purpose: “to ensure that TWU faculty have the necessary knowledge, resources, and support to plan and teach multi-access courses for the 2020-21 academic year.” Over the past six months the GLOBAL Online teams:
+        - •	Developed Teaching Online Effectively (TOnE) mini-course in which over 200 faculty members participated in online education to shift their courses to multi-access modalities for the delivery of over 1500 Fall courses.
+        - •	Supervised the training of Facilitators and participated in the design of Learning Labs impacting over 650 students.
+        - •	Launched Fall bi-weekly TOnE Swap Meet sessions whereby faculty share promising tech practices and learn about emerging technologies thus continuing to nurture and enhance TWU’s ability to deliver high a quality and experiential learning for all students.
+    - A key initiative arising from the Office of Teaching and Learning is the first-year cohort course bundle for incoming traditional undergraduate students. Three courses in the core curriculum that fulfill degree requirements for all of these students were deliberately designed to integrate with one another, hence the term “bundle.” Instructional designers worked with faculty to move Foundations 101, Philosophy 105, and whatever Writing or English course a student is placed in (Writing 100/101/English 103) into online platforms. The Office of the Registrar placed every incoming student into a course bundle of about 15 students each. The bundle introduces first-year students to the purpose, strength, and beauty of a Christian liberal arts university education by explicitly pointing out interconnections between these courses.
+    - In addition to the above, Dr. Laurie Matthias has given leadership to other responsibilities in her role as Associate Provost Teaching and Learning. Thirteen new full-time faculty were welcomed into the TWU community in August. In cooperation with President Husbands, the Associate Provost Teaching and Learning implemented a new five-day format for New Faculty Orientation with a primary focus on the integration of faith and learning. Monthly Faith and Learning seminars for these new faculty members will continue throughout the academic year.
+    - The Executive Director of the Learning Commons Jenn Skelding transitioned to her new position as a faculty member in the School of Education in July. In order to fill the leadership gap for 2020-21, Laurie is providing general oversight while two current staff members in the Learning Commons have taken on additional responsibilities.
+    - Dr. Eve Stringham completed her time at TWU this summer and took an administrative role at another university in B.C.  During her tenure, we have seen significant growth in research funding and capacity. Due to the financial challenges that we are facing, the decision was made to hold off filling Eve’s position this year.  Dr. Richard Chandra has taken on additional responsibilities in the area of Research, working with Provost Wood, while Dr. Sonya Grypma is leading the Graduate Studies portfolio.
+    - ^^Add in research funding chart and summary of awards^^
+    - 2020 has marked an incredible year of transformation and growth in TWU GLOBAL. The restructuring from TWU Extension to TWU GLOBAL in mid-2019 has proven to very timely, as the appointments of Dr. Sonya Grypma and Scott Macklin to lead in academic quality assurance and online learning, respectively. Little did we know that God had set in place key leadership that would strengthen the University through the worldwide pandemic. Although we were filling roles and assigning responsibilities, God was preparing a firm foundation by providing expertise in public health leadership and distributed, multi-access education that would prove to be critical for TWU to weather and thrive in the COVID-19 storm. 
+    - In addition to the provision of new leadership, in January of 2020, we opened the renovated TWU Lansdowne facility in Richmond to students, faculty and staff. The configuration of this facility has enabled TWU Richmond to provide limited face to face Leadership Learning Labs to students through the pandemic that would not have been possible at TWU Minoru.
+    - GLOBAL currently serves over 1300 students of which 32% are domestic students and 68% are international. TWU GLOBAL hosts over 360 courses per year – almost 20% of all the courses offered by TWU. In order to better serve students, GLOBAL introduced several process innovations in 2020:
+        - 1.	A virtual ticketing system for service and support to students 24/7. This was well received by international students--especially those who are overseas;
+        - 2.	First University in Canada to implement __ApplyProof__ verification for international recruitment;
+        - 3.	Integration of in-house foreign credential verification system in order to streamline international admissions and reduce time from __4 weeks processing to less than 1 week__.
+    - In order to stimulate worldwide interest TWU GLOBAL and MarCom collaborated in a significant effort to increase our worldwide presence. The 2020 Study International campaign included online ads and four articles written to provide confirmatory With an initial stretch goal to reach 2,000,000 readers, the Study International Campaign yielded 3, 971,507 ad impressions, 18,261 social media posts, 1,120,553 reads of the on TWU ads and 21,422 click throughs on the TWU ads.  Malaysia, Philippines, India, China and Nepal were among the top five countries where our readers are coming from and clicking through to find out more about TWU or apply for programs. The campaign accurately captured the students’ attention from these markets.
+    - Collaborating with the Marcomm team, TWU GLOBAL ran a marketing campaign for the __RedBridge Initiative__ in April and May where we offered three main incentives for students to apply to TWU’s programs for FALL 2020: “Save Money” (application fee waiver), “Save Time” (Guaranteed application processing time) and “Document Assurances” (working with __ApplyProof__ to produce digital verification system for Immigration Consultants of Canada Regulatory Council). The marketing campaign received a wide audience through the Chinese social media such as the Weibo; we counted a total number of 175,000 unique visitors to this campaign throughout China.  This is the highest level of social media engagement in the history of TWU.
+    - TWU GLOBAL participated in three EduCanada virtual fairs on May 14th, May 21st and June 3rd for Latin America, Central Asia/Eastern Europe and Southeast Asia. A total number of 992 visitors were recorded at the TWU booth; we logged 81 student total leads which we later passed onto the Enrolment Management team for further follow-up. In May and in June, TWU GLOBAL also participated a series of Indian virtual fairs, we virtually went to New Delhi, Chandigarh, Vadodara, Ludhiana and Bangalore in India. A total of 55 students came to our “breakout” room and received training from us. We also trained over 50 Chinese agents (locally in Vancouver and in China) during May to August using weChat, Zoom and weMeet.
+    - A highlight for TWU International recruitment was the 96-hour Marathon initiative. We ran three 96-hour Marathon events in May, June and August, and achieved great results during these events. We not only met and trained our partners from different countries, and also received a total number of 460 applications; of these applications, 227 applications where bound for TWU’s graduate programs. These events were critical to bring the success to us for the FA 2020 intake.  Excluding GLOBAL programs such as the IDC (199 students), U1 (31 students) and the MA leadership (30 students) program, TWU GLOBAL recruited over **122 **Pre-enrolled students for Non-Global programs such as the BBA, HKIN, SAMC, Computer Science, Biology programs and the MBA program.
+    - TWU Richmond is now at capacity in Lansdowne and is at about 80% of capacity in Minoru. We expect to be at or above capacity at TWU Richmond once the restrictions of COVID-19 are lifted. A key focus of GLOBAL in 2020 has been the expansion and integration of Student Life and the emergence of the TWU Richmond Learning Commons. The Student Life team has seen increased connections via online student clubs and has successfully run new student orientations completely online with a higher percentage of attendance than the traditional orientations, allowing students overseas and local, registered in both Langley and Richmond cohorts, to participate together. **We now have our very first Richmond Christian student-led club.**
+    - COVID-19 has spawned increased collaboration; being geographically distanced is no longer a factor in the creation of working teams, connecting TWU-R staff/faculty to others within GLOBAL, and within the campus community as a whole. The result has been new systems (i.e. online registration and GLOBAL ticketing system), information sharing (via University task forces and other working groups), and inter-departmental relationships. New innovations, particularly the Leadership Learning Labs, have also been a highlight that we believe will strengthen the academic quality and marketability of the BA Leadership program moving forward.
+    - In Athletics, essentially all league play has either been suspended or is in serious jeopardy even for sports that could play a shortened season after Christmas. The reality is that we have a lot of small group training, some inter-squad competition, playing a smaller, local group of teams (UBC, UFV). A Canada West COVID Taskforce that will make a recommendation on the January-March season on October 8th. One of the opportunities this year has been to dive into the spiritual, personal, leadership, and academic development components of the Complete Champion Approach in a year where physical competition will be limited.
+- PUBLIC RELATIONS
+    - Anticipating a transition in External relations, I launched a search for a Director of Public Relations. In April, Winnie Lui assumed this new role. Ms. Lui is covering Media Relations, assisting MarComm with internal communications, and is co-ordinating Crisis Communications with the help of Peter Fassbender and an external agency, PACE Group. The primary focus of this new position will be Public Relations. In this capacity, Winnie Lui has worked to publicize the exemplary work of TWU students, faculty, staff and alumni and to demonstrate how TWU serves the public good.
+    - From mid-July to end of September (roughly 10 weeks), there have been a total of 14 news articles in 2.5 months, which is more than once per week on average:
+        - o   8 articles on TWU in the local Langley Advance Times that were positive, initiated by TWU, and which include the University’s name in the headline. (In comparison, there were 8 local news articles in total in 2019, half of which were hiring announcements.) This excludes news coverage of the Spartans.
+        - o   4 articles in other BC local newspapers and 2 in national ethnic media that were positive and initiated by TWU
+    - There have also been articles with faculty bylines in magazines and blogs, with one faculty featured on a faith-based podcast. TWU’s website news section has been kept current with about 5 new postings per week.
+    - **Sample links:**
+        - Langley Advance Times articles on TWU:
+            - https://www.langleyadvancetimes.com/news/three-twu-grads-named-to-first-fellows-program-at-langley-based-university/
+            - https://www.langleyadvancetimes.com/news/new-students-get-drive-through-tour-of-trinity-western-campus/
+            - https://www.langleyadvancetimes.com/news/change-of-name-for-langley-university-road-part-of-bigger-plan/
+            - https://www.langleyadvancetimes.com/news/how-students-at-langleys-trinity-western-university-came-up-with-an-inexpensive-way-to-write-in-the-air-online/
+        - Richmond News article on TWU Student Life: https://www.richmond-news.com/community/richmond-teachers-offer-baking-and-blessings-for-students-1.24179980
+        - Faith Today podcast with Dr. Bill Strom: https://www.faithtoday.ca/Magazines/2020-Sep-Oct/How-are-we-really-doing-in-terms-of-resilience
+        - TWU’s news page: https://www.twu.ca/news-events/news
+        - In addition to maintaining regular media exposure and developing campus relationships, the PR director looks forward to developing a comprehensive media plan, receiving media training to serve as a spokesperson, and building capacity to lead crisis communication.
+- STUDENT LIFE
+    - **TWU Access **
+    - The number one priority for Student
+Life leading into Fall 2020 was supporting the TWU Access strategy __to help students experience the seamless delivery of our transformational Trinity Western experience in a multi-access
+format as they journey back to a safe on-campus learning environment. __
+    - Student Life staff helped chair the Virtual Campus Task Force and Regional Hub Task Force. The Virtual Campus Task Force worked with groups across campus to enhance the student experience in a multi-access format, ease online navigation, and centralize communication for all Trinity Western students. The Regional Hub Task Force piloted Access Chapters and Networks and identified alternative physical locations as “pop-up collegiums” where students can study, connect, and plan local events wherever they are learning from this Fall.
+    - **Key Accomplishments**
+    - 1.  13 staff from Student Life, worked on the CORE team of nearly 50 people to utilize the Sales Force platform and do personal follow-up with students throughout the summer was critical to our retention strategy.
+    - 2.    Student Life staff worked with Campus Services, the Public Health Lead (Taryne Lepp), and other areas of the University to
+rapidly transition students off-campus in March, support international students during the Summer, prioritize housing at 50% of normal capacity, coordinate a quarantine plan for 137 students, and ensure a safe move-in process.
+    - 3.   Dr. Rob Rhea and the Orientation Committee worked
+across campus to re-imagine the orientation experience with the introduction of a drive-through orientation for commuters (100 car capacity), a new app to organize online orientation, roll-out first year cohorts, and design an improved Graduate Student Orientation. 
+    - 4.    Richmond Student Life (Kim Chen) organized programming around academic learning labs and managed to sign-up 300+ students to 11 student clubs during orientation week, a YoY growth of 35%. A major focus this year will continue to be growth in evangelism and discipleship initiatives.
+    - 5.    The Global Engagement Office (Johannah Wetzel) and Community Life (Erin Thiessen) worked closely together to organize TWU Access Networks and Chapters for returning students. This initiative is organized through Microsoft Teams and currently
+serves approximately 1600 undergraduate students through 16 regional networks and 88 chapters supported by 70 Student Leader Guides and 8 staff.
+    - 6.     Student Ministries launched a MWF chapel format and will primarily deliver chapel and Sunday Night Alive online for the Fall. There will also be a chapel podcast and a new podcast hosted by Rev. Dr. James Ellis III called [Good News Stories](https://www.twu.ca/student-life/student-ministries/good-news-podcast). 
+    - 7.    Supported the roll-out of the TWULife app through TWUSA and the 10,000 Coffees platform through TWU Alumni.
+    - 8.    Initiated alternative community spaces through the successful revitalization of the Trinity Commons, opening of Richmond Minoru as an alternative collegium space, and exploration of additional spaces where Access Networks are concentrated.
+    - 9.    Re-organized the majority of core activities, services, and programs during 2020/21 to meet health and safety requirements,
+including Student Leadership Orientation Week, Fort Week, Discipleship Groups, Outreach and Evangelism, the Well, Medical Support, and Counselling Services.
+    - 10.   Piloted Cultural Intelligence training with all Student Life staff and worked with future VP of Inclusive Excellence to increase focus on diversity and inclusion with Student Leaders in preparation for the Fall semester. ELT, ULC, and Dean’s Council are also preparing for Cultural Intelligence training later in the Fall.
+    - **Health and Safety **
+    - Student Life staff worked closely
+with Dr. Sonya Grypma and the Covid-19 Health and Safety Force to invest well
+into public health capacity for re-opening our campuses. The Wellness Centre
+required significant attention during the summer. After the departure of
+long-time director, Kurt Lundberg, we needed to re-organize its leadership at
+the same time as we needed to increase public health capacity in Health Services
+and prepare Mental Health Services to implement mental health recommendations,
+provide online bookings and conduct virtual appointments.
+    - **Reaching more students through Access Chapters and Networks **
+    - Student Life has made some
+important changes over the past two years to improve support for international
+students and the Richmond campus. The % of international students in leadership
+has increased by nearly 30%. 300+ students at Richmond are now actively
+involved in 11 clubs and we are engaging more students who were formerly on the
+margins of our campus community through TWU Access Chapters and Networks.
+    - **Increasing student engagement during Summer  **
+    - A major initiative during the
+Summer was supporting student retention as part of the Core Team. This initiative
+was led by Brian Kerr. The personal connection and communication with students
+throughout the summer made it possible to better track how students were doing,
+offer timely supports from relevant staff members, and predict enrolment for
+Fall 2020.
+    - **Supporting Graduate and Adult Degree Completion Students **
+    - The lessons we have learned about
+engaging students meaningfully in an online format can help Student Life as we
+increase support to graduate students, adult degree completion, and FAR centres
+without significantly increasing costs for service.
+    - **Embracing the Institutional Prioritization Process **
+    - The upcoming institutional
+prioritization process will be a helpful way to identify programs within
+Student Life that can achieve excellence and to trim back or discontinue
+programs that are no longer effective, lack relevance to our current student
+body, or need to achieve greater efficiency.
+    - The required response to Covid-19
+has helped stretch staff and increased our capacity to reach diverse students
+in innovative ways. We celebrate together with the rest of the University and
+give glory to God for his guidance and provision.
+- **Institutional Program
+Prioritization**
+- On Monday, August 17, 2020, I submitted a report to the
+Finance Committee of the Board of Governors called “On Recommendations to the Finance Committee of the
+Board of Governors: Budget Recommendations in Response to the Challenges of
+COVID-19.” The report included a series of strategic recommendations in
+response to the June 2020 directive to take all necessary measures to ensure
+that the University would conclude its 2020-2021 fiscal year without
+experiencing a negative net operating cash flow.
+- Consultations
+with key University leaders throughout June and July 2020—including the Staff
+Association Executive (SAE), the Faculty Association Executive (FAX), Deans
+Council, and the University Leadership Council—signaled a vital consensus:
+- Trinity Western University should embark upon a
+university-wide assessment of cost-efficiencies. In the short-run, identifying
+inefficiencies will be necessary to help TWU navigate an uncertain financial
+climate. At the same time, our future rests upon strategic innovation and
+change. To this end, we will also need to identify, develop, and launch
+innovative programs of strategic, missional, and financial value.
+- The
+Report documents scenario planning, steps taken to engage the broader
+University community, issues related to the impact of the COVID-19 pandemic,
+positive collaboration by key leaders engaged in a “team of teams” response,
+and seven recommendations. Here is the final recommendation in President
+Husbands’ August 17, 2020 report:
+- Implement University-wide efficiency
+initiatives, and develop and launch innovative programs of strategic,
+missional, and financial Value. Demonstrate a University-wide commitment to
+program prioritization to secure resources to develop, launch, and deliver
+innovative programs of strategic, missional, and financial value.
+- This
+recommendation includes two key elements:
+- **Part I.**
+- 
+Identify and support key individuals capable of carrying out a university-wide
+program and organizational prioritization process to submit recommendations for
+re-structuring both operations and academic programs to the President and Board
+of Governors; and
+- **Part II.**
+- 
+Identify and support key individuals capable of identifying innovative programs
+and systems that have the greatest potential to generate significant financial
+and strategic value for the University consistent with its mission as a premier
+Christian global liberal arts and graduate University.
+- In response
+to the commitment to identify and support key individual(s) who will be successful
+in identifying innovative programs and systems that have the greatest potential
+to generate significant financial and strategic value for the University
+consistent with its mission as a premier Christian global liberal arts and
+graduate University, I have appointed Dr. Phil Laird, Chief Innovation Officer
+and have invited Phil to serve on the Executive Leadership Team. Dr. Laird will
+take on this new role while retaining his current responsibilities as Vice
+Provost of Global
+- Given the
+complexity, sensitivity, strategic value, and time-sensitive nature of
+fulfilling “Part I” of the recommendation, I have directed Provost Bob Wood,
+and Senior Vice President of Business Administration and Chief Financial
+Officer Aklilu Mulat, to chair a committee of leaders from across the University
+to undertake a comprehensive university-wide program and organizational
+prioritization analysis and submit recommendations to me by Spring 2021.
+- The mandate
+given to Provost Wood and S.V.P. Aklilu Mulat takes the following expression:
+- **Mandate**
+- Provost
+Wood and S.V.P. Aklilu Mulat are charged with forming an Institutional Program
+Prioritization Task Force (IPPTF) to undertake a comprehensive and systematic
+university-wide program and organizational prioritization process based on
+quantitative and qualitative information. The analysis must be based upon a
+broad and transparent set of categories (such as quality, productivity, market
+demand, contribution margin, missional alignment, etc.). It is expected that
+the IPPTF will communicate the following on an internal Sharepoint site:
+- (1) the evaluative criteria and weighting of
+categories to be employed in the analysis;
+- (2) specific goals for effective data gathering
+and progress;
+- (3) update the TWU community on the general
+progress of their work;
+- (4) post a provisional summary of conclusions
+with an invitation to offer response;
+- (5) post an executive summary of the final
+report submitted to President Husbands.
+- Following
+an initial period of consultations on the criteria, methodology, and request
+for the submission of various pieces of data, the analytical work of the IPPTF
+is to be undertaken in confidence. The results of the analysis will be shared
+with the University for response and comment before the submission of a final
+report and recommendations to President Husbands by the close of the 2020-2021
+academic year.
+- **The Goal**
+- The IPPTF
+is to engage in a process of rigorous program analysis of the quality,
+productivity, relevance, contribution margin, and opportunity of each academic
+program and operational unit so that we can more accurately understand and
+assess the financial cost of carrying out our mission. IPPTF recommendations to
+the President may result in the elimination or reduction of certain programs or
+organizational units. Any reduction in programs and/or services, however, would
+be a consequence rather than the goal of the IPPTF process.
+- The
+principle objective of the IPPTF process is to generate accurate information so
+that we can, in turn, develop a financial model that will strengthen the
+University’s ability to deliver academic and co-curricular programs of
+excellence consistent with our stated promise to “unite reason and faith
+through teaching and scholarship” (cf. Senate approved [Student Learning Outcomes](https://www.twu.ca/news-events/news/student-learning-outcomes-describe-value-trinity-western-education)), in the service of developing
+students with “thoroughly Christian minds” capable of “learning to think with
+accuracy, depth, creativity and humility from a thoroughly biblical
+perspective” (cf. [“Striving for Excellence in
+University Education” Core Value #5](https://www.twu.ca/about/core-values/striving-excellence-university-education)).
