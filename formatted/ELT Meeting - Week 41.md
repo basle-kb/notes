@@ -13,7 +13,16 @@
                 - It is also worth asking: what does the range of response and perhaps even misunderstanding of certain things reveal about us. 
                 - 
         - Results: https://markhusbands186063.typeform.com/report/UqMZhbQ6/FLhPeorazRBAVUno
-        - 
+            - "if you have an important question about faith -- and study in Canada, you are really on your own. Only if you have a strong mentor will you find help -- but this is seldom the case: 
+-= we are at a distinct disadvantage if we studied in Canada
+                - desire is there, 
+                - role modelling is not there
+                - having Ph.D.'s in any of our areas and finding theologically grounded Christian scholars in various disciplines is very difficult.
+                - this is not a personal flaw, but more a reflection of the state of higher education in Canada. 
+                - do faculty - as a whole, recognize this deficit? is there a willingness to do anything about this?
+                - many faculty come to Trinity Western University because they want to grow in these areas.
+                - ^^Is Faculty Faith & Learning a key priority for the University^^?
+                - 
     - 2. Discussion of Vision Slide Deck:
         - https://www.dropbox.com/s/bwaeo0q8x64o22f/TWU%20PRES%20Vision%20-%20Staff%20Faculty%20presentation.pdf?dl=0 
     - 3. Review if Revised Policy Process  - Sonya
