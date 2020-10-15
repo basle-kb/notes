@@ -39873,11 +39873,21 @@
                     "uid": "MSvAJbhl0"
                   },
                   {
+                    "children": [
+                      {
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602789495453,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602789529755,
+                        "string": "think about what a good communications and recruitment strategy with timeline and targets would look like for 2021-2022",
+                        "uid": "CFs3Z4BWu"
+                      }
+                    ],
                     "create-email": "mark.husbands@twu.ca",
                     "create-time": 1602787732664,
                     "edit-email": "mark.husbands@twu.ca",
-                    "edit-time": 1602787755928,
-                    "string": "",
+                    "edit-time": 1602789495459,
+                    "string": "{{[[TODO]]}} As Trinity Fellows: ",
                     "uid": "baN0l1UEF"
                   }
                 ],

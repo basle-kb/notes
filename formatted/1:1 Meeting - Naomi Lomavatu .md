@@ -22,7 +22,8 @@
                 - lack of training and ongoing support
                 - Who are the RD's that we hire, and are they adequately trained
                 - [ ] ask Heather to get all of the 
-            - 
+            - [ ] As Trinity Fellows: 
+                - think about what a good communications and recruitment strategy with timeline and targets would look like for 2021-2022
     - Chick-Fil-A Relationship
     - ---------------------
     - You want to learn:
