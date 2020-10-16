@@ -23,8 +23,34 @@
 - 10:00-11:00am [1:1 Meeting - Christian Wood](<1:1 Meeting - Christian Wood.md>)
     - [First Destination Survey](<First Destination Survey.md>) 
         - good research in the U.S. but little helpful research available for Canada
+        - [ ] Christian will send me a brief Memo for Universities Canada on [October 19th, 2020](<October 19th, 2020.md>)
+        - Christian is building our survey on the basis of the very best approach from U.S. institutions
         - 
+    - [Institutional Research & Analysis - Presentation to ELT](<Institutional Research & Analysis - Presentation to ELT.md>)
+        - 
+    - [Institutional Program Prioritization](<Institutional Program Prioritization.md>)
+        - Meeting with Mike, Juan, Jackie, Araz, Bob, Aklilu (last [October 9th, 2020](<October 9th, 2020.md>))
+        - Q. who is pulling what Data?
+        - [x] ask @Ann to setup a meeting on Data and IPPTF transparency with Aklilu, Stuart, Christian, and Mark
+    - [SETL](<SETL.md>)
+        - Instructions and Sections
+            - in order for SETL to direct the correct survey to the correct 
+    - ^^solution: every professor ought to use Moodle and enter grades on a regular basis^^
+        - [ ] review Christian Wood's request for student hires
+    - [Student Workers: Institutional Analysis](<Student Workers: Institutional Analysis.md>)
+        - [ ] ask @Ann to setup a meeting on Data and IPPTF transparency with Aklilu, Stuart, Christian, and Mark
 - 11:00-12:00 [1:1 Meeting - Winnie Lui](<1:1 Meeting - Winnie Lui.md>)
+    - [Sun reporter and request for statements](<Sun reporter and request for statements.md>)
+        - reporter has looked at all of the documents
+        - fall of 201?
+            - 4 students with mental health issues
+                - Marissa was not connected to any TWU mental health
+                    - indicated that she had been assulted in the past, and needed a counsellor
+                    - joined with TWU without a letter of permission
+                    - referred to local counselors
+                    - community life coordinator asked, do you need any further asistance - she indicated "no"
+                    - she spoke a week later as a "rape joke"
+                        - asked for a meeting indicating that 
 - 12:00-12:30 [Discussion: Race @ TWU](<Discussion: Race @ TWU.md>)
 - 1:00-5:00 SOC
 - BOARD REPORT - CONCLUSION 

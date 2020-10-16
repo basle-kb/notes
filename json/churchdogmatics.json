@@ -39142,7 +39142,7 @@
       }
     ],
     "edit-email": "mark.husbands@twu.ca",
-    "edit-time": 1602259924903,
+    "edit-time": 1602868656114,
     "title": "October 9th, 2020"
   },
   {
@@ -41654,9 +41654,25 @@
                 "create-email": "mark.husbands@twu.ca",
                 "create-time": 1602867865223,
                 "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1602867865223,
-                "string": "",
+                "edit-time": 1602868275160,
+                "string": "{{[[TODO]]}} Christian will send me a brief Memo for Universities Canada on [[October 19th, 2020]]",
                 "uid": "Ng9MXIhPJ"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602868335712,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602868357555,
+                "string": "Christian is building our survey on the basis of the very best approach from U.S. institutions",
+                "uid": "ZVXpExqV1"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602868257740,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602868257740,
+                "string": "",
+                "uid": "1_TpRtb0U"
               }
             ],
             "create-email": "mark.husbands@twu.ca",
@@ -41665,6 +41681,120 @@
             "edit-time": 1602867842970,
             "string": "[[First Destination Survey]] ",
             "uid": "4t4ndkRMa"
+          },
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602868602260,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602868602260,
+                "string": "",
+                "uid": "aAsH-k94j"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602868561452,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602868587015,
+            "string": "[[Institutional Research & Analysis - Presentation to ELT]]",
+            "uid": "BichWzsTQ"
+          },
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602868598830,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602868656114,
+                "string": "Meeting with Mike, Juan, Jackie, Araz, Bob, Aklilu (last [[October 9th, 2020]])",
+                "uid": "R8dCvo4DE"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602868628741,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602868674176,
+                "string": "Q. who is pulling what Data?",
+                "uid": "XgTyRxtX4"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602868674515,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602869585446,
+                "string": "{{[[DONE]]}} ask @Ann to setup a meeting on Data and IPPTF transparency with Aklilu, Stuart, Christian, and Mark",
+                "uid": "b_t5bu-Bd"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602868587732,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602868598272,
+            "string": "[[Institutional Program Prioritization]]",
+            "uid": "2eJKTDn3k"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602870279799,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602870294887,
+                    "string": "in order for SETL to direct the correct survey to the correct ",
+                    "uid": "1_xBNdmKV"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602870264693,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602870278340,
+                "string": "Instructions and Sections",
+                "uid": "jCveIuTZi"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602869764567,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602870264696,
+            "string": "[[SETL]]",
+            "uid": "QfhaR_q3T"
+          },
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602870530438,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602871404519,
+                "string": "{{[[TODO]]}} review Christian Wood's request for student hires",
+                "uid": "pMZ41seZT"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602871188807,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602871190096,
+            "string": "^^solution: every professor ought to use Moodle and enter grades on a regular basis^^",
+            "uid": "o0S5faulk"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602871224812,
+                "string": "{{[[TODO]]}} ask @Ann to setup a meeting on Data and IPPTF transparency with Aklilu, Stuart, Christian, and Mark",
+                "uid": "MATlfHtfe"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602871191981,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602871222105,
+            "string": "[[Student Workers: Institutional Analysis]]",
+            "uid": "8phDWYeXD"
           }
         ],
         "edit-email": "mark.husbands@twu.ca",
@@ -41673,6 +41803,106 @@
         "uid": "dY3L0iPqD"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602871432365,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602871454232,
+                "string": "reporter has looked at all of the documents",
+                "uid": "msqebfd3J"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602871514155,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602871555805,
+                            "string": "indicated that she had been assulted in the past, and needed a counsellor",
+                            "uid": "jSMGpEQ2D"
+                          },
+                          {
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602871555803,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602871568582,
+                            "string": "joined with TWU without a letter of permission",
+                            "uid": "syUq9IoOU"
+                          },
+                          {
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602871568580,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602871574847,
+                            "string": "referred to local counselors",
+                            "uid": "vUD5Aotrx"
+                          },
+                          {
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602871574843,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602871604574,
+                            "string": "community life coordinator asked, do you need any further asistance - she indicated \"no\"",
+                            "uid": "K2uaKEmBr"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "mark.husbands@twu.ca",
+                                "create-time": 1602871624884,
+                                "edit-email": "mark.husbands@twu.ca",
+                                "edit-time": 1602871660882,
+                                "string": "asked for a meeting indicating that ",
+                                "uid": "B3Pg-_dnR"
+                              }
+                            ],
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1602871604571,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1602871617698,
+                            "string": "she spoke a week later as a \"rape joke\"",
+                            "uid": "6sKSgfPGR"
+                          }
+                        ],
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1602871469275,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1602871514157,
+                        "string": "Marissa was not connected to any TWU mental health",
+                        "uid": "BXS2fEPYo"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602871461123,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602871469277,
+                    "string": "4 students with mental health issues",
+                    "uid": "2LWqhbusy"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602871442971,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602871461128,
+                "string": "fall of 201?",
+                "uid": "c4aCK5ISl"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602871405259,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602871454232,
+            "string": "[[Sun reporter and request for statements]]",
+            "uid": "MA816X40R"
+          }
+        ],
         "edit-email": "mark.husbands@twu.ca",
         "edit-time": 1602862302409,
         "string": "11:00-12:00 [[1:1 Meeting - Winnie Lui]]",
@@ -47219,5 +47449,38 @@
     "edit-email": "mark.husbands@twu.ca",
     "edit-time": 1602818845374,
     "title": "embed"
+  },
+  {
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602868275160,
+    "title": "October 19th, 2020"
+  },
+  {
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602868587016,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602868587017,
+    "title": "Institutional Research & Analysis - Presentation to ELT"
+  },
+  {
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602870264697,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602870264697,
+    "title": "SETL"
+  },
+  {
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602871212230,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602871212231,
+    "title": "Student Workers: Institutional Analysis"
+  },
+  {
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602871432370,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602871432371,
+    "title": "Sun reporter and request for statements"
   }
 ]

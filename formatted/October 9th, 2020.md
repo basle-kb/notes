@@ -23,3 +23,6 @@
 ## [First Destination Survey -- Meeting](<First Destination Survey -- Meeting.md>)
 - [October 9th, 2020](<October 9th, 2020.md>)
 
+## [October 16th, 2020](<October 16th, 2020.md>)
+- Meeting with Mike, Juan, Jackie, Araz, Bob, Aklilu (last [October 9th, 2020](<October 9th, 2020.md>))
+
