@@ -126,8 +126,28 @@
 - 3:00 Pm 
     - Kevin
         - access to original complaint, and 
-        - Tribunal has anonymized
-        - 
+            - Tribunal has anonymized
+        - don't disclose student information
+        - the matter is before the ontario human righs 
+        - tribunal has anonymize this so we are not going 
+        - problem: 
+            - offers a formal letter of apology
+            - not agree to a non-disparagement
+                - comprehensive human rights training
+                - and a new human rights policy
+            - Non-disparagement and confidentiality
+    - Best course of action at this point:
+        - nothing happening at the moment
+        - Q. What can we do something about the news story
+            - Settle -- but this will not work?
+                - We are not prepared to comment on any complaint, it is before the tributinal, 
+                - "The University has policies and procedures in place bullying 
+                - is committee to treating students well. 
+            - no urgency to settle now.
+            - [[Statement -- Toronto Star -- Ontario Human Rights Tribunal]]
+                - https://www.canlii.org/en/on/onhrt/doc/2020/2020hrto191/2020hrto191.html?autocompleteStr=trinity%20wester&autocompletePos=1
+                - 
+                - We are not prepared to comment on the complaint. It is before the Ontario Human Rights Tribunal, the Tribunal has anonymized the identity of the student in question. And, as a matter of policy, we do not disclose student information.
 - 
 - BOARD REPORT - CONCLUSION 
     - {{[[embed]]: ((QL6qqzKeX))}}
