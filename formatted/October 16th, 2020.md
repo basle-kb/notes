@@ -39,6 +39,7 @@
         - [ ] review Christian Wood's request for student hires
     - [Student Workers: Institutional Analysis](<Student Workers: Institutional Analysis.md>)
         - [ ] ask @Ann to setup a meeting on Data and IPPTF transparency with Aklilu, Stuart, Christian, and Mark
+        - 
 - 11:00-12:00 [1:1 Meeting - Winnie Lui](<1:1 Meeting - Winnie Lui.md>)
     - [Sun reporter and request for statements](<Sun reporter and request for statements.md>)
         - reporter has looked at all of the documents
@@ -50,8 +51,53 @@
                     - referred to local counselors
                     - community life coordinator asked, do you need any further asistance - she indicated "no"
                     - she spoke a week later as a "rape joke"
-                        - asked for a meeting indicating that 
+                        - asked for a meeting indicating that "rape jokes" were not appropriate
+                    - at the end of September - supreme court issue: Kavanaugh
+                        - date of hearing Sept 27
+                        - students talked about this in class
+                        - in Quebec city - she OD'd
+                            - CLC drove to Quebec city in the hospital
+                        - When we talked: she indicated she was not trying to commit suicide
+                        - students were afraid of Marissa as a result
+                    - Janet made the decision to - 
+                        - she violated community standards
+                        - mother discolosed two suicide attempts earlier in the summer
+                        - Marissa threatened with a human rights complaint
+                    - In her human rights complaint
+                        - we did not accomodate her
+                            - we should have allowed her back into the program
+                        - ^^our legal documents were filed in a way that make us appear very calloused^^
+                            - who submitted the legal documents
+                            - why did they take the form that they did
+                            - Janet sent her statement to Albertos
+                            - CLC did
+                            - Bob Burkinshaw sent statment
+                            - Janet did not realize the statement from Marissa about "this not being a suicide"
+                            - Albertos submitted the reply -- and only at this time Janet did 
+                                - blame "was not able to self-regulate"
+                    - She alleges that we have a "rape culture"
+                        - 
+                    - ^^Boonstra reviewed both Janet's decision and Richard's appeal decision^^
+                        - it is currently at the first stage of the human rights tribunal
+                            - mediation was unsuccessful
+                        - she filed an ammendment to the application
+                            - $45,00
+                            - now asking for $75
+                        - are these court document. 
+                        - **What can and ought we to say**
+                    - **Who will make this statement**
+                - 
+        - [Public Relations](<Public Relations.md>)
+            - [ ] mark must call Ann Snyder
+            - [ ] 
 - 12:00-12:30 [Discussion: Race @ TWU](<Discussion: Race @ TWU.md>)
+    - Past Virtual Meeting
+        - with Emmanuel - Trinity Richmond
+        - a handful of Black Faculty have been gathering
+        - want to represent their perspective among larger group
+    - Future Meeting
+        - want to get to know the President
+        - 
 - 1:00-5:00 SOC
 - BOARD REPORT - CONCLUSION 
     - {{[embed](<embed.md>): ((QL6qqzKeX))}}
