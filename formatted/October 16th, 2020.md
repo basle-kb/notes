@@ -1,3 +1,22 @@
+- 8:30-9:00am [Review with Ann](<Review with Ann.md>)
+    - Board Report
+    - Monday Morning -- hello to new employees
+    - Next Week: Board Meetings
+        - preview evening on Thursday
+- 9:00-10:00am [Chick-Fill-A](<Chick-Fill-A.md>)
+    - Review of Documents
+        - tremendous fit between Chick-Fil-A Corporate statement and leadership development program
+            - life ready and career ready
+        - Trip to Atlanta for Mark H. 
+    - Action Items:
+        - [ ] call with 
+        - [ ] breakfast meeting with Mark Bakin, Scott Tighler and Paul Weme - what did they discuss?
+        - [ ] should we have questions 
+        - Q. Why does 
+- 10:00-11:00am [1:1 Meeting - Christian Wood](<1:1 Meeting - Christian Wood.md>)
+- 11:00-12:00 [1:1 Meeting - Winnie Lui](<1:1 Meeting - Winnie Lui.md>)
+- 12:00-12:30 [Discussion: Race @ TWU](<Discussion: Race @ TWU.md>)
+- 1:00-5:00 SOC
 - BOARD REPORT - CONCLUSION 
     - {{[embed](<embed.md>): ((QL6qqzKeX))}}
-    - We have 
+    - 

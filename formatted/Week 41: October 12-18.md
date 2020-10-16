@@ -17,6 +17,7 @@
         - 12:00-5:00pm SOC
     - Friday
         - 8:30-9:00am [Review with Ann](<Review with Ann.md>)
+            - 
         - 9:00-10:00am [Chick-Fill-A](<Chick-Fill-A.md>)
         - 10:00-11:00am [1:1 Meeting - Christian Wood](<1:1 Meeting - Christian Wood.md>)
         - 11:00-12:00 [1:1 Meeting - Winnie Lui](<1:1 Meeting - Winnie Lui.md>)

@@ -31905,6 +31905,16 @@
           {
             "children": [
               {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602862288493,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602862288493,
+                    "string": "",
+                    "uid": "vCj3UPsU5"
+                  }
+                ],
                 "create-email": "mark.husbands@twu.ca",
                 "create-time": 1602443231685,
                 "edit-email": "mark.husbands@twu.ca",
@@ -41447,6 +41457,156 @@
       {
         "children": [
           {
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602862548507,
+            "string": "Board Report",
+            "uid": "29U3JsBEk"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602862549434,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602862566907,
+            "string": "Monday Morning -- hello to new employees",
+            "uid": "6fLvBEoSN"
+          },
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602862643105,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602862651818,
+                "string": "preview evening on Thursday",
+                "uid": "d5mCvXLuW"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602862569226,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602862642925,
+            "string": "Next Week: Board Meetings",
+            "uid": "jXp2294vo"
+          }
+        ],
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602862302410,
+        "string": "8:30-9:00am [[Review with Ann]]",
+        "uid": "m0vNFQbl0"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1602864227647,
+                    "edit-email": "mark.husbands@twu.ca",
+                    "edit-time": 1602864233660,
+                    "string": "life ready and career ready",
+                    "uid": "MsnEjtmOr"
+                  }
+                ],
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602864198264,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602864227650,
+                "string": "tremendous fit between Chick-Fil-A Corporate statement and leadership development program",
+                "uid": "6ffNF2hRN"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602864283623,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602864444844,
+                "string": "Trip to Atlanta for Mark H. ",
+                "uid": "-1MBHTtT5"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602864153843,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602864198267,
+            "string": "Review of Documents",
+            "uid": "2gKzpY849"
+          },
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602864400656,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602864400656,
+                "string": "{{[[TODO]]}} call with ",
+                "uid": "9yGQCTYr2"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602864432808,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602864432808,
+                "string": "{{[[TODO]]}} breakfast meeting with Mark Bakin, Scott Tighler and Paul Weme - what did they discuss?",
+                "uid": "pLKFPTf6g"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602864454926,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602864464285,
+                "string": "{{[[TODO]]}} should we have questions ",
+                "uid": "5VAx48Rzc"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602864257048,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602864432813,
+                "string": "Q. Why does ",
+                "uid": "CNbdRsRx3"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602864386225,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602864386225,
+            "string": "Action Items:",
+            "uid": "qn0xPEjN0"
+          }
+        ],
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602862302409,
+        "string": "9:00-10:00am [[Chick-Fill-A]]",
+        "uid": "inJ4-iIO1"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602862302409,
+        "string": "10:00-11:00am [[1:1 Meeting - Christian Wood]]",
+        "uid": "dY3L0iPqD"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602862302409,
+        "string": "11:00-12:00 [[1:1 Meeting - Winnie Lui]]",
+        "uid": "0lhsgMw96"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602862302409,
+        "string": "12:00-12:30 [[Discussion: Race @ TWU]]",
+        "uid": "5TlkmGbrf"
+      },
+      {
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602862302409,
+        "string": "1:00-5:00 SOC",
+        "uid": "YwIyU-s1O"
+      },
+      {
+        "children": [
+          {
             "create-email": "mark.husbands@twu.ca",
             "create-time": 1602818040720,
             "edit-email": "mark.husbands@twu.ca",
@@ -41458,8 +41618,8 @@
             "create-email": "mark.husbands@twu.ca",
             "create-time": 1602818040560,
             "edit-email": "mark.husbands@twu.ca",
-            "edit-time": 1602821831231,
-            "string": "We have ",
+            "edit-time": 1602863016530,
+            "string": "",
             "uid": "8RAowtIOw"
           }
         ],

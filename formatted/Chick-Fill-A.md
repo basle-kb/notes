@@ -16,6 +16,9 @@
 - 
 
 # Backlinks
+## [October 16th, 2020](<October 16th, 2020.md>)
+- 9:00-10:00am [Chick-Fill-A](<Chick-Fill-A.md>)
+
 ## [Week 41: October 12-18](<Week 41: October 12-18.md>)
 - 9:00-10:00am [Chick-Fill-A](<Chick-Fill-A.md>)
 
