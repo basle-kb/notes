@@ -41536,6 +41536,64 @@
             "children": [
               {
                 "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602864979517,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602864988428,
+                "string": "Scholarship program for post secondary students",
+                "uid": "f0QjV5VKK"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602864989708,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602865019042,
+                "string": "School of Business programs",
+                "uid": "pnbbzZ192"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602865019437,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602865025575,
+                "string": "Certificate in Entrepreneurship",
+                "uid": "mhMA66EwP"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602865025573,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602865035703,
+                "string": "2 year development program for post-graduates",
+                "uid": "vfua6FL6m"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602865037020,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602865046948,
+                "string": "high school ambassador program",
+                "uid": "tYrDb8d6P"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602865047364,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602865047364,
+                "string": "",
+                "uid": "6UCAWP8Np"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602864972118,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602864979527,
+            "string": "Value of Relationship",
+            "uid": "EaWGtnOr8"
+          },
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
                 "create-time": 1602864400656,
                 "edit-email": "mark.husbands@twu.ca",
                 "edit-time": 1602864400656,
@@ -41554,17 +41612,9 @@
                 "create-email": "mark.husbands@twu.ca",
                 "create-time": 1602864454926,
                 "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1602864464285,
-                "string": "{{[[TODO]]}} should we have questions ",
+                "edit-time": 1602864765287,
+                "string": "{{[[TODO]]}} should we have a discussion first with Austin and Lincoln ",
                 "uid": "5VAx48Rzc"
-              },
-              {
-                "create-email": "mark.husbands@twu.ca",
-                "create-time": 1602864257048,
-                "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1602864432813,
-                "string": "Q. Why does ",
-                "uid": "CNbdRsRx3"
               }
             ],
             "create-email": "mark.husbands@twu.ca",
@@ -41573,6 +41623,14 @@
             "edit-time": 1602864386225,
             "string": "Action Items:",
             "uid": "qn0xPEjN0"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602864257048,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602864721495,
+            "string": "Why  ",
+            "uid": "CNbdRsRx3"
           }
         ],
         "edit-email": "mark.husbands@twu.ca",
@@ -41581,6 +41639,34 @@
         "uid": "inJ4-iIO1"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602867843975,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602867864684,
+                "string": "good research in the U.S. but little helpful research available for Canada",
+                "uid": "SUxMH6Vhs"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602867865223,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602867865223,
+                "string": "",
+                "uid": "Ng9MXIhPJ"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602867833163,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602867842970,
+            "string": "[[First Destination Survey]] ",
+            "uid": "4t4ndkRMa"
+          }
+        ],
         "edit-email": "mark.husbands@twu.ca",
         "edit-time": 1602862302409,
         "string": "10:00-11:00am [[1:1 Meeting - Christian Wood]]",

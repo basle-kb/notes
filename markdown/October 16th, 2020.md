@@ -8,12 +8,22 @@
         - tremendous fit between Chick-Fil-A Corporate statement and leadership development program
             - life ready and career ready
         - Trip to Atlanta for Mark H. 
+    - Value of Relationship
+        - Scholarship program for post secondary students
+        - School of Business programs
+        - Certificate in Entrepreneurship
+        - 2 year development program for post-graduates
+        - high school ambassador program
+        - 
     - Action Items:
         - {{[[TODO]]}} call with 
         - {{[[TODO]]}} breakfast meeting with Mark Bakin, Scott Tighler and Paul Weme - what did they discuss?
-        - {{[[TODO]]}} should we have questions 
-        - Q. Why does 
+        - {{[[TODO]]}} should we have a discussion first with Austin and Lincoln 
+    - Why  
 - 10:00-11:00am [[1:1 Meeting - Christian Wood]]
+    - [[First Destination Survey]] 
+        - good research in the U.S. but little helpful research available for Canada
+        - 
 - 11:00-12:00 [[1:1 Meeting - Winnie Lui]]
 - 12:00-12:30 [[Discussion: Race @ TWU]]
 - 1:00-5:00 SOC
