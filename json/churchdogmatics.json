@@ -41447,22 +41447,20 @@
       {
         "children": [
           {
-            "children": [
-              {
-                "create-email": "mark.husbands@twu.ca",
-                "create-time": 1602818040560,
-                "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1602818040560,
-                "string": "",
-                "uid": "8RAowtIOw"
-              }
-            ],
             "create-email": "mark.husbands@twu.ca",
             "create-time": 1602818040720,
             "edit-email": "mark.husbands@twu.ca",
             "edit-time": 1602818845368,
             "string": "{{[[embed]]: ((QL6qqzKeX))}}",
             "uid": "HaBhCVNsL"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602818040560,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602821831231,
+            "string": "We have ",
+            "uid": "8RAowtIOw"
           }
         ],
         "create-email": "mark.husbands@twu.ca",
@@ -41474,7 +41472,7 @@
       }
     ],
     "edit-email": "mark.husbands@twu.ca",
-    "edit-time": 1602816420677,
+    "edit-time": 1602821792405,
     "title": "October 16th, 2020"
   },
   {

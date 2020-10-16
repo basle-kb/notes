@@ -1,3 +1,3 @@
 - BOARD REPORT - CONCLUSION 
     - {{[embed](<embed.md>): ((QL6qqzKeX))}}
-        - 
+    - We have 
