@@ -1,0 +1,1 @@
+- The mission of Trinity Western University, as an arm of the Church, Is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life.

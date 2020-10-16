@@ -1,2 +1,3 @@
-- ______________
-{{[∆](<∆.md>):9+2}}
+- BOARD REPORT - CONCLUSION 
+    - {{[embed](<embed.md>): ((QL6qqzKeX))}}
+        - 

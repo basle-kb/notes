@@ -46,6 +46,6 @@ Week:
     - {{[[TODO]]}} ^^Decision^^:  
     - {{[[TODO]]}} ^^Decision^^:  
 - ______________
-{{[[r/moved]]}}[*](((Ba6eKU1_-)))
+{{[[r/moved]]}}[*]()
 - {{[[r/moved]]}}[*](((r7eud5XJx)))
 - 

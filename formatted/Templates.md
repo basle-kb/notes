@@ -46,6 +46,6 @@ Week:
     - [ ] ^^Decision^^:  
     - [ ] ^^Decision^^:  
 - ______________
-{{[r/moved](<r/moved.md>)}}[*](((Ba6eKU1_-)))
+{{[r/moved](<r/moved.md>)}}[*]()
 - {{[r/moved](<r/moved.md>)}}[*](((r7eud5XJx)))
 - 
