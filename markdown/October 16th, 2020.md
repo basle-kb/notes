@@ -97,7 +97,26 @@
         - want to represent their perspective among larger group
     - Future Meeting
         - want to get to know the President
-        - 
+        - they are seen and welcome
+            - faculty of color and international faculty have a set of unique challenges, gifts, and opportunirties
+        - longer term: hope to have a more of a voice on campus
+            - My commitment and Vision for TWU and diversity
+                - Diversity as sheer gifts
+            - Q. what is it like to be a faculty of color at TWU
+            - Q. what would social justice and a deeper 
+            - Q. Divided by Faith: 
+                - 
+            - Need to systemic, structural, and sustainable change
+            - Conversations: persons of color or segregated into asian faculty: open for self-identification. 
+        - What would be helpful to cover in the conversation
+            - I. Introduce ourselves 
+            - II. My jourey with Race
+            - III. What is it like to be faculty person of color? Is this faculty and staff
+                - Emanuel
+                - Anthony (elder)
+            - IV. What would they hope TWU could become?
+                - what concrete steps could take occur?
+                    - an event to share stories?
 - 1:00-5:00 SOC
 - BOARD REPORT - CONCLUSION 
     - {{[[embed]]: ((QL6qqzKeX))}}
