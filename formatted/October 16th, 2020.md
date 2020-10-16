@@ -90,7 +90,7 @@
         - [Public Relations](<Public Relations.md>)
             - [ ] mark must call Ann Snyder
             - [ ] 
-- 12:00-12:30 [Discussion: Race @ TWU](<Discussion: Race @ TWU.md>)
+- 12:00-12:30 [Diversity and Race](<Diversity and Race.md>)
     - Past Virtual Meeting
         - with Emmanuel - Trinity Richmond
         - a handful of Black Faculty have been gathering
@@ -120,7 +120,15 @@
 - 2:00-3:00 [Strategic Communications Team](<Strategic Communications Team.md>)
     - Discussion -- iHITT media interest
         - 
+    - Problem: 
+        - students are leaving University ill-equipped for life and work. 
     - 
+- 3:00 Pm 
+    - Kevin
+        - access to original complaint, and 
+        - Tribunal has anonymized
+        - 
+- 
 - BOARD REPORT - CONCLUSION 
     - {{[embed](<embed.md>): ((QL6qqzKeX))}}
     - 

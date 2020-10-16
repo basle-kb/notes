@@ -38080,6 +38080,76 @@
     "title": "Mark"
   },
   {
+    "children": [
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602882482967,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602882734957,
+        "string": "IHIT - Discussion",
+        "uid": "e-gBKuyYX"
+      },
+      {
+        "children": [
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602883126674,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602883186035,
+            "string": "Winnie will reach out to [[Andrew Bennett]]",
+            "uid": "FKW8EOAEV"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602882489851,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602883125337,
+        "string": "Media Training",
+        "uid": "a07gykMOR"
+      },
+      {
+        "children": [
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602883205837,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602883285723,
+            "string": "What does ",
+            "uid": "RrWEIDj75"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602883140993,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602883205842,
+        "string": "Vision Statement",
+        "uid": "VynbgXujr"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602883620885,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602883629438,
+        "string": "Brian and Phil's position change",
+        "uid": "sEhg4p7fj"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602883629544,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602883642592,
+        "string": "Communication of Enrolment Growth",
+        "uid": "Ul2urgSjV"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602883642585,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602883642585,
+        "string": "",
+        "uid": "3sR1kCaiM"
+      }
+    ],
     "create-email": "mark.husbands@twu.ca",
     "create-time": 1601939020752,
     "edit-email": "mark.husbands@twu.ca",
@@ -42476,8 +42546,8 @@
           }
         ],
         "edit-email": "mark.husbands@twu.ca",
-        "edit-time": 1602862302409,
-        "string": "12:00-12:30 [[Discussion: Race @ TWU]]",
+        "edit-time": 1602882476118,
+        "string": "12:00-12:30 [[Diversity and Race]]",
         "uid": "5TlkmGbrf"
       },
       {
@@ -42501,6 +42571,24 @@
             "uid": "up9LR3kH7"
           },
           {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602885565400,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602885582721,
+                "string": "students are leaving University ill-equipped for life and work. ",
+                "uid": "-t101DV5W"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602885560866,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602885565060,
+            "string": "Problem: ",
+            "uid": "klF-a7487"
+          },
+          {
             "create-email": "mark.husbands@twu.ca",
             "create-time": 1602882265373,
             "edit-email": "mark.husbands@twu.ca",
@@ -42513,6 +42601,58 @@
         "edit-time": 1602882342625,
         "string": "2:00-3:00 [[Strategic Communications Team]]",
         "uid": "YwIyU-s1O"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602885715280,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602885860286,
+                "string": "access to original complaint, and ",
+                "uid": "-5T2emloA"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602885890371,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602885912570,
+                "string": "Tribunal has anonymized",
+                "uid": "H1iWuhuho"
+              },
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602885915447,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602885915447,
+                "string": "",
+                "uid": "SKmXZqlbF"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602885690829,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602885695896,
+            "string": "Kevin",
+            "uid": "5Ejf4Mk3l"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602885685517,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602885690834,
+        "string": "3:00 Pm ",
+        "uid": "44lNb_Osp"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602885695892,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602885695892,
+        "string": "",
+        "uid": "ipqUj7SsD"
       },
       {
         "children": [
@@ -48083,5 +48223,37 @@
     "edit-email": "mark.husbands@twu.ca",
     "edit-time": 1602873407658,
     "title": "Public Relations"
+  },
+  {
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602882476125,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602882476131,
+    "title": "Diversity and Race"
+  },
+  {
+    "children": [
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602883189425,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602883196235,
+        "string": "[Andrew Bennett](https://www.cardus.ca/who-we-are/our-team/abennett/)",
+        "uid": "GJO8erPhY"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602883197314,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602883197314,
+        "string": "",
+        "uid": "MzWUhBXit"
+      }
+    ],
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602883186037,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602883186040,
+    "title": "Andrew Bennett"
   }
 ]

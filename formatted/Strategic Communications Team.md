@@ -1,3 +1,11 @@
+- IHIT - Discussion
+- Media Training
+    - Winnie will reach out to [Andrew Bennett](<Andrew Bennett.md>)
+- Vision Statement
+    - What does 
+- Brian and Phil's position change
+- Communication of Enrolment Growth
+- 
 
 # Backlinks
 ## [October 16th, 2020](<October 16th, 2020.md>)
