@@ -117,7 +117,10 @@
             - IV. What would they hope TWU could become?
                 - what concrete steps could take occur?
                     - an event to share stories?
-- 1:00-5:00 SOC
+- 2:00-3:00 [[Strategic Communications Team]]
+    - Discussion -- iHITT media interest
+        - 
+    - 
 - BOARD REPORT - CONCLUSION 
     - {{[[embed]]: ((QL6qqzKeX))}}
     - 

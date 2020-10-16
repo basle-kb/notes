@@ -42481,9 +42481,37 @@
         "uid": "5TlkmGbrf"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1602882356805,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1602882356805,
+                "string": "",
+                "uid": "7T3cHQexM"
+              }
+            ],
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602882343525,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602882356742,
+            "string": "Discussion -- iHITT media interest",
+            "uid": "up9LR3kH7"
+          },
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602882265373,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602882265373,
+            "string": "",
+            "uid": "ZQj_r2O-N"
+          }
+        ],
         "edit-email": "mark.husbands@twu.ca",
-        "edit-time": 1602862302409,
-        "string": "1:00-5:00 SOC",
+        "edit-time": 1602882342625,
+        "string": "2:00-3:00 [[Strategic Communications Team]]",
         "uid": "YwIyU-s1O"
       },
       {
