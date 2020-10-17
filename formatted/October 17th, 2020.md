@@ -1,1 +1,6 @@
 - {{[∆](<∆.md>):9+2}}
+- [ ] chicken
+- [ ] pepperoni
+- [ ] chia seeds
+- [ ] propane
+- 

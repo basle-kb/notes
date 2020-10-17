@@ -1,1 +1,6 @@
 - {{[[∆]]:9+2}}
+- {{[[TODO]]}} chicken
+- {{[[TODO]]}} pepperoni
+- {{[[TODO]]}} chia seeds
+- {{[[TODO]]}} propane
+- 
