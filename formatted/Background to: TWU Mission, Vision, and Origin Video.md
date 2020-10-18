@@ -43,6 +43,7 @@ to be considered in the conversation
     - Academic Services
     - Student Wellness & Health Services
     - Additional Student Services
+- can we renovate, recommit, and rebuild 
 
 # Backlinks
 ## [August 22nd, 2020](<August 22nd, 2020.md>)

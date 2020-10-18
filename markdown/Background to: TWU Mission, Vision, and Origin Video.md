@@ -43,3 +43,4 @@ to be considered in the conversation
     - Academic Services
     - Student Wellness & Health Services
     - Additional Student Services
+- can we renovate, recommit, and rebuild 
