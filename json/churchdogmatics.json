@@ -43275,6 +43275,14 @@
       },
       {
         "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602989033003,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602989142183,
+        "string": "[[leadership]], humility, empathy, communication, ability to remain cool, an ability to create a vital team",
+        "uid": "VCRYlFsDh"
+      },
+      {
+        "create-email": "mark.husbands@twu.ca",
         "create-time": 1602974763561,
         "edit-email": "mark.husbands@twu.ca",
         "edit-time": 1602974763561,
@@ -48489,5 +48497,40 @@
     "edit-email": "mark.husbands@twu.ca",
     "edit-time": 1602980341012,
     "title": "October 18th, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602989157956,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602989168777,
+        "string": "key attributes:",
+        "uid": "ZXeOwSZ96"
+      },
+      {
+        "children": [
+          {
+            "create-email": "mark.husbands@twu.ca",
+            "create-time": 1602989169139,
+            "edit-email": "mark.husbands@twu.ca",
+            "edit-time": 1602989181266,
+            "string": "humility, empathy, communication, ability to remain cool, an ability to create a vital team",
+            "uid": "ilGrgiRB6"
+          }
+        ],
+        "create-email": "mark.husbands@twu.ca",
+        "create-time": 1602989169314,
+        "edit-email": "mark.husbands@twu.ca",
+        "edit-time": 1602989169314,
+        "string": "",
+        "uid": "V6szLjbLf"
+      }
+    ],
+    "create-email": "mark.husbands@twu.ca",
+    "create-time": 1602989142187,
+    "edit-email": "mark.husbands@twu.ca",
+    "edit-time": 1602989142191,
+    "title": "leadership"
   }
 ]

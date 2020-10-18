@@ -3,4 +3,5 @@
 - {{[[TODO]]}} pepperoni
 - {{[[DONE]]}} chia seeds
 - {{[[TODO]]}} propane
+- [[leadership]], humility, empathy, communication, ability to remain cool, an ability to create a vital team
 - 

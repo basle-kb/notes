@@ -3,4 +3,5 @@
 - [ ] pepperoni
 - [x] chia seeds
 - [ ] propane
+- [leadership](<leadership.md>), humility, empathy, communication, ability to remain cool, an ability to create a vital team
 - 
