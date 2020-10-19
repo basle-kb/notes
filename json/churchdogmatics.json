@@ -48419,26 +48419,6 @@
       {
         "children": [
           {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "mark.husbands@twu.ca",
-                    "create-time": 1603087056183,
-                    "edit-email": "mark.husbands@twu.ca",
-                    "edit-time": 1603087229325,
-                    "string": " It gives you an opportunity to contribute to the work of Canada's leading Global Christian University. ",
-                    "uid": "fKNLgiJET"
-                  }
-                ],
-                "create-email": "mark.husbands@twu.ca",
-                "create-time": 1603087036439,
-                "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1603087056188,
-                "string": "working at a Christian University is a unique, but I believe rewarding opportunity. ",
-                "uid": "YGOM-0VKQ"
-              }
-            ],
             "create-email": "mark.husbands@twu.ca",
             "create-time": 1603080631375,
             "edit-email": "mark.husbands@twu.ca",
@@ -48448,6 +48428,14 @@
           },
           {
             "children": [
+              {
+                "create-email": "mark.husbands@twu.ca",
+                "create-time": 1603120415311,
+                "edit-email": "mark.husbands@twu.ca",
+                "edit-time": 1603120426801,
+                "string": "^^Servant Leadership^^",
+                "uid": "y-8OGCd5z"
+              },
               {
                 "create-email": "mark.husbands@twu.ca",
                 "create-time": 1603080893506,
@@ -48520,8 +48508,8 @@
                 "create-email": "mark.husbands@twu.ca",
                 "create-time": 1603087012255,
                 "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1603087032126,
-                "string": "Breaking down silos. ",
+                "edit-time": 1603120479502,
+                "string": "Breaking down silos. \nan opportunity to work hard, in the service of vital goals, without needing to get the credit. ",
                 "uid": "z8W4YxO2Q"
               }
             ],
@@ -48537,24 +48525,54 @@
               {
                 "children": [
                   {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "edit-email": "mark.husbands@twu.ca",
+                                "edit-time": 1603086904791,
+                                "string": "\"The Christian University must set before students **a grand vision of the Christian narrative that encompasses all of life**. For if students are shuffled into career or professional placement counseling that mimics the same language and operates from the same paradigm as secular universities, the Christian university has failed...**A creative and redemptive Christian university must be different**.\"",
+                                "uid": "MVMCxr2xp"
+                              },
+                              {
+                                "edit-email": "mark.husbands@twu.ca",
+                                "edit-time": 1603086951740,
+                                "string": "It is this approach  to education that i am seeking to encourage here at Trinity. ",
+                                "uid": "2TICas3AX"
+                              }
+                            ],
+                            "create-email": "mark.husbands@twu.ca",
+                            "create-time": 1603086904785,
+                            "edit-email": "mark.husbands@twu.ca",
+                            "edit-time": 1603120546084,
+                            "string": "In a chapter titled, \"Joining our Work with God's Work, Ream and Glazer say the following: ",
+                            "uid": "-wpk-Q7NH"
+                          }
+                        ],
+                        "create-email": "mark.husbands@twu.ca",
+                        "create-time": 1603120540805,
+                        "edit-email": "mark.husbands@twu.ca",
+                        "edit-time": 1603120540805,
+                        "string": "how can they use their gifts to glorify God and make a difference in the world. ",
+                        "uid": "ODL-cE727"
+                      }
+                    ],
+                    "create-email": "mark.husbands@twu.ca",
+                    "create-time": 1603120523480,
                     "edit-email": "mark.husbands@twu.ca",
-                    "edit-time": 1603086904791,
-                    "string": "\"The Christian University must set before students **a grand vision of the Christian narrative that encompasses all of life**. For if students are shuffled into career or professional placement counseling that mimics the same language and operates from the same paradigm as secular universities, the Christian university has failed...**A creative and redemptive Christian university must be different**.\"",
-                    "uid": "MVMCxr2xp"
-                  },
-                  {
-                    "edit-email": "mark.husbands@twu.ca",
-                    "edit-time": 1603086951740,
-                    "string": "It is this approach  to education that i am seeking to encourage here at Trinity. ",
-                    "uid": "2TICas3AX"
+                    "edit-time": 1603120523480,
+                    "string": "we owe students a very different vision of life and flourishing:",
+                    "uid": "BaNj8We8w"
                   }
                 ],
                 "create-email": "mark.husbands@twu.ca",
-                "create-time": 1603086904785,
+                "create-time": 1603120497341,
                 "edit-email": "mark.husbands@twu.ca",
-                "edit-time": 1603086904785,
-                "string": "In a chapter titled, \"Joining our Work with God's Work, Ream and Glazer say the following: ",
-                "uid": "-wpk-Q7NH"
+                "edit-time": 1603120505910,
+                "string": "A. Creative and Redemptive Community",
+                "uid": "OZg9mjtD4"
               }
             ],
             "create-email": "mark.husbands@twu.ca",
