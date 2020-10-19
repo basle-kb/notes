@@ -1,5 +1,7 @@
 - [Welcome to New Staff](<Welcome to New Staff.md>)
-    - I. 
+    - I. Welcome
+        - working at a Christian University is a unique, but I believe rewarding opportunity. 
+            -  It gives you an opportunity to contribute to the work of Canada's leading Global Christian University. 
     - II. At a Christian University you have the opportunity to experience and share in a different kind of work environment and community:
         - "4 For just as each of us has one body with many members, and these members do not all have the same function,
         - 5 so **in Christ we, though many, form one body, and each member belongs to all the others.**
@@ -9,10 +11,12 @@
         - This passage reveals that as brothers and sisters in Christ, we have obligation to treat each other with profound respect. 
             - each of us have been given gifts by God
             - while each of us has been given __different gifts__, this passage reveals that each of our gifts are important and should be valued. 
-    - III. Peter Druck
+    - III. Peter Drucker, writes, "Culture eats Strategy for the Better"
+        - Breaking down silos. 
     - IV. What is Unique about a Christian University?
-        - Wriitn "The Christian University must set before students **a grand vision of the Christian narrative that encompasses all of life**. For if students are shuffled into career or professional placement counseling that mimics the same language and operates from the same paradigm as secular universities, the Christian university has failed...**A creative and redemptive Christian university must be different**."
-        - Ream and Glazer, “Joining our Work with God’s Work,” __The Idea of a Christian College__, 69.
+        - In a chapter titled, "Joining our Work with God's Work, Ream and Glazer say the following: 
+            - "The Christian University must set before students **a grand vision of the Christian narrative that encompasses all of life**. For if students are shuffled into career or professional placement counseling that mimics the same language and operates from the same paradigm as secular universities, the Christian university has failed...**A creative and redemptive Christian university must be different**."
+            - It is this approach  to education that i am seeking to encourage here at Trinity. 
 - 
 - 
 - 
