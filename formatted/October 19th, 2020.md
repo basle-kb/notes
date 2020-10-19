@@ -1,3 +1,23 @@
+- [Welcome to New Staff](<Welcome to New Staff.md>)
+    - I. 
+    - II. At a Christian University you have the opportunity to experience and share in a different kind of work environment and community:
+        - "4 For just as each of us has one body with many members, and these members do not all have the same function,
+        - 5 so **in Christ we, though many, form one body, and each member belongs to all the others.**
+        - 6 **We have different gifts, according to the grace given to each of us. **If your gift is prophesying, then prophesy in accordance with your faith;
+        - 7 if it is serving, then serve; if it is teaching, then teach;
+        - 8 if it is to encourage, then give encouragement; if it is giving, then give generously; if it is to lead, do it diligently; if it is to show mercy, do it cheerfully." Romans 12:4-8
+        - This passage reveals that as brothers and sisters in Christ, we have obligation to treat each other with profound respect. 
+            - each of us have been given gifts by God
+            - while each of us has been given __different gifts__, this passage reveals that each of our gifts are important and should be valued. 
+    - III. Peter Druck
+    - IV. What is Unique about a Christian University?
+        - Wriitn "The Christian University must set before students **a grand vision of the Christian narrative that encompasses all of life**. For if students are shuffled into career or professional placement counseling that mimics the same language and operates from the same paradigm as secular universities, the Christian university has failed...**A creative and redemptive Christian university must be different**."
+        - Ream and Glazer, “Joining our Work with God’s Work,” __The Idea of a Christian College__, 69.
+- 
+- 
+- 
+- 
+- 
 
 # Backlinks
 ## [October 16th, 2020](<October 16th, 2020.md>)
