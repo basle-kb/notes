@@ -20,6 +20,16 @@ an opportunity to work hard, in the service of vital goals, without needing to g
                     - In a chapter titled, "Joining our Work with God's Work, Ream and Glazer say the following: 
                         - "The Christian University must set before students **a grand vision of the Christian narrative that encompasses all of life**. For if students are shuffled into career or professional placement counseling that mimics the same language and operates from the same paradigm as secular universities, the Christian university has failed...**A creative and redemptive Christian university must be different**."
                         - It is this approach  to education that i am seeking to encourage here at Trinity. 
+- Outline here, follow up information will be added below.
+- 1.      Board Report
+- 2.      Rhodes Scholar App – Jordan Koslowsky
+- 3.      Welcome message for Commencement Program
+- 4.      New Student Admit Letter
+- 5.      Text for the Cultural Intelligence training invites
+- 6.      Finalize Job Description – Phil Laird
+- 7.      HR Items
+- 8.      Development Items
+- 9.      Scripts for Fall grad – filming next Saturday
 - 
 - 
 - 
