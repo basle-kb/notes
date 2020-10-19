@@ -1,6 +1,5 @@
 - [[2020]]
-    - [[Week 41: October 12-18]]
-    - [[Week 42: October 19-25]]
+    - [[  📅 Week 42: October 19-25]]
     - [[Week 43: October 26-Nov 1]]
 - ___________________________
 - **2020-Archive**
@@ -124,4 +123,4 @@
                 - 9am [[First Destination Survey]]
                 - 10am [[Institutional Research & Analysis]]
             - 
-    - 
+    - [[Week 41: October 12-18]]

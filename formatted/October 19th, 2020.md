@@ -27,6 +27,9 @@ an opportunity to work hard, in the service of vital goals, without needing to g
 - 
 
 # Backlinks
+## [  📅 Week 42: October 19-25](<  📅 Week 42: October 19-25.md>)
+- [October 19th, 2020](<October 19th, 2020.md>)
+
 ## [October 16th, 2020](<October 16th, 2020.md>)
 - [ ] Christian will send me a brief Memo for Universities Canada on [October 19th, 2020](<October 19th, 2020.md>)
 

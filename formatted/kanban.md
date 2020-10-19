@@ -5,6 +5,9 @@
 
 - {{[kanban](<kanban.md>)}
 
+## [  📅 Week 42: October 19-25](<  📅 Week 42: October 19-25.md>)
+- {{[kanban](<kanban.md>)}
+
 ## [ELT Typeform Survey -- October 14, 2020](<ELT Typeform Survey -- October 14, 2020.md>)
 - {{[kanban](<kanban.md>)}
 

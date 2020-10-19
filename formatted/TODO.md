@@ -16,6 +16,9 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [  📅 Week 42: October 19-25](<  📅 Week 42: October 19-25.md>)
+- {{[TODO](<TODO.md>)}
+
 ## [1:1 Meeting - Naomi Lomavatu ](<1:1 Meeting - Naomi Lomavatu .md>)
 - {{[TODO](<TODO.md>)}
 
