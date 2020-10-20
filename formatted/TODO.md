@@ -39,21 +39,21 @@
 - {{[TODO](<TODO.md>)}
 
 ## [August 19th, 2020](<August 19th, 2020.md>)
-{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -249,7 +249,7 @@
 ## [October 1st, 2020](<October 1st, 2020.md>)
 {{[TODO](<TODO.md>)}
 
-{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - {{[TODO](<TODO.md>)}
@@ -430,5 +430,5 @@
 
 {{[TODO](<TODO.md>)}
 
-{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 

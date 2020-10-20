@@ -1,7 +1,7 @@
 P.A.R.A. Tiago Forte
-    Productivity Platform and method
-    Author of "building a Second Brain"
-    Forte Labs
+    - Productivity Platform and method
+    - Author of "building a Second Brain"
+    - Forte Labs
 Projects, Areas, Resources, Archives
 {[x] }} Send Bob videos from Redeemer
 [ ] review Phil's Job Description

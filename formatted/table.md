@@ -9,5 +9,5 @@
 - {{[table](<table.md>)}
 
 ## [P: Faculty Faith & Learning](<P: Faculty Faith & Learning.md>)
-{{[table](<table.md>)}
+- {{[table](<table.md>)}
 

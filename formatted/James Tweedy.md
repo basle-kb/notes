@@ -10,9 +10,9 @@
 - [James Tweedy](<James Tweedy.md>)
 
 ## [Week 40: October 5 - 11](<Week 40: October 5 - 11.md>)
-with: [Winnie Lui](<Winnie Lui.md>), [James Tweedy](<James Tweedy.md>),
+- with: [Winnie Lui](<Winnie Lui.md>), [James Tweedy](<James Tweedy.md>),
 
-with [Jeff Gamache](<Jeff Gamache.md>) and [James Tweedy](<James Tweedy.md>)
+- with [Jeff Gamache](<Jeff Gamache.md>) and [James Tweedy](<James Tweedy.md>)
 
-[Winnie Lui](<Winnie Lui.md>), [James Tweedy](<James Tweedy.md>),
+- [Winnie Lui](<Winnie Lui.md>), [James Tweedy](<James Tweedy.md>),
 

@@ -14,17 +14,17 @@ Oh nothing just playing Duke Nukem in Roam
 [Getting started with Roam](https://www.roamtips.com/home/getting-started-with-roam-research)
 
 [[Ness Labs - Roam Tips]] 
-    https://nesslabs.com/roam-research-workflow-tips#more-8602
-    
-    If you want to learn more shortcuts for Roam, I highly recommend you watch these two videos: part 1 / part 2.__ — via [10 ways to speed up your Roam Research workflow - Ness Labs](https://nesslabs.com/roam-research-workflow-tips#more-8602) [[+Roam]]
+    - https://nesslabs.com/roam-research-workflow-tips#more-8602
+    - 
+    - If you want to learn more shortcuts for Roam, I highly recommend you watch these two videos: part 1 / part 2.__ — via [10 ways to speed up your Roam Research workflow - Ness Labs](https://nesslabs.com/roam-research-workflow-tips#more-8602) [[+Roam]]
 **Shu: learning how to coordinate with [[Zotero]]
-    ____ — via [How to Take Smart Notes from Podcasts - with Roam Research and Zotero - YouTube](https://www.youtube.com/watch?v=eXXGpFe0LT4) [[+Roam]]
+    - ____ — via [How to Take Smart Notes from Podcasts - with Roam Research and Zotero - YouTube](https://www.youtube.com/watch?v=eXXGpFe0LT4) [[+Roam]]
 
 **Beginner's guides to Roam**
-    __A beginner’s guide to Roam Research: getting started in 5 easy steps
-    __ — via [A beginner's guide to Roam Research: gettings started in 5 easy steps](https://nesslabs.com/roam-research-beginner-guide)
+    - __A beginner’s guide to Roam Research: getting started in 5 easy steps
+    - __ — via [A beginner's guide to Roam Research: gettings started in 5 easy steps](https://nesslabs.com/roam-research-beginner-guide)
 [[Zotero]]
-    ____ — via [Zotero | Why Zotero?](https://www.zotero.org/why) [[+Roam]]
+    - ____ — via [Zotero | Why Zotero?](https://www.zotero.org/why) [[+Roam]]
 __Roam Demo Videos__ — via [Roam Demo Videos](https://roamresearch.com/#/app/help/page/k5RxbGuJN)
 
 __Make the most of shortcuts

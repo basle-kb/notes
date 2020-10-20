@@ -11,7 +11,7 @@
 - [Winnie Lui](<Winnie Lui.md>)’
 
 ## [Week 40: October 5 - 11](<Week 40: October 5 - 11.md>)
-with: [Winnie Lui](<Winnie Lui.md>),
+- with: [Winnie Lui](<Winnie Lui.md>),
 
-[Winnie Lui](<Winnie Lui.md>),
+- [Winnie Lui](<Winnie Lui.md>),
 

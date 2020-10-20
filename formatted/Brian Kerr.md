@@ -12,5 +12,5 @@
 - [Bob Wood](<Bob Wood.md>), [Brian Kerr](<Brian Kerr.md>),
 
 ## [Week 40: October 5 - 11](<Week 40: October 5 - 11.md>)
-meeting with [Phil Laird](<Phil Laird.md>), [Brian Kerr](<Brian Kerr.md>),
+- meeting with [Phil Laird](<Phil Laird.md>), [Brian Kerr](<Brian Kerr.md>),
 

@@ -48,7 +48,7 @@ people who influence the various contexts into which they are called.
 
 # Backlinks
 ## [P: Faculty Faith & Learning](<P: Faculty Faith & Learning.md>)
-[Student Learning Outcomes](<Student Learning Outcomes.md>)
+- [Student Learning Outcomes](<Student Learning Outcomes.md>)
 
 ## [Test](<Test.md>)
 - "[Student Learning Outcomes](<Student Learning Outcomes.md>)"

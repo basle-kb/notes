@@ -20,5 +20,5 @@
 
 # Backlinks
 ## [Vision Statement & Strategy](<Vision Statement & Strategy.md>)
-[Draft of TWU Vision Statements](<Draft of TWU Vision Statements.md>)
+- [Draft of TWU Vision Statements](<Draft of TWU Vision Statements.md>)
 

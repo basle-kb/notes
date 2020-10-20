@@ -27,7 +27,7 @@
 - [Naomi Lomavatu](<Naomi Lomavatu.md>)'
 
 ## [Week 40: October 5 - 11](<Week 40: October 5 - 11.md>)
-with: [Winnie Lui](<Winnie Lui.md>), [James Tweedy](<James Tweedy.md>), [Naomi Lomavatu](<Naomi Lomavatu.md>)
+- with: [Winnie Lui](<Winnie Lui.md>), [James Tweedy](<James Tweedy.md>), [Naomi Lomavatu](<Naomi Lomavatu.md>)
 
-[Winnie Lui](<Winnie Lui.md>), [James Tweedy](<James Tweedy.md>), [Naomi Lomavatu](<Naomi Lomavatu.md>)
+- [Winnie Lui](<Winnie Lui.md>), [James Tweedy](<James Tweedy.md>), [Naomi Lomavatu](<Naomi Lomavatu.md>)
 
